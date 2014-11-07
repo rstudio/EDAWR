@@ -1,0 +1,7 @@
+"city","type","value"
+"New York","PM_10",23
+"New York","PM_2.5",14
+"London","PM_10",22
+"London","PM_2.5",16
+"Beijing","PM_10",121
+"Beijing","PM_2.5",56

@@ -1,0 +1,13 @@
+Package: EDAWR
+Title: Expert Data Analysis with R
+Version: 0.1
+Authors@R: 'Garrett Grolemund <garrett@rstudio.com> [aut,cre]'
+Description: Data sets for Expert Data Analysis with R,
+    a workshop by RStudio.
+Depends:
+    R (>= 3.1.0)
+License: CC0
+LazyData: true
+Suggests:
+    
+URL: http://github.com/rstudio/EDAWR
