@@ -6,9 +6,9 @@
 #'
 #' @format A data frame with variables:
 #' \describe{
-#' \item{city}{Name of city: New Yourk, London, or Beijing}
-#' \item{type}{Type of air particulate measured. Fine suspended particles smaller than 10 microns in diameter (\code{PM_10}) and 2.5 microns in diameter (\code{PM_2.5}).}
-#' \item{value}{The mean annual concentration of particles in milligrams per meter cubed (ug/m3)}
+#' \item{city}{Name of city: New York, London, or Beijing}
+#' \item{Size}{Size of air particulate measured. Fine suspended particles smaller than 10 microns in diameter (\code{large}) and 2.5 microns in diameter (\code{small}).}
+#' \item{amount}{The mean annual concentration of particles in milligrams per meter cubed (ug/m3)}
 #' }
 #'
 #' @source \url{http://www.who.int/phe/health_topics/outdoorair/databases/cities/en/}
@@ -23,7 +23,7 @@
 #'
 #' @format A data frame with variables:
 #' \describe{
-#' \item{name}{Name of hurricane: Alberto, Alex, Allison, Ana, Arlene, Arthur.}
+#' \item{storm}{Name of hurricane: Alberto, Alex, Allison, Ana, Arlene, Arthur.}
 #' \item{max_wind}{Maximum wind speed measured for each hurricane (in miles per hour).}
 #' \item{date}{Date maximum wind speed was observed.}
 #' }

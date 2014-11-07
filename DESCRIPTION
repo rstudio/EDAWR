@@ -9,4 +9,5 @@ Depends:
 License: CC0
 LazyData: true
 Suggests:
+    
 URL: http://github.com/rstudio/EDAWR
