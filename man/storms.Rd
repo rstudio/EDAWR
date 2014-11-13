@@ -6,7 +6,8 @@
 \format{A data frame with variables:
 \describe{
 \item{storm}{Name of hurricane: Alberto, Alex, Allison, Ana, Arlene, Arthur.}
-\item{max_wind}{Maximum wind speed measured for each hurricane (in miles per hour).}
+\item{wind}{Maximum wind speed measured for each hurricane (in miles per hour).}
+\item{pressure}{Air pressure in the storm's center (in millibars).}
 \item{date}{Date maximum wind speed was observed.}
 }}
 \source{

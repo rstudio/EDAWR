@@ -3,9 +3,15 @@
 \name{tb}
 \alias{tb}
 \title{TB data}
-\format{A dataset with the estimated number of TB cases in
-France, Germany, and the United States for 2011, 2012, and
-2013.}
+\format{A dataset with the variables
+\describe{
+\item{country}{}
+\item{year}{}
+\item{sex}{}
+\item{child}{Number of new cases reported among people 0 - 14 years of age.}
+\item{adult}{Number of new cases reported among people 15 - 64 years of age.}
+\item{elderly}{Number of new cases reported among people over 64 years of age.}
+}}
 \source{
 \url{http://www.who.int/tb/country/data/download/en/}
 }

@@ -24,7 +24,8 @@
 #' @format A data frame with variables:
 #' \describe{
 #' \item{storm}{Name of hurricane: Alberto, Alex, Allison, Ana, Arlene, Arthur.}
-#' \item{max_wind}{Maximum wind speed measured for each hurricane (in miles per hour).}
+#' \item{wind}{Maximum wind speed measured for each hurricane (in miles per hour).}
+#' \item{pressure}{Air pressure in the storm's center (in millibars).}
 #' \item{date}{Date maximum wind speed was observed.}
 #' }
 #'
@@ -32,7 +33,7 @@
 #'
 "storms"
 
-#' TB data
+#' TB cases in USA, Germany, and France
 #'
 #' A subset of data from the World Health Organization Global 
 #' Tuberculosis Report.
@@ -40,6 +41,26 @@
 #' @format A dataset with the estimated number of TB cases in 
 #' France, Germany, and the United States for 2011, 2012, and 
 #' 2013. 
+#' 
+#' @source \url{http://www.who.int/tb/country/data/download/en/}
+#'
+"cases"
+
+
+#' TB data
+#'
+#' A subset of data from the World Health Organization Global 
+#' Tuberculosis Report.
+#'
+#' @format A dataset with the variables
+#' \describe{
+#' \item{country}{}
+#' \item{year}{}
+#' \item{sex}{}
+#' \item{child}{Number of new cases reported among people 0 - 14 years of age.}
+#' \item{adult}{Number of new cases reported among people 15 - 64 years of age.}
+#' \item{elderly}{Number of new cases reported among people over 64 years of age.}
+#' }
 #' 
 #' @source \url{http://www.who.int/tb/country/data/download/en/}
 #'

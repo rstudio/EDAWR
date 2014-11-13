@@ -1,4 +1,3801 @@
-"country","2011","2012","2013"
-"FR",7000,6900,7000
-"DE",5800,6000,6200
-"US",15000,14000,13000
+"country","year","sex","adult","child","elderly"
+"Afghanistan",1995,"female",NA,NA,NA
+"Afghanistan",1995,"male",NA,NA,NA
+"Afghanistan",1996,"female",NA,NA,NA
+"Afghanistan",1996,"male",NA,NA,NA
+"Afghanistan",1997,"female",96,5,1
+"Afghanistan",1997,"male",26,0,0
+"Afghanistan",1998,"female",1142,45,20
+"Afghanistan",1998,"male",500,30,41
+"Afghanistan",1999,"female",484,25,8
+"Afghanistan",1999,"male",212,8,8
+"Afghanistan",2000,"female",1622,93,36
+"Afghanistan",2000,"male",783,52,80
+"Afghanistan",2001,"female",2827,146,89
+"Afghanistan",2001,"male",1345,129,103
+"Afghanistan",2002,"female",4008,192,218
+"Afghanistan",2002,"male",1812,90,189
+"Afghanistan",2003,"female",4020,245,158
+"Afghanistan",2003,"male",1775,127,203
+"Afghanistan",2004,"female",5075,256,256
+"Afghanistan",2004,"male",2209,139,310
+"Afghanistan",2005,"female",6252,320,246
+"Afghanistan",2005,"male",2561,151,419
+"Afghanistan",2006,"female",7769,442,309
+"Afghanistan",2006,"male",3346,193,410
+"Afghanistan",2007,"female",8203,475,353
+"Afghanistan",2007,"male",3489,186,507
+"Afghanistan",2008,"female",8123,428,364
+"Afghanistan",2008,"male",3459,187,575
+"Afghanistan",2009,"female",7678,439,419
+"Afghanistan",2009,"male",3197,200,570
+"Afghanistan",2010,"female",7768,445,488
+"Afghanistan",2010,"male",3427,197,622
+"Afghanistan",2011,"female",8105,1316,535
+"Afghanistan",2011,"male",3788,1106,692
+"Afghanistan",2012,"female",7966,1590,505
+"Afghanistan",2012,"male",3609,1453,651
+"Afghanistan",2013,"female",NA,1749,NA
+"Afghanistan",2013,"male",NA,1705,NA
+"Algeria",1995,"female",NA,NA,NA
+"Algeria",1995,"male",NA,NA,NA
+"Algeria",1996,"female",NA,NA,NA
+"Algeria",1996,"male",NA,NA,NA
+"Algeria",1997,"female",2687,92,356
+"Algeria",1997,"male",4712,659,396
+"Algeria",1998,"female",NA,NA,NA
+"Algeria",1998,"male",NA,NA,NA
+"Algeria",1999,"female",2250,92,329
+"Algeria",1999,"male",4062,40,315
+"Algeria",2000,"female",3566,36,312
+"Algeria",2000,"male",3778,59,299
+"Algeria",2001,"female",2758,79,334
+"Algeria",2001,"male",4351,41,390
+"Algeria",2002,"female",3345,71,258
+"Algeria",2002,"male",4253,39,280
+"Algeria",2003,"female",2528,74,356
+"Algeria",2003,"male",4315,40,328
+"Algeria",2004,"female",2609,92,359
+"Algeria",2004,"male",4483,63,373
+"Algeria",2005,"female",2752,102,465
+"Algeria",2005,"male",4856,53,426
+"Algeria",2006,"female",2409,80,408
+"Algeria",2006,"male",4098,41,360
+"Algeria",2007,"female",2697,109,391
+"Algeria",2007,"male",4740,95,407
+"Algeria",2008,"female",2918,150,286
+"Algeria",2008,"male",4730,99,463
+"Algeria",2009,"female",2755,90,340
+"Algeria",2009,"male",4810,43,364
+"Algeria",2010,"female",2802,79,367
+"Algeria",2010,"male",4602,52,397
+"Algeria",2011,"female",2633,58,341
+"Algeria",2011,"male",4369,42,347
+"Algeria",2012,"female",2499,60,329
+"Algeria",2012,"male",4244,29,349
+"Algeria",2013,"female",2417,50,352
+"Algeria",2013,"male",3871,25,409
+"Angola",1995,"female",1792,371,18
+"Angola",1995,"male",2011,386,14
+"Angola",1996,"female",3256,388,113
+"Angola",1996,"male",3730,360,169
+"Angola",1997,"female",3444,431,145
+"Angola",1997,"male",3569,419,193
+"Angola",1998,"female",3165,297,92
+"Angola",1998,"male",3393,240,135
+"Angola",1999,"female",3788,459,194
+"Angola",1999,"male",4176,391,234
+"Angola",2000,"female",3694,247,120
+"Angola",2000,"male",3708,186,194
+"Angola",2001,"female",3032,279,182
+"Angola",2001,"male",2909,230,173
+"Angola",2002,"female",7923,640,305
+"Angola",2002,"male",8241,435,444
+"Angola",2003,"female",9018,591,129
+"Angola",2003,"male",8463,409,361
+"Angola",2004,"female",9358,733,269
+"Angola",2004,"male",9098,554,321
+"Angola",2005,"female",9124,704,417
+"Angola",2005,"male",9184,520,461
+"Angola",2006,"female",9539,689,314
+"Angola",2006,"male",9989,540,428
+"Angola",2007,"female",9071,703,367
+"Angola",2007,"male",10332,484,465
+"Angola",2008,"female",9832,512,337
+"Angola",2008,"male",11094,367,420
+"Angola",2009,"female",9381,568,272
+"Angola",2009,"male",11412,392,463
+"Angola",2010,"female",8485,558,286
+"Angola",2010,"male",11014,448,355
+"Angola",2011,"female",8440,2937,346
+"Angola",2011,"male",11253,3003,455
+"Angola",2012,"female",8215,592,384
+"Angola",2012,"male",11119,390,424
+"Angola",2013,"female",8267,626,314
+"Angola",2013,"male",11582,486,386
+"Argentina",1995,"female",NA,NA,NA
+"Argentina",1995,"male",NA,NA,NA
+"Argentina",1996,"female",2828,107,463
+"Argentina",1996,"male",1990,113,286
+"Argentina",1997,"female",1852,133,234
+"Argentina",1997,"male",2609,96,393
+"Argentina",1998,"female",1763,94,276
+"Argentina",1998,"male",2475,84,370
+"Argentina",1999,"female",1623,108,249
+"Argentina",1999,"male",2319,90,380
+"Argentina",2000,"female",1694,121,216
+"Argentina",2000,"male",2061,97,330
+"Argentina",2001,"female",1995,85,249
+"Argentina",2001,"male",2663,78,436
+"Argentina",2002,"female",1943,117,255
+"Argentina",2002,"male",2599,70,399
+"Argentina",2003,"female",1756,99,231
+"Argentina",2003,"male",2379,89,405
+"Argentina",2004,"female",1673,98,237
+"Argentina",2004,"male",2249,64,345
+"Argentina",2005,"female",1661,90,240
+"Argentina",2005,"male",2233,64,348
+"Argentina",2006,"female",2488,455,415
+"Argentina",2006,"male",3458,493,599
+"Argentina",2007,"female",2931,585,485
+"Argentina",2007,"male",4124,680,571
+"Argentina",2008,"female",2861,512,393
+"Argentina",2008,"male",4110,537,546
+"Argentina",2009,"female",2334,304,341
+"Argentina",2009,"male",3293,338,511
+"Argentina",2010,"female",2266,262,329
+"Argentina",2010,"male",3219,269,482
+"Argentina",2011,"female",3046,474,365
+"Argentina",2011,"male",4315,540,479
+"Argentina",2012,"female",3760,410,520
+"Argentina",2012,"male",2812,421,327
+"Argentina",2013,"female",2974,431,374
+"Argentina",2013,"male",4160,462,491
+"Azerbaijan",1995,"female",23,0,0
+"Azerbaijan",1995,"male",66,0,1
+"Azerbaijan",1996,"female",289,5,10
+"Azerbaijan",1996,"male",738,0,16
+"Azerbaijan",1997,"female",313,0,0
+"Azerbaijan",1997,"male",659,0,3
+"Azerbaijan",1998,"female",31,0,0
+"Azerbaijan",1998,"male",128,0,2
+"Azerbaijan",1999,"female",171,0,0
+"Azerbaijan",1999,"male",592,0,0
+"Azerbaijan",2000,"female",15,0,0
+"Azerbaijan",2000,"male",138,0,0
+"Azerbaijan",2001,"female",NA,2,NA
+"Azerbaijan",2001,"male",NA,3,NA
+"Azerbaijan",2002,"female",269,5,21
+"Azerbaijan",2002,"male",1344,6,16
+"Azerbaijan",2003,"female",268,1,5
+"Azerbaijan",2003,"male",864,3,20
+"Azerbaijan",2004,"female",309,8,24
+"Azerbaijan",2004,"male",1040,8,83
+"Azerbaijan",2005,"female",265,90,24
+"Azerbaijan",2005,"male",1017,77,88
+"Azerbaijan",2006,"female",746,64,31
+"Azerbaijan",2006,"male",3340,153,95
+"Azerbaijan",2007,"female",NA,NA,NA
+"Azerbaijan",2007,"male",NA,NA,NA
+"Azerbaijan",2008,"female",NA,NA,NA
+"Azerbaijan",2008,"male",NA,NA,NA
+"Azerbaijan",2009,"female",292,113,19
+"Azerbaijan",2009,"male",798,158,30
+"Azerbaijan",2010,"female",1110,92,58
+"Azerbaijan",2010,"male",3262,152,118
+"Azerbaijan",2011,"female",365,80,3
+"Azerbaijan",2011,"male",559,106,17
+"Azerbaijan",2012,"female",1167,93,63
+"Azerbaijan",2012,"male",3022,119,152
+"Azerbaijan",2013,"female",1093,90,75
+"Azerbaijan",2013,"male",3021,125,124
+"Bangladesh",1995,"female",1583,64,38
+"Bangladesh",1995,"male",3885,29,424
+"Bangladesh",1996,"female",1950,89,41
+"Bangladesh",1996,"male",4954,45,472
+"Bangladesh",1997,"female",7821,328,236
+"Bangladesh",1997,"male",19705,201,2003
+"Bangladesh",1998,"female",9999,438,324
+"Bangladesh",1998,"male",24039,254,2569
+"Bangladesh",1999,"female",10236,405,333
+"Bangladesh",1999,"male",23740,259,2701
+"Bangladesh",2000,"female",10607,495,370
+"Bangladesh",2000,"male",23418,256,2837
+"Bangladesh",2001,"female",11445,428,371
+"Bangladesh",2001,"male",24921,283,3039
+"Bangladesh",2002,"female",12910,575,865
+"Bangladesh",2002,"male",28290,449,3682
+"Bangladesh",2003,"female",15074,544,591
+"Bangladesh",2003,"male",32947,320,4142
+"Bangladesh",2004,"female",17660,589,718
+"Bangladesh",2004,"male",37969,420,5144
+"Bangladesh",2005,"female",25340,751,1230
+"Bangladesh",2005,"male",49550,524,7453
+"Bangladesh",2006,"female",44522,2216,2444
+"Bangladesh",2006,"male",77228,1963,12575
+"Bangladesh",2007,"female",31681,829,1818
+"Bangladesh",2007,"male",59615,523,9830
+"Bangladesh",2008,"female",61900,3679,3466
+"Bangladesh",2008,"male",98653,3263,16510
+"Bangladesh",2009,"female",NA,1719,NA
+"Bangladesh",2009,"male",NA,1747,NA
+"Bangladesh",2010,"female",49578,2244,3230
+"Bangladesh",2010,"male",78580,1991,15233
+"Bangladesh",2011,"female",49267,2454,3322
+"Bangladesh",2011,"male",75810,2213,15132
+"Bangladesh",2012,"female",55260,2592,4014
+"Bangladesh",2012,"male",81086,2250,16588
+"Bangladesh",2013,"female",63474,2728,5172
+"Bangladesh",2013,"male",87746,2323,20194
+"Belarus",1995,"female",NA,NA,NA
+"Belarus",1995,"male",NA,NA,NA
+"Belarus",1996,"female",NA,NA,NA
+"Belarus",1996,"male",NA,NA,NA
+"Belarus",1997,"female",NA,NA,NA
+"Belarus",1997,"male",NA,NA,NA
+"Belarus",1998,"female",NA,NA,NA
+"Belarus",1998,"male",NA,NA,NA
+"Belarus",1999,"female",NA,NA,NA
+"Belarus",1999,"male",NA,NA,NA
+"Belarus",2000,"female",NA,NA,NA
+"Belarus",2000,"male",NA,NA,NA
+"Belarus",2001,"female",NA,4,NA
+"Belarus",2001,"male",NA,2,NA
+"Belarus",2002,"female",96,0,41
+"Belarus",2002,"male",650,0,51
+"Belarus",2003,"female",147,0,45
+"Belarus",2003,"male",766,0,60
+"Belarus",2004,"female",153,1,67
+"Belarus",2004,"male",832,NA,56
+"Belarus",2005,"female",182,NA,62
+"Belarus",2005,"male",929,NA,62
+"Belarus",2006,"female",1208,28,247
+"Belarus",2006,"male",3346,33,280
+"Belarus",2007,"female",1177,15,274
+"Belarus",2007,"male",3119,16,271
+"Belarus",2008,"female",1090,21,240
+"Belarus",2008,"male",2996,17,270
+"Belarus",2009,"female",371,5,123
+"Belarus",2009,"male",1043,6,83
+"Belarus",2010,"female",1031,19,255
+"Belarus",2010,"male",2848,12,180
+"Belarus",2011,"female",936,15,215
+"Belarus",2011,"male",2698,11,168
+"Belarus",2012,"female",910,16,226
+"Belarus",2012,"male",2512,5,173
+"Belarus",2013,"female",968,10,256
+"Belarus",2013,"male",3006,4,226
+"Benin",1995,"female",564,26,22
+"Benin",1995,"male",1121,14,92
+"Benin",1996,"female",611,34,21
+"Benin",1996,"male",1108,17,77
+"Benin",1997,"female",604,26,26
+"Benin",1997,"male",1153,20,107
+"Benin",1998,"female",694,15,19
+"Benin",1998,"male",1169,20,71
+"Benin",1999,"female",727,28,30
+"Benin",1999,"male",1318,14,85
+"Benin",2000,"female",784,36,25
+"Benin",2000,"male",1348,19,74
+"Benin",2001,"female",803,22,15
+"Benin",2001,"male",1350,18,85
+"Benin",2002,"female",845,35,24
+"Benin",2002,"male",1397,16,94
+"Benin",2003,"female",820,32,25
+"Benin",2003,"male",1445,20,92
+"Benin",2004,"female",882,43,24
+"Benin",2004,"male",1535,16,82
+"Benin",2005,"female",865,25,39
+"Benin",2005,"male",1702,21,87
+"Benin",2006,"female",988,32,41
+"Benin",2006,"male",1758,18,106
+"Benin",2007,"female",880,25,40
+"Benin",2007,"male",1714,22,89
+"Benin",2008,"female",955,38,30
+"Benin",2008,"male",1823,20,100
+"Benin",2009,"female",962,39,37
+"Benin",2009,"male",1791,32,99
+"Benin",2010,"female",987,29,35
+"Benin",2010,"male",1819,18,85
+"Benin",2011,"female",1080,41,52
+"Benin",2011,"male",2030,21,107
+"Benin",2012,"female",1001,39,46
+"Benin",2012,"male",1941,23,121
+"Benin",2013,"female",1015,23,28
+"Benin",2013,"male",1918,25,120
+"Bolivia (Plurinational State of)",1995,"female",NA,NA,NA
+"Bolivia (Plurinational State of)",1995,"male",NA,NA,NA
+"Bolivia (Plurinational State of)",1996,"female",2372,172,175
+"Bolivia (Plurinational State of)",1996,"male",3728,178,324
+"Bolivia (Plurinational State of)",1997,"female",2197,202,187
+"Bolivia (Plurinational State of)",1997,"male",3404,150,318
+"Bolivia (Plurinational State of)",1998,"female",2059,202,230
+"Bolivia (Plurinational State of)",1998,"male",3570,167,353
+"Bolivia (Plurinational State of)",1999,"female",2172,225,222
+"Bolivia (Plurinational State of)",1999,"male",3432,222,400
+"Bolivia (Plurinational State of)",2000,"female",2199,191,233
+"Bolivia (Plurinational State of)",2000,"male",3303,166,366
+"Bolivia (Plurinational State of)",2001,"female",2301,241,283
+"Bolivia (Plurinational State of)",2001,"male",3327,165,355
+"Bolivia (Plurinational State of)",2002,"female",2349,281,295
+"Bolivia (Plurinational State of)",2002,"male",3287,231,386
+"Bolivia (Plurinational State of)",2003,"female",2093,167,305
+"Bolivia (Plurinational State of)",2003,"male",3181,156,442
+"Bolivia (Plurinational State of)",2004,"female",2011,151,281
+"Bolivia (Plurinational State of)",2004,"male",3210,161,399
+"Bolivia (Plurinational State of)",2005,"female",2063,160,262
+"Bolivia (Plurinational State of)",2005,"male",3221,157,415
+"Bolivia (Plurinational State of)",2006,"female",1803,179,241
+"Bolivia (Plurinational State of)",2006,"male",3040,127,398
+"Bolivia (Plurinational State of)",2007,"female",1787,125,259
+"Bolivia (Plurinational State of)",2007,"male",2759,116,354
+"Bolivia (Plurinational State of)",2008,"female",1940,147,251
+"Bolivia (Plurinational State of)",2008,"male",3153,128,429
+"Bolivia (Plurinational State of)",2009,"female",2404,210,398
+"Bolivia (Plurinational State of)",2009,"male",3895,178,594
+"Bolivia (Plurinational State of)",2010,"female",2468,231,386
+"Bolivia (Plurinational State of)",2010,"male",3980,250,622
+"Bolivia (Plurinational State of)",2011,"female",2448,277,394
+"Bolivia (Plurinational State of)",2011,"male",4083,235,673
+"Bolivia (Plurinational State of)",2012,"female",2520,201,350
+"Bolivia (Plurinational State of)",2012,"male",3924,208,608
+"Bolivia (Plurinational State of)",2013,"female",2522,212,403
+"Bolivia (Plurinational State of)",2013,"male",4239,223,728
+"Botswana",1995,"female",NA,NA,NA
+"Botswana",1995,"male",NA,NA,NA
+"Botswana",1996,"female",NA,NA,NA
+"Botswana",1996,"male",NA,NA,NA
+"Botswana",1997,"female",988,28,35
+"Botswana",1997,"male",1511,29,95
+"Botswana",1998,"female",NA,NA,NA
+"Botswana",1998,"male",NA,NA,NA
+"Botswana",1999,"female",1053,46,37
+"Botswana",1999,"male",1608,18,93
+"Botswana",2000,"female",1221,37,36
+"Botswana",2000,"male",1680,25,96
+"Botswana",2001,"female",1292,33,23
+"Botswana",2001,"male",1623,15,73
+"Botswana",2002,"female",1447,45,26
+"Botswana",2002,"male",1718,17,84
+"Botswana",2003,"female",1294,32,43
+"Botswana",2003,"male",1581,22,78
+"Botswana",2004,"female",1354,49,36
+"Botswana",2004,"male",1564,29,96
+"Botswana",2005,"female",1217,45,48
+"Botswana",2005,"male",1736,27,97
+"Botswana",2006,"female",1280,54,38
+"Botswana",2006,"male",1740,36,104
+"Botswana",2007,"female",1201,46,37
+"Botswana",2007,"male",1611,25,82
+"Botswana",2008,"female",3055,344,125
+"Botswana",2008,"male",3691,342,269
+"Botswana",2009,"female",2995,421,130
+"Botswana",2009,"male",3721,432,267
+"Botswana",2010,"female",2526,279,136
+"Botswana",2010,"male",3148,244,227
+"Botswana",2011,"female",2324,234,113
+"Botswana",2011,"male",2708,240,246
+"Botswana",2012,"female",2262,271,100
+"Botswana",2012,"male",2667,264,221
+"Botswana",2013,"female",2498,258,167
+"Botswana",2013,"male",3285,298,328
+"Brazil",1995,"female",NA,NA,NA
+"Brazil",1995,"male",NA,NA,NA
+"Brazil",1996,"female",NA,NA,NA
+"Brazil",1996,"male",NA,NA,NA
+"Brazil",1997,"female",NA,NA,NA
+"Brazil",1997,"male",NA,NA,NA
+"Brazil",1998,"female",NA,NA,NA
+"Brazil",1998,"male",NA,NA,NA
+"Brazil",1999,"female",11683,372,1106
+"Brazil",1999,"male",22154,301,2121
+"Brazil",2000,"female",25295,1859,2496
+"Brazil",2000,"male",44450,1894,4494
+"Brazil",2001,"female",11982,516,1018
+"Brazil",2001,"male",21813,468,1694
+"Brazil",2002,"female",12902,380,535
+"Brazil",2002,"male",24482,344,2080
+"Brazil",2003,"female",12341,401,1022
+"Brazil",2003,"male",23680,382,2057
+"Brazil",2004,"female",13095,375,1189
+"Brazil",2004,"male",25716,337,2169
+"Brazil",2005,"female",12794,355,1104
+"Brazil",2005,"male",25383,317,2140
+"Brazil",2006,"female",22250,1441,2414
+"Brazil",2006,"male",42367,1489,4397
+"Brazil",2007,"female",21294,1391,2168
+"Brazil",2007,"male",41245,1545,4184
+"Brazil",2008,"female",20710,1363,2175
+"Brazil",2008,"male",40931,1369,3936
+"Brazil",2009,"female",21062,1308,2305
+"Brazil",2009,"male",41408,1441,4048
+"Brazil",2010,"female",20619,1115,2321
+"Brazil",2010,"male",41353,1335,4105
+"Brazil",2011,"female",20254,1242,2344
+"Brazil",2011,"male",41889,1273,4200
+"Brazil",2012,"female",20140,1170,2250
+"Brazil",2012,"male",42222,1218,4072
+"Brazil",2013,"female",21430,1249,2580
+"Brazil",2013,"male",44737,1398,4602
+"Burkina Faso",1995,"female",205,7,10
+"Burkina Faso",1995,"male",434,4,29
+"Burkina Faso",1996,"female",304,10,10
+"Burkina Faso",1996,"male",536,3,36
+"Burkina Faso",1997,"female",304,10,10
+"Burkina Faso",1997,"male",536,3,36
+"Burkina Faso",1998,"female",381,9,14
+"Burkina Faso",1998,"male",858,4,65
+"Burkina Faso",1999,"female",402,8,20
+"Burkina Faso",1999,"male",749,13,56
+"Burkina Faso",2000,"female",371,7,14
+"Burkina Faso",2000,"male",818,12,65
+"Burkina Faso",2001,"female",416,17,32
+"Burkina Faso",2001,"male",976,7,70
+"Burkina Faso",2002,"female",458,12,25
+"Burkina Faso",2002,"male",942,6,83
+"Burkina Faso",2003,"female",481,19,36
+"Burkina Faso",2003,"male",1073,14,80
+"Burkina Faso",2004,"female",579,22,33
+"Burkina Faso",2004,"male",1180,10,102
+"Burkina Faso",2005,"female",710,15,40
+"Burkina Faso",2005,"male",1398,18,113
+"Burkina Faso",2006,"female",803,33,47
+"Burkina Faso",2006,"male",1623,13,140
+"Burkina Faso",2007,"female",1172,78,77
+"Burkina Faso",2007,"male",2078,77,222
+"Burkina Faso",2008,"female",796,33,57
+"Burkina Faso",2008,"male",1716,8,146
+"Burkina Faso",2009,"female",884,38,77
+"Burkina Faso",2009,"male",1846,27,189
+"Burkina Faso",2010,"female",836,33,83
+"Burkina Faso",2010,"male",1896,20,173
+"Burkina Faso",2011,"female",917,31,92
+"Burkina Faso",2011,"male",2192,22,196
+"Burkina Faso",2012,"female",901,27,82
+"Burkina Faso",2012,"male",2350,25,198
+"Burkina Faso",2013,"female",833,32,76
+"Burkina Faso",2013,"male",2441,22,212
+"Burundi",1995,"female",367,19,4
+"Burundi",1995,"male",695,5,19
+"Burundi",1996,"female",516,18,7
+"Burundi",1996,"male",931,16,17
+"Burundi",1997,"female",762,30,19
+"Burundi",1997,"male",1362,21,32
+"Burundi",1998,"female",999,49,16
+"Burundi",1998,"male",1779,45,33
+"Burundi",1999,"female",919,66,28
+"Burundi",1999,"male",1790,64,57
+"Burundi",2000,"female",NA,NA,NA
+"Burundi",2000,"male",NA,NA,NA
+"Burundi",2001,"female",1186,81,15
+"Burundi",2001,"male",1685,34,39
+"Burundi",2002,"female",985,48,23
+"Burundi",2002,"male",1667,16,52
+"Burundi",2003,"female",1091,75,10
+"Burundi",2003,"male",1774,32,35
+"Burundi",2004,"female",1081,51,19
+"Burundi",2004,"male",1864,24,48
+"Burundi",2005,"female",1143,46,33
+"Burundi",2005,"male",1951,34,55
+"Burundi",2006,"female",1101,41,14
+"Burundi",2006,"male",1869,30,64
+"Burundi",2007,"female",1235,55,38
+"Burundi",2007,"male",2153,26,88
+"Burundi",2008,"female",1150,38,38
+"Burundi",2008,"male",2274,30,80
+"Burundi",2009,"female",1272,50,40
+"Burundi",2009,"male",2461,34,117
+"Burundi",2010,"female",2382,325,125
+"Burundi",2010,"male",3959,344,244
+"Burundi",2011,"female",2024,232,101
+"Burundi",2011,"male",3693,243,201
+"Burundi",2012,"female",2044,270,94
+"Burundi",2012,"male",3855,255,190
+"Burundi",2013,"female",2168,266,126
+"Burundi",2013,"male",4183,262,244
+"Cambodia",1995,"female",5562,123,578
+"Cambodia",1995,"male",5354,161,707
+"Cambodia",1996,"female",5279,124,547
+"Cambodia",1996,"male",5241,148,726
+"Cambodia",1997,"female",NA,NA,NA
+"Cambodia",1997,"male",NA,NA,NA
+"Cambodia",1998,"female",6108,23,691
+"Cambodia",1998,"male",6067,36,924
+"Cambodia",1999,"female",6840,51,852
+"Cambodia",1999,"male",6871,41,1089
+"Cambodia",2000,"female",6520,38,892
+"Cambodia",2000,"male",6289,26,1058
+"Cambodia",2001,"female",6129,25,829
+"Cambodia",2001,"male",6312,29,1037
+"Cambodia",2002,"female",6999,54,1100
+"Cambodia",2002,"male",7619,54,1432
+"Cambodia",2003,"female",8018,46,1256
+"Cambodia",2003,"male",8079,37,1487
+"Cambodia",2004,"female",7828,28,1270
+"Cambodia",2004,"male",8278,36,1538
+"Cambodia",2005,"female",8673,45,1573
+"Cambodia",2005,"male",8850,49,1811
+"Cambodia",2006,"female",7905,44,1557
+"Cambodia",2006,"male",8073,50,1665
+"Cambodia",2007,"female",7742,64,1459
+"Cambodia",2007,"male",8462,50,1644
+"Cambodia",2008,"female",8056,72,1607
+"Cambodia",2008,"male",8393,49,1683
+"Cambodia",2009,"female",7045,45,1376
+"Cambodia",2009,"male",7812,37,1548
+"Cambodia",2010,"female",6715,60,1331
+"Cambodia",2010,"male",7710,39,1599
+"Cambodia",2011,"female",5994,39,1242
+"Cambodia",2011,"male",7228,34,1339
+"Cambodia",2012,"female",5383,22,1198
+"Cambodia",2012,"male",6681,31,1526
+"Cambodia",2013,"female",5095,32,1247
+"Cambodia",2013,"male",6310,32,1367
+"Cameroon",1995,"female",980,9,93
+"Cameroon",1995,"male",1591,20,164
+"Cameroon",1996,"female",840,21,8
+"Cameroon",1996,"male",1393,34,17
+"Cameroon",1997,"female",1382,25,14
+"Cameroon",1997,"male",2067,36,24
+"Cameroon",1998,"female",1471,30,30
+"Cameroon",1998,"male",2793,15,35
+"Cameroon",1999,"female",2124,47,21
+"Cameroon",1999,"male",3532,49,59
+"Cameroon",2000,"female",1390,63,33
+"Cameroon",2000,"male",2358,41,75
+"Cameroon",2001,"female",1636,49,50
+"Cameroon",2001,"male",2851,24,86
+"Cameroon",2002,"female",2924,59,44
+"Cameroon",2002,"male",4147,66,125
+"Cameroon",2003,"female",4140,136,72
+"Cameroon",2003,"male",6084,100,160
+"Cameroon",2004,"female",4141,181,140
+"Cameroon",2004,"male",6370,127,259
+"Cameroon",2005,"female",4991,226,143
+"Cameroon",2005,"male",7218,134,289
+"Cameroon",2006,"female",4877,151,142
+"Cameroon",2006,"male",7288,112,300
+"Cameroon",2007,"female",5122,152,148
+"Cameroon",2007,"male",7370,121,307
+"Cameroon",2008,"female",5376,173,148
+"Cameroon",2008,"male",8151,108,281
+"Cameroon",2009,"female",5415,155,157
+"Cameroon",2009,"male",8298,107,355
+"Cameroon",2010,"female",5558,172,183
+"Cameroon",2010,"male",8116,106,329
+"Cameroon",2011,"female",5522,178,194
+"Cameroon",2011,"male",8558,114,361
+"Cameroon",2012,"female",5521,184,187
+"Cameroon",2012,"male",8641,108,375
+"Cameroon",2013,"female",NA,176,NA
+"Cameroon",2013,"male",NA,115,NA
+"Central African Republic",1995,"female",806,39,9
+"Central African Republic",1995,"male",884,38,18
+"Central African Republic",1996,"female",903,52,6
+"Central African Republic",1996,"male",962,46,15
+"Central African Republic",1997,"female",1025,53,10
+"Central African Republic",1997,"male",1105,54,26
+"Central African Republic",1998,"female",1222,67,26
+"Central African Republic",1998,"male",1248,28,46
+"Central African Republic",1999,"female",1208,72,42
+"Central African Republic",1999,"male",1310,28,65
+"Central African Republic",2000,"female",NA,NA,NA
+"Central African Republic",2000,"male",NA,NA,NA
+"Central African Republic",2001,"female",625,25,1
+"Central African Republic",2001,"male",700,15,16
+"Central African Republic",2002,"female",1200,66,18
+"Central African Republic",2002,"male",1376,76,22
+"Central African Republic",2003,"female",NA,NA,NA
+"Central African Republic",2003,"male",NA,NA,NA
+"Central African Republic",2004,"female",1276,14,9
+"Central African Republic",2004,"male",1598,12,14
+"Central African Republic",2005,"female",667,30,15
+"Central African Republic",2005,"male",1397,29,15
+"Central African Republic",2006,"female",3109,105,18
+"Central African Republic",2006,"male",3048,106,31
+"Central African Republic",2007,"female",NA,NA,NA
+"Central African Republic",2007,"male",NA,NA,NA
+"Central African Republic",2008,"female",1864,102,57
+"Central African Republic",2008,"male",2060,68,81
+"Central African Republic",2009,"female",2116,137,68
+"Central African Republic",2009,"male",2593,124,94
+"Central African Republic",2010,"female",2507,384,65
+"Central African Republic",2010,"male",2805,428,113
+"Central African Republic",2011,"female",2111,338,42
+"Central African Republic",2011,"male",2414,323,79
+"Central African Republic",2012,"female",1857,101,39
+"Central African Republic",2012,"male",2479,73,92
+"Central African Republic",2013,"female",1706,93,36
+"Central African Republic",2013,"male",2250,54,57
+"Chad",1995,"female",NA,NA,NA
+"Chad",1995,"male",NA,NA,NA
+"Chad",1996,"female",NA,NA,NA
+"Chad",1996,"male",NA,NA,NA
+"Chad",1997,"female",NA,NA,NA
+"Chad",1997,"male",NA,NA,NA
+"Chad",1998,"female",NA,NA,NA
+"Chad",1998,"male",NA,NA,NA
+"Chad",1999,"female",810,13,11
+"Chad",1999,"male",2062,20,4
+"Chad",2000,"female",NA,NA,NA
+"Chad",2000,"male",NA,NA,NA
+"Chad",2001,"female",NA,NA,NA
+"Chad",2001,"male",NA,NA,NA
+"Chad",2002,"female",1228,18,11
+"Chad",2002,"male",2219,24,17
+"Chad",2003,"female",1476,112,51
+"Chad",2003,"male",1727,155,78
+"Chad",2004,"female",822,41,16
+"Chad",2004,"male",1290,72,29
+"Chad",2005,"female",864,28,27
+"Chad",2005,"male",1490,25,82
+"Chad",2006,"female",NA,NA,NA
+"Chad",2006,"male",NA,NA,NA
+"Chad",2007,"female",NA,NA,NA
+"Chad",2007,"male",NA,NA,NA
+"Chad",2008,"female",NA,78,NA
+"Chad",2008,"male",NA,63,NA
+"Chad",2009,"female",1200,47,60
+"Chad",2009,"male",2337,48,126
+"Chad",2010,"female",2266,301,102
+"Chad",2010,"male",4393,378,261
+"Chad",2011,"female",2491,330,103
+"Chad",2011,"male",4686,387,269
+"Chad",2012,"female",2468,301,128
+"Chad",2012,"male",4722,432,238
+"Chad",2013,"female",3465,396,236
+"Chad",2013,"male",6228,471,441
+"Chile",1995,"female",476,24,107
+"Chile",1995,"male",830,24,163
+"Chile",1996,"female",387,11,72
+"Chile",1996,"male",863,8,139
+"Chile",1997,"female",419,11,88
+"Chile",1997,"male",831,11,163
+"Chile",1998,"female",NA,NA,NA
+"Chile",1998,"male",NA,NA,NA
+"Chile",1999,"female",421,9,98
+"Chile",1999,"male",833,4,132
+"Chile",2000,"female",344,10,83
+"Chile",2000,"male",721,6,126
+"Chile",2001,"female",343,9,83
+"Chile",2001,"male",780,2,138
+"Chile",2002,"female",367,7,89
+"Chile",2002,"male",783,6,160
+"Chile",2003,"female",329,8,80
+"Chile",2003,"male",722,1,136
+"Chile",2004,"female",322,5,74
+"Chile",2004,"male",725,3,168
+"Chile",2005,"female",285,4,93
+"Chile",2005,"male",658,3,133
+"Chile",2006,"female",617,27,204
+"Chile",2006,"male",1128,32,263
+"Chile",2007,"female",590,27,191
+"Chile",2007,"male",1190,20,248
+"Chile",2008,"female",578,16,175
+"Chile",2008,"male",1210,33,263
+"Chile",2009,"female",598,27,166
+"Chile",2009,"male",1118,30,271
+"Chile",2010,"female",599,32,163
+"Chile",2010,"male",1110,20,285
+"Chile",2011,"female",597,24,184
+"Chile",2011,"male",1165,26,267
+"Chile",2012,"female",570,27,193
+"Chile",2012,"male",1107,22,296
+"Chile",2013,"female",655,19,184
+"Chile",2013,"male",1203,40,303
+"China",1995,"female",42774,1169,2841
+"China",1995,"male",73178,1102,10130
+"China",1996,"female",53571,1624,3945
+"China",1996,"male",94024,1409,13697
+"China",1997,"female",61244,1534,4823
+"China",1997,"male",109797,1456,17041
+"China",1998,"female",65122,1558,5728
+"China",1998,"male",120014,1481,20501
+"China",1999,"female",63363,1431,5663
+"China",1999,"male",119187,1247,21367
+"China",2000,"female",62410,1420,6296
+"China",2000,"male",120738,1131,21771
+"China",2001,"female",61125,1405,6491
+"China",2001,"male",119733,1213,22799
+"China",2002,"female",54325,1152,6740
+"China",2002,"male",109268,925,22562
+"China",2003,"female",73931,1407,9465
+"China",2003,"male",149317,1133,32027
+"China",2004,"female",102747,1659,15739
+"China",2004,"male",212569,1375,50797
+"China",2005,"female",121759,1864,21244
+"China",2005,"male",256657,1416,69779
+"China",2006,"female",118551,1408,21212
+"China",2006,"male",257540,1023,68557
+"China",2007,"female",114192,1235,21339
+"China",2007,"male",257857,878,70376
+"China",2008,"female",110456,964,21086
+"China",2008,"male",259661,751,69678
+"China",2009,"female",223811,3434,43285
+"China",2009,"male",484147,3809,125991
+"China",2010,"female",223187,3231,42580
+"China",2010,"male",476748,3479,119867
+"China",2011,"female",218852,2710,42371
+"China",2011,"male",478461,3089,119576
+"China",2012,"female",215915,2597,46598
+"China",2012,"male",466634,3028,124089
+"China",2013,"female",211310,2301,47438
+"China",2013,"male",459122,2529,124476
+"China, Hong Kong SAR",1995,"female",NA,NA,NA
+"China, Hong Kong SAR",1995,"male",NA,NA,NA
+"China, Hong Kong SAR",1996,"female",NA,NA,NA
+"China, Hong Kong SAR",1996,"male",NA,NA,NA
+"China, Hong Kong SAR",1997,"female",395,12,176
+"China, Hong Kong SAR",1997,"male",855,5,593
+"China, Hong Kong SAR",1998,"female",NA,NA,NA
+"China, Hong Kong SAR",1998,"male",NA,NA,NA
+"China, Hong Kong SAR",1999,"female",359,8,188
+"China, Hong Kong SAR",1999,"male",777,3,432
+"China, Hong Kong SAR",2000,"female",355,5,211
+"China, Hong Kong SAR",2000,"male",787,4,578
+"China, Hong Kong SAR",2001,"female",382,13,200
+"China, Hong Kong SAR",2001,"male",737,6,519
+"China, Hong Kong SAR",2002,"female",394,8,153
+"China, Hong Kong SAR",2002,"male",792,2,543
+"China, Hong Kong SAR",2003,"female",434,10,160
+"China, Hong Kong SAR",2003,"male",710,8,472
+"China, Hong Kong SAR",2004,"female",386,6,140
+"China, Hong Kong SAR",2004,"male",682,3,477
+"China, Hong Kong SAR",2005,"female",1423,27,576
+"China, Hong Kong SAR",2005,"male",1944,33,1438
+"China, Hong Kong SAR",2006,"female",1312,29,528
+"China, Hong Kong SAR",2006,"male",1827,18,1428
+"China, Hong Kong SAR",2007,"female",1269,21,588
+"China, Hong Kong SAR",2007,"male",1699,28,1368
+"China, Hong Kong SAR",2008,"female",1308,31,577
+"China, Hong Kong SAR",2008,"male",1759,16,1477
+"China, Hong Kong SAR",2009,"female",1276,28,594
+"China, Hong Kong SAR",2009,"male",1614,18,1309
+"China, Hong Kong SAR",2010,"female",1223,23,519
+"China, Hong Kong SAR",2010,"male",1558,21,1275
+"China, Hong Kong SAR",2011,"female",1178,17,456
+"China, Hong Kong SAR",2011,"male",1534,18,1236
+"China, Hong Kong SAR",2012,"female",1202,11,487
+"China, Hong Kong SAR",2012,"male",1486,16,1284
+"China, Hong Kong SAR",2013,"female",1232,15,549
+"China, Hong Kong SAR",2013,"male",1630,19,1299
+"Colombia",1995,"female",NA,NA,NA
+"Colombia",1995,"male",NA,NA,NA
+"Colombia",1996,"female",NA,NA,NA
+"Colombia",1996,"male",NA,NA,NA
+"Colombia",1997,"female",NA,NA,NA
+"Colombia",1997,"male",NA,NA,NA
+"Colombia",1998,"female",NA,NA,NA
+"Colombia",1998,"male",NA,NA,NA
+"Colombia",1999,"female",NA,NA,NA
+"Colombia",1999,"male",6849,270,1210
+"Colombia",2000,"female",2553,194,510
+"Colombia",2000,"male",4109,246,746
+"Colombia",2001,"female",2624,186,359
+"Colombia",2001,"male",3977,223,653
+"Colombia",2002,"female",2047,167,371
+"Colombia",2002,"male",3063,209,662
+"Colombia",2003,"female",2540,174,421
+"Colombia",2003,"male",3839,237,761
+"Colombia",2004,"female",2476,205,426
+"Colombia",2004,"male",3588,208,737
+"Colombia",2005,"female",2252,179,395
+"Colombia",2005,"male",3171,178,695
+"Colombia",2006,"female",3311,391,669
+"Colombia",2006,"male",4851,414,1060
+"Colombia",2007,"female",3362,294,665
+"Colombia",2007,"male",4770,322,1114
+"Colombia",2008,"female",3388,342,652
+"Colombia",2008,"male",5056,357,1136
+"Colombia",2009,"female",3412,329,658
+"Colombia",2009,"male",5018,388,1180
+"Colombia",2010,"female",3255,341,675
+"Colombia",2010,"male",4846,378,1214
+"Colombia",2011,"female",3275,304,715
+"Colombia",2011,"male",5262,329,1257
+"Colombia",2012,"female",3312,296,777
+"Colombia",2012,"male",5143,325,1213
+"Colombia",2013,"female",3450,272,755
+"Colombia",2013,"male",5621,299,1340
+"Congo",1995,"female",915,17,11
+"Congo",1995,"male",1012,16,15
+"Congo",1996,"female",NA,NA,NA
+"Congo",1996,"male",NA,NA,NA
+"Congo",1997,"female",NA,NA,NA
+"Congo",1997,"male",NA,NA,NA
+"Congo",1998,"female",NA,NA,NA
+"Congo",1998,"male",NA,NA,NA
+"Congo",1999,"female",895,25,22
+"Congo",1999,"male",1046,17,27
+"Congo",2000,"female",NA,NA,NA
+"Congo",2000,"male",NA,NA,NA
+"Congo",2001,"female",1899,53,107
+"Congo",2001,"male",2009,31,65
+"Congo",2002,"female",NA,NA,NA
+"Congo",2002,"male",NA,NA,NA
+"Congo",2003,"female",NA,NA,NA
+"Congo",2003,"male",NA,NA,NA
+"Congo",2004,"female",1727,38,44
+"Congo",2004,"male",2269,9,32
+"Congo",2005,"female",NA,NA,NA
+"Congo",2005,"male",NA,NA,NA
+"Congo",2006,"female",1348,44,54
+"Congo",2006,"male",1662,32,51
+"Congo",2007,"female",1577,45,60
+"Congo",2007,"male",1779,28,63
+"Congo",2008,"female",1429,56,51
+"Congo",2008,"male",1755,31,49
+"Congo",2009,"female",1414,65,47
+"Congo",2009,"male",1801,50,56
+"Congo",2010,"female",1437,49,56
+"Congo",2010,"male",1811,41,55
+"Congo",2011,"female",1491,72,97
+"Congo",2011,"male",1922,58,76
+"Congo",2012,"female",1508,63,108
+"Congo",2012,"male",2187,46,72
+"Congo",2013,"female",1467,46,71
+"Congo",2013,"male",2224,35,60
+"Côte d'Ivoire",1995,"female",2498,99,19
+"Côte d'Ivoire",1995,"male",5467,41,130
+"Côte d'Ivoire",1996,"female",2400,139,75
+"Côte d'Ivoire",1996,"male",4477,118,178
+"Côte d'Ivoire",1997,"female",3101,118,99
+"Côte d'Ivoire",1997,"male",5376,87,260
+"Côte d'Ivoire",1998,"female",3218,104,105
+"Côte d'Ivoire",1998,"male",5619,72,273
+"Côte d'Ivoire",1999,"female",3249,132,112
+"Côte d'Ivoire",1999,"male",5110,98,251
+"Côte d'Ivoire",2000,"female",NA,NA,NA
+"Côte d'Ivoire",2000,"male",NA,NA,NA
+"Côte d'Ivoire",2001,"female",3772,127,112
+"Côte d'Ivoire",2001,"male",5480,108,302
+"Côte d'Ivoire",2002,"female",4166,135,142
+"Côte d'Ivoire",2002,"male",6173,102,307
+"Côte d'Ivoire",2003,"female",4353,154,151
+"Côte d'Ivoire",2003,"male",6058,116,366
+"Côte d'Ivoire",2004,"female",4661,160,194
+"Côte d'Ivoire",2004,"male",6620,114,387
+"Côte d'Ivoire",2005,"female",4785,193,201
+"Côte d'Ivoire",2005,"male",6711,128,385
+"Côte d'Ivoire",2006,"female",4892,191,209
+"Côte d'Ivoire",2006,"male",7036,171,368
+"Côte d'Ivoire",2007,"female",5398,225,235
+"Côte d'Ivoire",2007,"male",7611,173,429
+"Côte d'Ivoire",2008,"female",5700,277,254
+"Côte d'Ivoire",2008,"male",8320,261,482
+"Côte d'Ivoire",2009,"female",5319,237,210
+"Côte d'Ivoire",2009,"male",7981,199,354
+"Côte d'Ivoire",2010,"female",5136,246,209
+"Côte d'Ivoire",2010,"male",8006,159,375
+"Côte d'Ivoire",2011,"female",5101,244,223
+"Côte d'Ivoire",2011,"male",8311,189,348
+"Côte d'Ivoire",2012,"female",5169,204,263
+"Côte d'Ivoire",2012,"male",8431,163,430
+"Côte d'Ivoire",2013,"female",5228,242,280
+"Côte d'Ivoire",2013,"male",8923,148,420
+"Democratic People's Republic of Korea",1995,"female",NA,NA,NA
+"Democratic People's Republic of Korea",1995,"male",NA,NA,NA
+"Democratic People's Republic of Korea",1996,"female",NA,NA,NA
+"Democratic People's Republic of Korea",1996,"male",NA,NA,NA
+"Democratic People's Republic of Korea",1997,"female",1090,2,148
+"Democratic People's Republic of Korea",1997,"male",2495,5,240
+"Democratic People's Republic of Korea",1998,"female",104,0,15
+"Democratic People's Republic of Korea",1998,"male",158,0,25
+"Democratic People's Republic of Korea",1999,"female",1029,10,12
+"Democratic People's Republic of Korea",1999,"male",1578,14,30
+"Democratic People's Republic of Korea",2000,"female",5923,167,357
+"Democratic People's Republic of Korea",2000,"male",9049,293,651
+"Democratic People's Republic of Korea",2001,"female",4849,123,336
+"Democratic People's Republic of Korea",2001,"male",8307,207,606
+"Democratic People's Republic of Korea",2002,"female",6808,140,521
+"Democratic People's Republic of Korea",2002,"male",10163,199,745
+"Democratic People's Republic of Korea",2003,"female",6217,93,370
+"Democratic People's Republic of Korea",2003,"male",9992,86,634
+"Democratic People's Republic of Korea",2004,"female",6301,118,269
+"Democratic People's Republic of Korea",2004,"male",11156,175,460
+"Democratic People's Republic of Korea",2005,"female",6918,166,336
+"Democratic People's Republic of Korea",2005,"male",9744,167,485
+"Democratic People's Republic of Korea",2006,"female",6313,87,397
+"Democratic People's Republic of Korea",2006,"male",10890,157,591
+"Democratic People's Republic of Korea",2007,"female",8366,406,440
+"Democratic People's Republic of Korea",2007,"male",13336,353,674
+"Democratic People's Republic of Korea",2008,"female",23443,1900,1305
+"Democratic People's Republic of Korea",2008,"male",39531,2016,2189
+"Democratic People's Republic of Korea",2009,"female",25705,1861,1504
+"Democratic People's Republic of Korea",2009,"male",40275,2058,2686
+"Democratic People's Republic of Korea",2010,"female",27706,1792,1645
+"Democratic People's Republic of Korea",2010,"male",45182,2112,2803
+"Democratic People's Republic of Korea",2011,"female",28581,2038,1407
+"Democratic People's Republic of Korea",2011,"male",48444,2401,2693
+"Democratic People's Republic of Korea",2012,"female",29070,2028,1582
+"Democratic People's Republic of Korea",2012,"male",47467,2301,2736
+"Democratic People's Republic of Korea",2013,"female",31100,2365,1629
+"Democratic People's Republic of Korea",2013,"male",49970,2874,2653
+"Democratic Republic of the Congo",1995,"female",5277,331,137
+"Democratic Republic of the Congo",1995,"male",7662,373,289
+"Democratic Republic of the Congo",1996,"female",4928,292,149
+"Democratic Republic of the Congo",1996,"male",5705,228,285
+"Democratic Republic of the Congo",1997,"female",5630,321,150
+"Democratic Republic of the Congo",1997,"male",6606,259,276
+"Democratic Republic of the Congo",1998,"female",13343,651,272
+"Democratic Republic of the Congo",1998,"male",15334,455,518
+"Democratic Republic of the Congo",1999,"female",15141,708,305
+"Democratic Republic of the Congo",1999,"male",17667,474,626
+"Democratic Republic of the Congo",2000,"female",15456,718,351
+"Democratic Republic of the Congo",2000,"male",17876,485,602
+"Democratic Republic of the Congo",2001,"female",17311,842,470
+"Democratic Republic of the Congo",2001,"male",20522,581,724
+"Democratic Republic of the Congo",2002,"female",18864,874,476
+"Democratic Republic of the Congo",2002,"male",21826,649,791
+"Democratic Republic of the Congo",2003,"female",23490,1233,592
+"Democratic Republic of the Congo",2003,"male",26117,854,1047
+"Democratic Republic of the Congo",2004,"female",26962,1679,721
+"Democratic Republic of the Congo",2004,"male",30406,1195,1229
+"Democratic Republic of the Congo",2005,"female",27855,1695,951
+"Democratic Republic of the Congo",2005,"male",31719,1321,1499
+"Democratic Republic of the Congo",2006,"female",27160,1517,975
+"Democratic Republic of the Congo",2006,"male",30866,1122,1504
+"Democratic Republic of the Congo",2007,"female",27963,1842,1099
+"Democratic Republic of the Congo",2007,"male",32100,1343,1752
+"Democratic Republic of the Congo",2008,"female",29312,1828,1212
+"Democratic Republic of the Congo",2008,"male",33924,1515,1686
+"Democratic Republic of the Congo",2009,"female",29532,1773,1336
+"Democratic Republic of the Congo",2009,"male",34574,1453,1821
+"Democratic Republic of the Congo",2010,"female",30231,1987,1311
+"Democratic Republic of the Congo",2010,"male",36510,1707,1907
+"Democratic Republic of the Congo",2011,"female",29293,1800,1295
+"Democratic Republic of the Congo",2011,"male",35443,1579,1911
+"Democratic Republic of the Congo",2012,"female",28231,1699,1257
+"Democratic Republic of the Congo",2012,"male",36557,1439,1941
+"Democratic Republic of the Congo",2013,"female",28153,1706,1263
+"Democratic Republic of the Congo",2013,"male",36702,1380,2016
+"Djibouti",1995,"female",NA,NA,NA
+"Djibouti",1995,"male",NA,NA,NA
+"Djibouti",1996,"female",585,31,5
+"Djibouti",1996,"male",1118,30,27
+"Djibouti",1997,"female",557,51,4
+"Djibouti",1997,"male",1218,52,23
+"Djibouti",1998,"female",541,28,9
+"Djibouti",1998,"male",1073,23,23
+"Djibouti",1999,"female",468,20,3
+"Djibouti",1999,"male",1032,25,22
+"Djibouti",2000,"female",398,12,10
+"Djibouti",2000,"male",915,17,42
+"Djibouti",2001,"female",408,17,8
+"Djibouti",2001,"male",839,17,23
+"Djibouti",2002,"female",373,18,4
+"Djibouti",2002,"male",813,20,25
+"Djibouti",2003,"female",371,19,8
+"Djibouti",2003,"male",760,10,24
+"Djibouti",2004,"female",323,16,10
+"Djibouti",2004,"male",690,19,28
+"Djibouti",2005,"female",342,23,8
+"Djibouti",2005,"male",700,18,29
+"Djibouti",2006,"female",358,24,5
+"Djibouti",2006,"male",732,14,20
+"Djibouti",2007,"female",919,243,42
+"Djibouti",2007,"male",1298,279,45
+"Djibouti",2008,"female",444,22,10
+"Djibouti",2008,"male",836,17,46
+"Djibouti",2009,"female",459,18,11
+"Djibouti",2009,"male",847,18,24
+"Djibouti",2010,"female",373,20,19
+"Djibouti",2010,"male",721,28,20
+"Djibouti",2011,"female",448,31,21
+"Djibouti",2011,"male",768,35,33
+"Djibouti",2012,"female",361,20,18
+"Djibouti",2012,"male",723,22,26
+"Djibouti",2013,"female",380,21,17
+"Djibouti",2013,"male",673,24,35
+"Dominican Republic",1995,"female",NA,NA,NA
+"Dominican Republic",1995,"male",NA,NA,NA
+"Dominican Republic",1996,"female",453,21,22
+"Dominican Republic",1996,"male",745,17,42
+"Dominican Republic",1997,"female",993,53,56
+"Dominican Republic",1997,"male",1423,76,81
+"Dominican Republic",1998,"female",805,60,33
+"Dominican Republic",1998,"male",1184,62,50
+"Dominican Republic",1999,"female",1229,99,136
+"Dominican Republic",1999,"male",1752,90,183
+"Dominican Republic",2000,"female",1048,65,75
+"Dominican Republic",2000,"male",1533,73,113
+"Dominican Republic",2001,"female",NA,NA,NA
+"Dominican Republic",2001,"male",NA,NA,NA
+"Dominican Republic",2002,"female",759,35,62
+"Dominican Republic",2002,"male",1213,39,71
+"Dominican Republic",2003,"female",998,48,73
+"Dominican Republic",2003,"male",1523,52,112
+"Dominican Republic",2004,"female",930,39,44
+"Dominican Republic",2004,"male",1558,45,104
+"Dominican Republic",2005,"female",1071,57,54
+"Dominican Republic",2005,"male",1619,43,105
+"Dominican Republic",2006,"female",965,38,58
+"Dominican Republic",2006,"male",1480,25,92
+"Dominican Republic",2007,"female",821,29,43
+"Dominican Republic",2007,"male",1372,23,85
+"Dominican Republic",2008,"female",874,34,52
+"Dominican Republic",2008,"male",1377,16,105
+"Dominican Republic",2009,"female",850,28,56
+"Dominican Republic",2009,"male",1389,30,88
+"Dominican Republic",2010,"female",744,43,62
+"Dominican Republic",2010,"male",1196,29,85
+"Dominican Republic",2011,"female",844,30,58
+"Dominican Republic",2011,"male",1390,20,112
+"Dominican Republic",2012,"female",819,26,68
+"Dominican Republic",2012,"male",1444,15,111
+"Dominican Republic",2013,"female",848,30,62
+"Dominican Republic",2013,"male",1600,22,113
+"Ecuador",1995,"female",NA,NA,NA
+"Ecuador",1995,"male",NA,NA,NA
+"Ecuador",1996,"female",NA,NA,NA
+"Ecuador",1996,"male",NA,NA,NA
+"Ecuador",1997,"female",NA,NA,NA
+"Ecuador",1997,"male",NA,NA,NA
+"Ecuador",1998,"female",NA,44,NA
+"Ecuador",1998,"male",NA,169,NA
+"Ecuador",1999,"female",NA,NA,NA
+"Ecuador",1999,"male",NA,NA,NA
+"Ecuador",2000,"female",NA,NA,NA
+"Ecuador",2000,"male",NA,NA,NA
+"Ecuador",2001,"female",1830,37,190
+"Ecuador",2001,"male",2227,39,116
+"Ecuador",2002,"female",NA,NA,NA
+"Ecuador",2002,"male",NA,NA,NA
+"Ecuador",2003,"female",551,24,40
+"Ecuador",2003,"male",970,18,96
+"Ecuador",2004,"female",1463,108,120
+"Ecuador",2004,"male",2412,84,153
+"Ecuador",2005,"female",1057,48,127
+"Ecuador",2005,"male",1609,48,159
+"Ecuador",2006,"female",1054,46,112
+"Ecuador",2006,"male",1755,32,183
+"Ecuador",2007,"female",1131,57,123
+"Ecuador",2007,"male",1868,42,227
+"Ecuador",2008,"female",1083,56,145
+"Ecuador",2008,"male",1862,32,202
+"Ecuador",2009,"female",1056,49,146
+"Ecuador",2009,"male",1809,40,230
+"Ecuador",2010,"female",1055,52,110
+"Ecuador",2010,"male",1878,32,246
+"Ecuador",2011,"female",1401,100,172
+"Ecuador",2011,"male",2593,130,313
+"Ecuador",2012,"female",1514,102,210
+"Ecuador",2012,"male",2668,101,402
+"Ecuador",2013,"female",1510,119,199
+"Ecuador",2013,"male",2949,115,385
+"Egypt",1995,"female",1345,134,75
+"Egypt",1995,"male",2538,223,160
+"Egypt",1996,"female",1049,64,44
+"Egypt",1996,"male",3266,58,154
+"Egypt",1997,"female",1491,64,34
+"Egypt",1997,"male",3293,50,142
+"Egypt",1998,"female",1528,60,44
+"Egypt",1998,"male",3226,45,174
+"Egypt",1999,"female",1385,57,36
+"Egypt",1999,"male",3034,31,170
+"Egypt",2000,"female",1380,55,48
+"Egypt",2000,"male",2918,21,158
+"Egypt",2001,"female",1415,57,49
+"Egypt",2001,"male",2800,34,159
+"Egypt",2002,"female",1433,77,60
+"Egypt",2002,"male",2997,39,171
+"Egypt",2003,"female",1526,57,71
+"Egypt",2003,"male",3110,42,195
+"Egypt",2004,"female",1385,44,54
+"Egypt",2004,"male",2918,14,204
+"Egypt",2005,"female",1284,48,42
+"Egypt",2005,"male",2208,25,123
+"Egypt",2006,"female",3631,314,161
+"Egypt",2006,"male",4697,450,306
+"Egypt",2007,"female",3292,251,157
+"Egypt",2007,"male",5071,318,369
+"Egypt",2008,"female",2722,235,187
+"Egypt",2008,"male",5078,282,435
+"Egypt",2009,"female",3185,210,200
+"Egypt",2009,"male",5029,264,401
+"Egypt",2010,"female",3126,220,176
+"Egypt",2010,"male",4740,270,354
+"Egypt",2011,"female",3088,258,209
+"Egypt",2011,"male",4373,314,281
+"Egypt",2012,"female",2938,257,198
+"Egypt",2012,"male",4190,293,269
+"Egypt",2013,"female",2807,230,176
+"Egypt",2013,"male",3794,282,245
+"Ethiopia",1995,"female",2287,283,15
+"Ethiopia",1995,"male",3197,247,51
+"Ethiopia",1996,"female",3621,369,32
+"Ethiopia",1996,"male",4830,302,71
+"Ethiopia",1997,"female",6354,687,108
+"Ethiopia",1997,"male",7832,579,193
+"Ethiopia",1998,"female",7383,832,55
+"Ethiopia",1998,"male",8708,715,171
+"Ethiopia",1999,"female",8736,798,69
+"Ethiopia",1999,"male",11030,692,230
+"Ethiopia",2000,"female",12570,1037,122
+"Ethiopia",2000,"male",15469,915,397
+"Ethiopia",2001,"female",13663,1107,111
+"Ethiopia",2001,"male",16880,913,354
+"Ethiopia",2002,"female",15242,1614,136
+"Ethiopia",2002,"male",17926,1251,372
+"Ethiopia",2003,"female",16275,1387,137
+"Ethiopia",2003,"male",20306,1110,483
+"Ethiopia",2004,"female",17195,1367,124
+"Ethiopia",2004,"male",21128,1160,456
+"Ethiopia",2005,"female",16087,1326,155
+"Ethiopia",2005,"male",19373,1109,475
+"Ethiopia",2006,"female",15102,1178,159
+"Ethiopia",2006,"male",18736,978,521
+"Ethiopia",2007,"female",15714,1229,213
+"Ethiopia",2007,"male",19270,1055,559
+"Ethiopia",2008,"female",16803,1167,322
+"Ethiopia",2008,"male",20839,978,685
+"Ethiopia",2009,"female",17752,1593,378
+"Ethiopia",2009,"male",22458,1421,794
+"Ethiopia",2010,"female",18432,1608,335
+"Ethiopia",2010,"male",23855,1582,822
+"Ethiopia",2011,"female",19839,1983,303
+"Ethiopia",2011,"male",24951,1847,771
+"Ethiopia",2012,"female",NA,8044,NA
+"Ethiopia",2012,"male",NA,7490,NA
+"Ethiopia",2013,"female",NA,10363,NA
+"Ethiopia",2013,"male",NA,10954,NA
+"France",1995,"female",722,36,365
+"France",1995,"male",1800,30,496
+"France",1996,"female",611,22,376
+"France",1996,"male",1471,36,475
+"France",1997,"female",535,17,274
+"France",1997,"male",1228,24,343
+"France",1998,"female",NA,NA,NA
+"France",1998,"male",NA,NA,NA
+"France",1999,"female",515,25,284
+"France",1999,"male",1157,13,318
+"France",2000,"female",413,18,155
+"France",2000,"male",967,10,244
+"France",2001,"female",468,17,183
+"France",2001,"male",938,10,211
+"France",2002,"female",412,13,161
+"France",2002,"male",964,24,180
+"France",2003,"female",398,16,159
+"France",2003,"male",918,18,210
+"France",2004,"female",381,11,171
+"France",2004,"male",889,13,216
+"France",2005,"female",414,16,180
+"France",2005,"male",891,12,205
+"France",2006,"female",1338,113,527
+"France",2006,"male",2087,115,609
+"France",2007,"female",1814,177,688
+"France",2007,"male",2710,175,762
+"France",2008,"female",937,81,347
+"France",2008,"male",1437,72,407
+"France",2009,"female",812,65,308
+"France",2009,"male",1207,77,378
+"France",2010,"female",741,66,304
+"France",2010,"male",1215,81,323
+"France",2011,"female",752,74,226
+"France",2011,"male",1183,75,342
+"France",2012,"female",764,82,249
+"France",2012,"male",1145,77,283
+"France",2013,"female",1277,116,407
+"France",2013,"male",2154,139,587
+"Georgia",1995,"female",67,2,5
+"Georgia",1995,"male",133,2,12
+"Georgia",1996,"female",127,1,11
+"Georgia",1996,"male",316,4,16
+"Georgia",1997,"female",179,0,12
+"Georgia",1997,"male",388,0,16
+"Georgia",1998,"female",149,4,7
+"Georgia",1998,"male",364,4,19
+"Georgia",1999,"female",113,3,8
+"Georgia",1999,"male",594,5,23
+"Georgia",2000,"female",146,1,5
+"Georgia",2000,"male",408,4,28
+"Georgia",2001,"female",203,2,22
+"Georgia",2001,"male",737,4,46
+"Georgia",2002,"female",212,5,18
+"Georgia",2002,"male",706,1,42
+"Georgia",2003,"female",222,1,17
+"Georgia",2003,"male",693,1,53
+"Georgia",2004,"female",278,3,29
+"Georgia",2004,"male",932,3,66
+"Georgia",2005,"female",335,4,47
+"Georgia",2005,"male",1049,0,60
+"Georgia",2006,"female",1096,159,118
+"Georgia",2006,"male",2538,188,219
+"Georgia",2007,"female",1061,134,112
+"Georgia",2007,"male",2382,172,167
+"Georgia",2008,"female",1027,107,136
+"Georgia",2008,"male",2485,160,233
+"Georgia",2009,"female",1062,111,133
+"Georgia",2009,"male",2755,170,226
+"Georgia",2010,"female",1003,107,92
+"Georgia",2010,"male",2851,142,188
+"Georgia",2011,"female",1010,89,117
+"Georgia",2011,"male",2685,113,209
+"Georgia",2012,"female",935,96,99
+"Georgia",2012,"male",2329,119,200
+"Georgia",2013,"female",863,78,118
+"Georgia",2013,"male",2085,105,185
+"Germany",1995,"female",726,17,397
+"Germany",1995,"male",2073,14,625
+"Germany",1996,"female",749,19,389
+"Germany",1996,"male",1896,20,607
+"Germany",1997,"female",659,16,343
+"Germany",1997,"male",1808,11,509
+"Germany",1998,"female",601,11,298
+"Germany",1998,"male",1667,9,538
+"Germany",1999,"female",577,15,295
+"Germany",1999,"male",1569,13,449
+"Germany",2000,"female",NA,NA,NA
+"Germany",2000,"male",NA,NA,NA
+"Germany",2001,"female",211,1,79
+"Germany",2001,"male",428,3,119
+"Germany",2002,"female",173,1,64
+"Germany",2002,"male",380,3,101
+"Germany",2003,"female",308,10,102
+"Germany",2003,"male",618,2,155
+"Germany",2004,"female",356,6,116
+"Germany",2004,"male",646,5,198
+"Germany",2005,"female",308,4,103
+"Germany",2005,"male",602,6,167
+"Germany",2006,"female",1313,108,621
+"Germany",2006,"male",1977,81,762
+"Germany",2007,"female",1518,82,671
+"Germany",2007,"male",2401,88,895
+"Germany",2008,"female",931,56,429
+"Germany",2008,"male",1487,56,579
+"Germany",2009,"female",947,74,439
+"Germany",2009,"male",1470,62,579
+"Germany",2010,"female",892,71,421
+"Germany",2010,"male",1416,81,571
+"Germany",2011,"female",951,79,421
+"Germany",2011,"male",1367,80,559
+"Germany",2012,"female",892,85,353
+"Germany",2012,"male",1465,84,499
+"Germany",2013,"female",1071,80,457
+"Germany",2013,"male",1807,88,672
+"Ghana",1995,"female",886,40,48
+"Ghana",1995,"male",1510,42,112
+"Ghana",1996,"female",811,32,43
+"Ghana",1996,"male",1349,30,157
+"Ghana",1997,"female",1896,90,121
+"Ghana",1997,"male",3118,77,294
+"Ghana",1998,"female",2348,85,243
+"Ghana",1998,"male",3759,83,487
+"Ghana",1999,"female",2230,80,180
+"Ghana",1999,"male",3882,64,389
+"Ghana",2000,"female",2330,74,176
+"Ghana",2000,"male",4237,73,426
+"Ghana",2001,"female",2531,128,227
+"Ghana",2001,"male",4282,84,460
+"Ghana",2002,"female",2435,98,238
+"Ghana",2002,"male",4452,80,429
+"Ghana",2003,"female",2397,83,203
+"Ghana",2003,"male",4511,79,441
+"Ghana",2004,"female",2178,69,191
+"Ghana",2004,"male",4354,54,413
+"Ghana",2005,"female",2243,68,221
+"Ghana",2005,"male",4510,49,414
+"Ghana",2006,"female",2308,70,229
+"Ghana",2006,"male",4703,33,443
+"Ghana",2007,"female",2238,75,207
+"Ghana",2007,"male",4337,66,506
+"Ghana",2008,"female",NA,NA,NA
+"Ghana",2008,"male",NA,NA,NA
+"Ghana",2009,"female",2356,58,285
+"Ghana",2009,"male",4951,66,539
+"Ghana",2010,"female",3797,315,475
+"Ghana",2010,"male",6990,355,792
+"Ghana",2011,"female",4482,389,627
+"Ghana",2011,"male",7918,480,1066
+"Ghana",2012,"female",4084,391,638
+"Ghana",2012,"male",7756,429,1079
+"Ghana",2013,"female",4268,363,674
+"Ghana",2013,"male",8238,420,1080
+"Guatemala",1995,"female",975,51,94
+"Guatemala",1995,"male",1058,51,139
+"Guatemala",1996,"female",982,48,99
+"Guatemala",1996,"male",962,75,142
+"Guatemala",1997,"female",865,33,117
+"Guatemala",1997,"male",1008,45,150
+"Guatemala",1998,"female",896,45,103
+"Guatemala",1998,"male",999,60,152
+"Guatemala",1999,"female",948,24,89
+"Guatemala",1999,"male",1011,34,158
+"Guatemala",2000,"female",763,41,111
+"Guatemala",2000,"male",961,36,140
+"Guatemala",2001,"female",646,33,90
+"Guatemala",2001,"male",776,27,97
+"Guatemala",2002,"female",694,42,74
+"Guatemala",2002,"male",882,27,146
+"Guatemala",2003,"female",714,24,75
+"Guatemala",2003,"male",825,29,128
+"Guatemala",2004,"female",922,31,78
+"Guatemala",2004,"male",1136,43,129
+"Guatemala",2005,"female",1125,38,95
+"Guatemala",2005,"male",1008,39,115
+"Guatemala",2006,"female",NA,NA,NA
+"Guatemala",2006,"male",NA,NA,NA
+"Guatemala",2007,"female",1128,227,143
+"Guatemala",2007,"male",1201,115,192
+"Guatemala",2008,"female",1058,57,129
+"Guatemala",2008,"male",1244,54,200
+"Guatemala",2009,"female",1152,132,132
+"Guatemala",2009,"male",1284,134,176
+"Guatemala",2010,"female",810,29,103
+"Guatemala",2010,"male",954,60,165
+"Guatemala",2011,"female",788,25,106
+"Guatemala",2011,"male",872,18,152
+"Guatemala",2012,"female",NA,NA,NA
+"Guatemala",2012,"male",NA,NA,NA
+"Guatemala",2013,"female",832,25,98
+"Guatemala",2013,"male",1061,16,164
+"Guinea",1995,"female",711,28,19
+"Guinea",1995,"male",1426,18,61
+"Guinea",1996,"female",937,30,31
+"Guinea",1996,"male",1713,29,104
+"Guinea",1997,"female",957,38,32
+"Guinea",1997,"male",1829,25,100
+"Guinea",1998,"female",1056,37,25
+"Guinea",1998,"male",2105,22,117
+"Guinea",1999,"female",1187,44,41
+"Guinea",1999,"male",2156,30,104
+"Guinea",2000,"female",1201,66,45
+"Guinea",2000,"male",2466,39,103
+"Guinea",2001,"female",1305,59,46
+"Guinea",2001,"male",2504,24,154
+"Guinea",2002,"female",1283,42,50
+"Guinea",2002,"male",2480,24,149
+"Guinea",2003,"female",1354,53,40
+"Guinea",2003,"male",2880,34,134
+"Guinea",2004,"female",1584,62,63
+"Guinea",2004,"male",3133,38,135
+"Guinea",2005,"female",1828,65,55
+"Guinea",2005,"male",3350,51,130
+"Guinea",2006,"female",1868,85,53
+"Guinea",2006,"male",3704,31,162
+"Guinea",2007,"female",1924,76,79
+"Guinea",2007,"male",3895,46,204
+"Guinea",2008,"female",1956,64,88
+"Guinea",2008,"male",4199,56,198
+"Guinea",2009,"female",1979,68,66
+"Guinea",2009,"male",3049,65,150
+"Guinea",2010,"female",2589,51,72
+"Guinea",2010,"male",3979,61,289
+"Guinea",2011,"female",3582,112,173
+"Guinea",2011,"male",6390,138,269
+"Guinea",2012,"female",1532,49,57
+"Guinea",2012,"male",3229,28,120
+"Guinea",2013,"female",3948,78,187
+"Guinea",2013,"male",6519,107,474
+"Haiti",1995,"female",NA,NA,NA
+"Haiti",1995,"male",NA,NA,NA
+"Haiti",1996,"female",1450,224,100
+"Haiti",1996,"male",1332,148,97
+"Haiti",1997,"female",2522,149,97
+"Haiti",1997,"male",2363,156,162
+"Haiti",1998,"female",2846,208,119
+"Haiti",1998,"male",2939,188,142
+"Haiti",1999,"female",2925,285,110
+"Haiti",1999,"male",3077,286,145
+"Haiti",2000,"female",2691,96,71
+"Haiti",2000,"male",2844,67,118
+"Haiti",2001,"female",2605,113,93
+"Haiti",2001,"male",2612,72,112
+"Haiti",2002,"female",2804,118,99
+"Haiti",2002,"male",2940,79,148
+"Haiti",2003,"female",3327,122,108
+"Haiti",2003,"male",3222,89,147
+"Haiti",2004,"female",3441,137,125
+"Haiti",2004,"male",3071,94,176
+"Haiti",2005,"female",3413,116,132
+"Haiti",2005,"male",3454,69,156
+"Haiti",2006,"female",5420,1010,251
+"Haiti",2006,"male",5626,1026,360
+"Haiti",2007,"female",5415,1039,253
+"Haiti",2007,"male",5653,1098,366
+"Haiti",2008,"female",5858,920,316
+"Haiti",2008,"male",5956,914,325
+"Haiti",2009,"female",NA,NA,NA
+"Haiti",2009,"male",NA,NA,NA
+"Haiti",2010,"female",5580,777,262
+"Haiti",2010,"male",6163,786,316
+"Haiti",2011,"female",6120,874,287
+"Haiti",2011,"male",6402,903,285
+"Haiti",2012,"female",6464,952,303
+"Haiti",2012,"male",6830,1033,316
+"Haiti",2013,"female",6856,956,339
+"Haiti",2013,"male",7555,949,385
+"Honduras",1995,"female",846,54,48
+"Honduras",1995,"male",1390,42,58
+"Honduras",1996,"female",736,43,17
+"Honduras",1996,"male",1076,51,21
+"Honduras",1997,"female",597,38,26
+"Honduras",1997,"male",864,26,28
+"Honduras",1998,"female",843,103,38
+"Honduras",1998,"male",1130,147,50
+"Honduras",1999,"female",879,100,40
+"Honduras",1999,"male",1185,150,52
+"Honduras",2000,"female",978,25,38
+"Honduras",2000,"male",1231,30,43
+"Honduras",2001,"female",1259,13,34
+"Honduras",2001,"male",1494,12,27
+"Honduras",2002,"female",1260,65,35
+"Honduras",2002,"male",1496,76,24
+"Honduras",2003,"female",835,42,23
+"Honduras",2003,"male",987,52,17
+"Honduras",2004,"female",783,40,23
+"Honduras",2004,"male",1094,54,18
+"Honduras",2005,"female",754,27,104
+"Honduras",2005,"male",1019,13,152
+"Honduras",2006,"female",1051,100,183
+"Honduras",2006,"male",1347,119,224
+"Honduras",2007,"female",889,80,159
+"Honduras",2007,"male",1316,82,246
+"Honduras",2008,"female",859,74,153
+"Honduras",2008,"male",1296,59,237
+"Honduras",2009,"female",844,71,158
+"Honduras",2009,"male",1340,73,246
+"Honduras",2010,"female",884,77,167
+"Honduras",2010,"male",1266,72,240
+"Honduras",2011,"female",990,92,185
+"Honduras",2011,"male",1436,99,276
+"Honduras",2012,"female",870,71,160
+"Honduras",2012,"male",1387,93,235
+"Honduras",2013,"female",974,90,174
+"Honduras",2013,"male",1447,72,224
+"India",1995,"female",507,32,11
+"India",1995,"male",1351,16,68
+"India",1996,"female",1740,79,42
+"India",1996,"male",4133,47,213
+"India",1997,"female",2318,125,54
+"India",1997,"male",4916,50,245
+"India",1998,"female",3715,190,102
+"India",1998,"male",7911,84,419
+"India",1999,"female",15520,785,436
+"India",1999,"male",33850,327,1982
+"India",2000,"female",55660,2250,2697
+"India",2000,"male",122420,1588,8534
+"India",2001,"female",51805,2125,1526
+"India",2001,"male",120979,1063,7779
+"India",2002,"female",102766,4200,3814
+"India",2002,"male",223202,2551,14960
+"India",2003,"female",116525,4745,3985
+"India",2003,"male",259200,2411,18018
+"India",2004,"female",136651,5860,5016
+"India",2004,"male",306732,3018,22388
+"India",2005,"female",146897,6292,5408
+"India",2005,"male",322049,3185,24726
+"India",2006,"female",156872,6963,6417
+"India",2006,"male",351263,3566,28716
+"India",2007,"female",415552,7575,7395
+"India",2007,"male",731540,4305,31922
+"India",2008,"female",170929,8319,8357
+"India",2008,"male",387160,4648,36079
+"India",2009,"female",172407,8576,8944
+"India",2009,"male",392270,5001,37419
+"India",2010,"female",175121,8544,9735
+"India",2010,"male",393451,4871,38442
+"India",2011,"female",179042,8336,10731
+"India",2011,"male",397110,4649,42443
+"India",2012,"female",175431,8260,10502
+"India",2012,"male",389377,4697,41322
+"India",2013,"female",NA,NA,NA
+"India",2013,"male",NA,NA,NA
+"Indonesia",1995,"female",968,16,33
+"Indonesia",1995,"male",1336,6,109
+"Indonesia",1996,"female",4627,54,247
+"Indonesia",1996,"male",5915,28,510
+"Indonesia",1997,"female",6880,65,357
+"Indonesia",1997,"male",9263,46,753
+"Indonesia",1998,"female",13161,108,617
+"Indonesia",1998,"male",16799,78,1517
+"Indonesia",1999,"female",24799,140,745
+"Indonesia",1999,"male",21685,106,1697
+"Indonesia",2000,"female",NA,NA,NA
+"Indonesia",2000,"male",NA,NA,NA
+"Indonesia",2001,"female",22020,354,845
+"Indonesia",2001,"male",28534,298,1914
+"Indonesia",2002,"female",30994,650,1292
+"Indonesia",2002,"male",39834,569,2891
+"Indonesia",2003,"female",36742,608,1649
+"Indonesia",2003,"male",49420,532,3615
+"Indonesia",2004,"female",51067,803,2212
+"Indonesia",2004,"male",69005,697,5197
+"Indonesia",2005,"female",61797,946,2783
+"Indonesia",2005,"male",85878,846,6390
+"Indonesia",2006,"female",67588,985,3203
+"Indonesia",2006,"male",95297,899,7348
+"Indonesia",2007,"female",100051,10341,5586
+"Indonesia",2007,"male",132301,11418,11581
+"Indonesia",2008,"female",104407,15856,5877
+"Indonesia",2008,"male",136913,17593,12253
+"Indonesia",2009,"female",103190,14585,5844
+"Indonesia",2009,"male",137420,16077,11928
+"Indonesia",2010,"female",105573,13499,5996
+"Indonesia",2010,"male",143488,14813,12903
+"Indonesia",2011,"female",112734,13314,6674
+"Indonesia",2011,"male",151715,14645,14519
+"Indonesia",2012,"female",116257,13038,7304
+"Indonesia",2012,"male",156703,14305,15275
+"Indonesia",2013,"female",116680,12638,7290
+"Indonesia",2013,"male",160260,13416,15298
+"Iran (Islamic Republic of)",1995,"female",3891,234,788
+"Iran (Islamic Republic of)",1995,"male",3372,118,921
+"Iran (Islamic Republic of)",1996,"female",2133,113,534
+"Iran (Islamic Republic of)",1996,"male",1994,63,577
+"Iran (Islamic Republic of)",1997,"female",1955,92,582
+"Iran (Islamic Republic of)",1997,"male",1980,54,608
+"Iran (Islamic Republic of)",1998,"female",1992,87,522
+"Iran (Islamic Republic of)",1998,"male",1926,35,579
+"Iran (Islamic Republic of)",1999,"female",1863,51,637
+"Iran (Islamic Republic of)",1999,"male",1808,27,591
+"Iran (Islamic Republic of)",2000,"female",2052,77,647
+"Iran (Islamic Republic of)",2000,"male",1931,29,642
+"Iran (Islamic Republic of)",2001,"female",2069,104,693
+"Iran (Islamic Republic of)",2001,"male",1977,37,649
+"Iran (Islamic Republic of)",2002,"female",1902,77,732
+"Iran (Islamic Republic of)",2002,"male",1958,29,668
+"Iran (Islamic Republic of)",2003,"female",1718,76,776
+"Iran (Islamic Republic of)",2003,"male",1913,32,673
+"Iran (Islamic Republic of)",2004,"female",1604,65,710
+"Iran (Islamic Republic of)",2004,"male",1862,16,640
+"Iran (Islamic Republic of)",2005,"female",1427,45,701
+"Iran (Islamic Republic of)",2005,"male",1762,16,630
+"Iran (Islamic Republic of)",2006,"female",3093,171,1257
+"Iran (Islamic Republic of)",2006,"male",3243,117,1173
+"Iran (Islamic Republic of)",2007,"female",3133,177,1309
+"Iran (Islamic Republic of)",2007,"male",3094,124,1209
+"Iran (Islamic Republic of)",2008,"female",3145,171,1366
+"Iran (Islamic Republic of)",2008,"male",3106,125,1243
+"Iran (Islamic Republic of)",2009,"female",3386,204,1493
+"Iran (Islamic Republic of)",2009,"male",3248,136,1296
+"Iran (Islamic Republic of)",2010,"female",3491,196,1585
+"Iran (Islamic Republic of)",2010,"male",3282,156,1332
+"Iran (Islamic Republic of)",2011,"female",3724,189,1549
+"Iran (Islamic Republic of)",2011,"male",3513,156,1464
+"Iran (Islamic Republic of)",2012,"female",3690,198,1519
+"Iran (Islamic Republic of)",2012,"male",3651,203,1444
+"Iran (Islamic Republic of)",2013,"female",3574,227,1653
+"Iran (Islamic Republic of)",2013,"male",3917,193,1488
+"Iraq",1995,"female",4113,725,200
+"Iraq",1995,"male",5119,1125,271
+"Iraq",1996,"female",NA,NA,NA
+"Iraq",1996,"male",NA,NA,NA
+"Iraq",1997,"female",3265,384,192
+"Iraq",1997,"male",3536,416,208
+"Iraq",1998,"female",3606,426,232
+"Iraq",1998,"male",3891,453,242
+"Iraq",1999,"female",4108,509,202
+"Iraq",1999,"male",5097,519,376
+"Iraq",2000,"female",952,37,87
+"Iraq",2000,"male",1581,21,101
+"Iraq",2001,"female",1101,26,86
+"Iraq",2001,"male",2194,10,142
+"Iraq",2002,"female",1103,45,116
+"Iraq",2002,"male",2426,47,158
+"Iraq",2003,"female",956,43,34
+"Iraq",2003,"male",2351,30,143
+"Iraq",2004,"female",991,57,80
+"Iraq",2004,"male",2100,28,125
+"Iraq",2005,"female",1048,44,80
+"Iraq",2005,"male",1763,13,148
+"Iraq",2006,"female",2782,283,296
+"Iraq",2006,"male",3490,209,380
+"Iraq",2007,"female",2707,217,298
+"Iraq",2007,"male",3419,220,448
+"Iraq",2008,"female",3292,322,428
+"Iraq",2008,"male",3688,274,591
+"Iraq",2009,"female",3357,350,485
+"Iraq",2009,"male",3827,319,579
+"Iraq",2010,"female",3582,350,530
+"Iraq",2010,"male",3858,341,659
+"Iraq",2011,"female",3334,362,527
+"Iraq",2011,"male",3314,365,577
+"Iraq",2012,"female",3403,337,624
+"Iraq",2012,"male",3087,310,575
+"Iraq",2013,"female",3383,350,605
+"Iraq",2013,"male",3283,321,612
+"Italy",1995,"female",293,7,168
+"Italy",1995,"male",636,9,289
+"Italy",1996,"female",318,2,172
+"Italy",1996,"male",716,12,319
+"Italy",1997,"female",409,5,201
+"Italy",1997,"male",920,14,381
+"Italy",1998,"female",498,10,283
+"Italy",1998,"male",1118,15,429
+"Italy",1999,"female",242,8,141
+"Italy",1999,"male",588,7,247
+"Italy",2000,"female",161,6,39
+"Italy",2000,"male",346,12,112
+"Italy",2001,"female",198,4,54
+"Italy",2001,"male",384,4,99
+"Italy",2002,"female",246,6,85
+"Italy",2002,"male",459,6,134
+"Italy",2003,"female",298,6,91
+"Italy",2003,"male",607,19,146
+"Italy",2004,"female",200,16,56
+"Italy",2004,"male",404,34,123
+"Italy",2005,"female",325,3,70
+"Italy",2005,"male",583,8,115
+"Italy",2006,"female",1129,88,439
+"Italy",2006,"male",1781,69,552
+"Italy",2007,"female",861,49,322
+"Italy",2007,"male",1277,40,416
+"Italy",2008,"female",955,106,313
+"Italy",2008,"male",1498,105,418
+"Italy",2009,"female",728,61,256
+"Italy",2009,"male",1111,68,296
+"Italy",2010,"female",840,103,223
+"Italy",2010,"male",1211,82,263
+"Italy",2011,"female",628,60,193
+"Italy",2011,"male",848,61,217
+"Italy",2012,"female",492,49,159
+"Italy",2012,"male",702,40,169
+"Italy",2013,"female",761,61,249
+"Italy",2013,"male",1056,63,244
+"Japan",1995,"female",2145,14,2234
+"Japan",1995,"male",5870,15,4089
+"Japan",1996,"female",1824,7,1974
+"Japan",1996,"male",5407,16,3639
+"Japan",1997,"female",1892,11,2177
+"Japan",1997,"male",5428,8,4055
+"Japan",1998,"female",1640,6,1884
+"Japan",1998,"male",4858,2,3545
+"Japan",1999,"female",1659,7,2128
+"Japan",1999,"male",4992,6,4117
+"Japan",2000,"female",1575,5,1958
+"Japan",2000,"male",4497,2,3816
+"Japan",2001,"female",1420,5,1880
+"Japan",2001,"male",4260,3,3840
+"Japan",2002,"female",1402,3,1808
+"Japan",2002,"male",3845,2,3747
+"Japan",2003,"female",1411,2,1966
+"Japan",2003,"male",3732,1,3731
+"Japan",2004,"female",1292,6,1861
+"Japan",2004,"male",3551,2,3759
+"Japan",2005,"female",1397,5,2077
+"Japan",2005,"male",3576,9,3867
+"Japan",2006,"female",3901,41,4814
+"Japan",2006,"male",7440,41,8223
+"Japan",2007,"female",3651,51,4869
+"Japan",2007,"male",6848,41,8166
+"Japan",2008,"female",3603,42,4923
+"Japan",2008,"male",6384,50,7922
+"Japan",2009,"female",3506,40,5083
+"Japan",2009,"male",5962,27,7801
+"Japan",2010,"female",3135,46,4955
+"Japan",2010,"male",5662,39,7662
+"Japan",2011,"female",3179,45,4961
+"Japan",2011,"male",5133,35,7641
+"Japan",2012,"female",2765,27,5092
+"Japan",2012,"male",4675,33,7355
+"Japan",2013,"female",2704,35,5252
+"Japan",2013,"male",4498,31,7975
+"Kazakhstan",1995,"female",NA,NA,NA
+"Kazakhstan",1995,"male",NA,NA,NA
+"Kazakhstan",1996,"female",NA,NA,NA
+"Kazakhstan",1996,"male",NA,NA,NA
+"Kazakhstan",1997,"female",1457,47,115
+"Kazakhstan",1997,"male",2580,22,211
+"Kazakhstan",1998,"female",2173,62,69
+"Kazakhstan",1998,"male",3764,34,78
+"Kazakhstan",1999,"female",2543,60,136
+"Kazakhstan",1999,"male",3949,34,165
+"Kazakhstan",2000,"female",3154,84,204
+"Kazakhstan",2000,"male",5207,36,218
+"Kazakhstan",2001,"female",3129,88,173
+"Kazakhstan",2001,"male",5440,38,211
+"Kazakhstan",2002,"female",3332,68,208
+"Kazakhstan",2002,"male",5599,33,212
+"Kazakhstan",2003,"female",NA,NA,NA
+"Kazakhstan",2003,"male",NA,NA,NA
+"Kazakhstan",2004,"female",2758,62,189
+"Kazakhstan",2004,"male",4698,24,196
+"Kazakhstan",2005,"female",2361,46,187
+"Kazakhstan",2005,"male",4111,31,175
+"Kazakhstan",2006,"female",8734,2605,369
+"Kazakhstan",2006,"male",11243,2551,486
+"Kazakhstan",2007,"female",7938,718,327
+"Kazakhstan",2007,"male",10514,1166,410
+"Kazakhstan",2008,"female",7666,518,378
+"Kazakhstan",2008,"male",10272,463,387
+"Kazakhstan",2009,"female",6746,418,268
+"Kazakhstan",2009,"male",8680,400,298
+"Kazakhstan",2010,"female",6261,389,255
+"Kazakhstan",2010,"male",7940,344,298
+"Kazakhstan",2011,"female",5797,330,258
+"Kazakhstan",2011,"male",7470,292,249
+"Kazakhstan",2012,"female",5309,317,259
+"Kazakhstan",2012,"male",7011,259,249
+"Kazakhstan",2013,"female",6249,276,594
+"Kazakhstan",2013,"male",10993,235,611
+"Kenya",1995,"female",4955,187,117
+"Kenya",1995,"male",8225,154,296
+"Kenya",1996,"female",6250,252,114
+"Kenya",1996,"male",9900,151,311
+"Kenya",1997,"female",7004,242,103
+"Kenya",1997,"male",11170,53,284
+"Kenya",1998,"female",9142,318,141
+"Kenya",1998,"male",13836,210,382
+"Kenya",1999,"female",10551,373,179
+"Kenya",1999,"male",15452,237,405
+"Kenya",2000,"female",11331,416,148
+"Kenya",2000,"male",16200,264,414
+"Kenya",2001,"female",12330,464,221
+"Kenya",2001,"male",17550,299,443
+"Kenya",2002,"female",13715,392,190
+"Kenya",2002,"male",19289,299,433
+"Kenya",2003,"female",15366,487,309
+"Kenya",2003,"male",21088,341,567
+"Kenya",2004,"female",16428,519,312
+"Kenya",2004,"male",22923,391,576
+"Kenya",2005,"female",16305,577,315
+"Kenya",2005,"male",22243,359,590
+"Kenya",2006,"female",15744,583,379
+"Kenya",2006,"male",21416,387,645
+"Kenya",2007,"female",15069,599,329
+"Kenya",2007,"male",21288,474,601
+"Kenya",2008,"female",30424,2955,1146
+"Kenya",2008,"male",39413,3017,1742
+"Kenya",2009,"female",33521,3280,1362
+"Kenya",2009,"male",43705,3363,2196
+"Kenya",2010,"female",32597,2841,1546
+"Kenya",2010,"male",43160,2880,2460
+"Kenya",2011,"female",31181,2934,1494
+"Kenya",2011,"male",43729,2854,2356
+"Kenya",2012,"female",30024,2718,1588
+"Kenya",2012,"male",42063,2650,2406
+"Kenya",2013,"female",26837,2174,1402
+"Kenya",2013,"male",39326,2209,2387
+"Kyrgyzstan",1995,"female",231,1,19
+"Kyrgyzstan",1995,"male",548,3,30
+"Kyrgyzstan",1996,"female",282,8,31
+"Kyrgyzstan",1996,"male",638,4,40
+"Kyrgyzstan",1997,"female",363,4,37
+"Kyrgyzstan",1997,"male",1175,1,38
+"Kyrgyzstan",1998,"female",253,3,9
+"Kyrgyzstan",1998,"male",540,4,21
+"Kyrgyzstan",1999,"female",482,8,35
+"Kyrgyzstan",1999,"male",1063,5,49
+"Kyrgyzstan",2000,"female",445,6,29
+"Kyrgyzstan",2000,"male",727,4,46
+"Kyrgyzstan",2001,"female",496,0,48
+"Kyrgyzstan",2001,"male",893,0,44
+"Kyrgyzstan",2002,"female",531,0,67
+"Kyrgyzstan",2002,"male",901,0,45
+"Kyrgyzstan",2003,"female",604,0,42
+"Kyrgyzstan",2003,"male",936,0,70
+"Kyrgyzstan",2004,"female",621,11,72
+"Kyrgyzstan",2004,"male",985,3,69
+"Kyrgyzstan",2005,"female",695,15,98
+"Kyrgyzstan",2005,"male",1079,1,84
+"Kyrgyzstan",2006,"female",645,13,65
+"Kyrgyzstan",2006,"male",1042,3,75
+"Kyrgyzstan",2007,"female",657,11,61
+"Kyrgyzstan",2007,"male",951,3,63
+"Kyrgyzstan",2008,"female",1795,324,155
+"Kyrgyzstan",2008,"male",2587,306,166
+"Kyrgyzstan",2009,"female",1926,261,137
+"Kyrgyzstan",2009,"male",2660,280,170
+"Kyrgyzstan",2010,"female",1965,248,125
+"Kyrgyzstan",2010,"male",2521,283,166
+"Kyrgyzstan",2011,"female",585,13,39
+"Kyrgyzstan",2011,"male",853,6,41
+"Kyrgyzstan",2012,"female",1983,295,141
+"Kyrgyzstan",2012,"male",2949,345,138
+"Kyrgyzstan",2013,"female",2072,293,175
+"Kyrgyzstan",2013,"male",2848,301,170
+"Lao People's Democratic Republic",1995,"female",273,3,26
+"Lao People's Democratic Republic",1995,"male",363,6,55
+"Lao People's Democratic Republic",1996,"female",296,4,24
+"Lao People's Democratic Republic",1996,"male",477,1,84
+"Lao People's Democratic Republic",1997,"female",435,2,54
+"Lao People's Democratic Republic",1997,"male",617,2,124
+"Lao People's Democratic Republic",1998,"female",500,6,65
+"Lao People's Democratic Republic",1998,"male",767,4,152
+"Lao People's Democratic Republic",1999,"female",556,9,90
+"Lao People's Democratic Republic",1999,"male",855,5,191
+"Lao People's Democratic Republic",2000,"female",498,10,71
+"Lao People's Democratic Republic",2000,"male",764,7,176
+"Lao People's Democratic Republic",2001,"female",513,6,71
+"Lao People's Democratic Republic",2001,"male",799,10,164
+"Lao People's Democratic Republic",2002,"female",633,2,90
+"Lao People's Democratic Republic",2002,"male",915,4,185
+"Lao People's Democratic Republic",2003,"female",616,7,98
+"Lao People's Democratic Republic",2003,"male",943,6,196
+"Lao People's Democratic Republic",2004,"female",702,12,121
+"Lao People's Democratic Republic",2004,"male",1109,14,268
+"Lao People's Democratic Republic",2005,"female",928,7,178
+"Lao People's Democratic Republic",2005,"male",1328,13,352
+"Lao People's Democratic Republic",2006,"female",976,13,205
+"Lao People's Democratic Republic",2006,"male",1481,12,354
+"Lao People's Democratic Republic",2007,"female",1015,7,207
+"Lao People's Democratic Republic",2007,"male",1494,11,350
+"Lao People's Democratic Republic",2008,"female",959,10,192
+"Lao People's Democratic Republic",2008,"male",1539,6,373
+"Lao People's Democratic Republic",2009,"female",992,6,207
+"Lao People's Democratic Republic",2009,"male",1467,11,351
+"Lao People's Democratic Republic",2010,"female",1207,27,278
+"Lao People's Democratic Republic",2010,"male",1831,33,443
+"Lao People's Democratic Republic",2011,"female",1313,25,270
+"Lao People's Democratic Republic",2011,"male",2034,27,467
+"Lao People's Democratic Republic",2012,"female",1233,37,247
+"Lao People's Democratic Republic",2012,"male",1877,30,461
+"Lao People's Democratic Republic",2013,"female",1206,37,239
+"Lao People's Democratic Republic",2013,"male",1964,35,456
+"Lesotho",1995,"female",368,14,19
+"Lesotho",1995,"male",863,9,88
+"Lesotho",1996,"female",520,7,28
+"Lesotho",1996,"male",1134,12,87
+"Lesotho",1997,"female",751,29,23
+"Lesotho",1997,"male",1515,11,69
+"Lesotho",1998,"female",703,10,23
+"Lesotho",1998,"male",1647,6,87
+"Lesotho",1999,"female",NA,NA,NA
+"Lesotho",1999,"male",NA,NA,NA
+"Lesotho",2000,"female",872,11,29
+"Lesotho",2000,"male",1733,8,76
+"Lesotho",2001,"female",NA,NA,NA
+"Lesotho",2001,"male",NA,NA,NA
+"Lesotho",2002,"female",1124,14,17
+"Lesotho",2002,"male",1858,10,80
+"Lesotho",2003,"female",1486,32,33
+"Lesotho",2003,"male",2110,10,83
+"Lesotho",2004,"female",1743,22,36
+"Lesotho",2004,"male",2364,29,78
+"Lesotho",2005,"female",2354,19,121
+"Lesotho",2005,"male",1717,32,37
+"Lesotho",2006,"female",1703,50,125
+"Lesotho",2006,"male",2064,33,49
+"Lesotho",2007,"female",358,4,13
+"Lesotho",2007,"male",379,6,28
+"Lesotho",2008,"female",1623,24,54
+"Lesotho",2008,"male",2002,21,138
+"Lesotho",2009,"female",4654,306,220
+"Lesotho",2009,"male",5577,355,433
+"Lesotho",2010,"female",4312,334,223
+"Lesotho",2010,"male",5385,373,526
+"Lesotho",2011,"female",4448,300,213
+"Lesotho",2011,"male",5193,340,451
+"Lesotho",2012,"female",4307,307,195
+"Lesotho",2012,"male",4844,276,388
+"Lesotho",2013,"female",3463,229,225
+"Lesotho",2013,"male",4319,244,436
+"Liberia",1995,"female",NA,NA,NA
+"Liberia",1995,"male",NA,NA,NA
+"Liberia",1996,"female",237,44,7
+"Liberia",1996,"male",333,38,9
+"Liberia",1997,"female",NA,NA,NA
+"Liberia",1997,"male",NA,NA,NA
+"Liberia",1998,"female",484,18,16
+"Liberia",1998,"male",643,18,11
+"Liberia",1999,"female",NA,NA,NA
+"Liberia",1999,"male",NA,NA,NA
+"Liberia",2000,"female",421,21,16
+"Liberia",2000,"male",525,12,26
+"Liberia",2001,"female",380,18,12
+"Liberia",2001,"male",497,16,11
+"Liberia",2002,"female",783,26,26
+"Liberia",2002,"male",1065,20,44
+"Liberia",2003,"female",510,12,22
+"Liberia",2003,"male",747,5,23
+"Liberia",2004,"female",1012,39,42
+"Liberia",2004,"male",1314,32,51
+"Liberia",2005,"female",860,37,25
+"Liberia",2005,"male",1154,26,65
+"Liberia",2006,"female",1667,150,82
+"Liberia",2006,"male",2102,180,117
+"Liberia",2007,"female",NA,NA,NA
+"Liberia",2007,"male",NA,NA,NA
+"Liberia",2008,"female",1187,56,44
+"Liberia",2008,"male",1550,107,98
+"Liberia",2009,"female",1664,146,96
+"Liberia",2009,"male",2262,144,0
+"Liberia",2010,"female",2531,601,255
+"Liberia",2010,"male",2514,564,33
+"Liberia",2011,"female",2938,190,175
+"Liberia",2011,"male",3757,306,339
+"Liberia",2012,"female",3064,296,182
+"Liberia",2012,"male",3804,386,305
+"Liberia",2013,"female",1373,64,64
+"Liberia",2013,"male",2179,57,98
+"Madagascar",1995,"female",3221,100,78
+"Madagascar",1995,"male",4306,79,242
+"Madagascar",1996,"female",3173,106,79
+"Madagascar",1996,"male",4641,68,285
+"Madagascar",1997,"female",NA,NA,NA
+"Madagascar",1997,"male",NA,NA,NA
+"Madagascar",1998,"female",3552,108,117
+"Madagascar",1998,"male",5106,70,282
+"Madagascar",1999,"female",NA,NA,NA
+"Madagascar",1999,"male",NA,NA,NA
+"Madagascar",2000,"female",NA,NA,NA
+"Madagascar",2000,"male",NA,NA,NA
+"Madagascar",2001,"female",4288,190,154
+"Madagascar",2001,"male",5953,103,404
+"Madagascar",2002,"female",4187,163,135
+"Madagascar",2002,"male",5963,94,398
+"Madagascar",2003,"female",5051,216,191
+"Madagascar",2003,"male",7054,123,438
+"Madagascar",2004,"female",3654,130,95
+"Madagascar",2004,"male",5621,118,300
+"Madagascar",2005,"female",4372,150,129
+"Madagascar",2005,"male",6689,98,333
+"Madagascar",2006,"female",6073,208,166
+"Madagascar",2006,"male",8591,117,458
+"Madagascar",2007,"female",7773,772,314
+"Madagascar",2007,"male",10357,863,559
+"Madagascar",2008,"female",5925,251,171
+"Madagascar",2008,"male",8411,1572,465
+"Madagascar",2009,"female",6137,230,187
+"Madagascar",2009,"male",12670,1678,433
+"Madagascar",2010,"female",6283,323,192
+"Madagascar",2010,"male",13218,1803,485
+"Madagascar",2011,"female",6700,252,188
+"Madagascar",2011,"male",10048,146,522
+"Madagascar",2012,"female",6376,242,199
+"Madagascar",2012,"male",9645,177,490
+"Madagascar",2013,"female",NA,NA,NA
+"Madagascar",2013,"male",NA,NA,NA
+"Malawi",1995,"female",2805,65,45
+"Malawi",1995,"male",3255,25,89
+"Malawi",1996,"female",3269,92,37
+"Malawi",1996,"male",3640,27,110
+"Malawi",1997,"female",3553,84,36
+"Malawi",1997,"male",3766,47,101
+"Malawi",1998,"female",4168,85,63
+"Malawi",1998,"male",4340,46,151
+"Malawi",1999,"female",3846,80,62
+"Malawi",1999,"male",3973,43,126
+"Malawi",2000,"female",3899,66,64
+"Malawi",2000,"male",4072,50,114
+"Malawi",2001,"female",3975,74,58
+"Malawi",2001,"male",4036,37,129
+"Malawi",2002,"female",NA,NA,NA
+"Malawi",2002,"male",NA,NA,NA
+"Malawi",2003,"female",3813,76,52
+"Malawi",2003,"male",3604,43,128
+"Malawi",2004,"female",4216,78,96
+"Malawi",2004,"male",4005,47,124
+"Malawi",2005,"female",3936,84,74
+"Malawi",2005,"male",4134,58,157
+"Malawi",2006,"female",3737,80,93
+"Malawi",2006,"male",4032,42,182
+"Malawi",2007,"female",3468,109,84
+"Malawi",2007,"male",3728,61,158
+"Malawi",2008,"female",3298,166,89
+"Malawi",2008,"male",3896,56,176
+"Malawi",2009,"female",3135,75,104
+"Malawi",2009,"male",4057,53,199
+"Malawi",2010,"female",2979,103,102
+"Malawi",2010,"male",3819,50,187
+"Malawi",2011,"female",2824,79,96
+"Malawi",2011,"male",3733,70,201
+"Malawi",2012,"female",2658,71,120
+"Malawi",2012,"male",3846,52,204
+"Malawi",2013,"female",6190,850,395
+"Malawi",2013,"male",7698,977,685
+"Malaysia",1995,"female",1704,58,339
+"Malaysia",1995,"male",3456,59,1072
+"Malaysia",1996,"female",1860,77,270
+"Malaysia",1996,"male",4149,45,868
+"Malaysia",1997,"female",1882,51,343
+"Malaysia",1997,"male",3894,44,1123
+"Malaysia",1998,"female",1930,45,406
+"Malaysia",1998,"male",4108,31,1282
+"Malaysia",1999,"female",2130,32,268
+"Malaysia",1999,"male",4870,27,880
+"Malaysia",2000,"female",2175,41,286
+"Malaysia",2000,"male",4731,32,891
+"Malaysia",2001,"female",2188,36,222
+"Malaysia",2001,"male",5077,48,738
+"Malaysia",2002,"female",2164,30,293
+"Malaysia",2002,"male",4605,22,844
+"Malaysia",2003,"female",4123,196,626
+"Malaysia",2003,"male",8530,216,1601
+"Malaysia",2004,"female",4090,227,532
+"Malaysia",2004,"male",8819,191,1535
+"Malaysia",2005,"female",4454,208,572
+"Malaysia",2005,"male",9081,244,1507
+"Malaysia",2006,"female",2042,51,261
+"Malaysia",2006,"male",4381,120,669
+"Malaysia",2007,"female",4415,226,514
+"Malaysia",2007,"male",8830,216,1395
+"Malaysia",2008,"female",4876,240,657
+"Malaysia",2008,"male",9967,221,1543
+"Malaysia",2009,"female",NA,NA,NA
+"Malaysia",2009,"male",NA,NA,NA
+"Malaysia",2010,"female",5110,235,636
+"Malaysia",2010,"male",10236,208,1593
+"Malaysia",2011,"female",5600,270,689
+"Malaysia",2011,"male",10750,270,1672
+"Malaysia",2012,"female",6282,343,793
+"Malaysia",2012,"male",11493,344,1994
+"Malaysia",2013,"female",6983,335,989
+"Malaysia",2013,"male",12561,309,2158
+"Mali",1995,"female",612,31,52
+"Mali",1995,"male",1042,27,102
+"Mali",1996,"female",624,21,36
+"Mali",1996,"male",1337,19,136
+"Mali",1997,"female",780,15,34
+"Mali",1997,"male",1890,16,164
+"Mali",1998,"female",741,11,30
+"Mali",1998,"male",1635,13,130
+"Mali",1999,"female",793,21,58
+"Mali",1999,"male",1670,19,129
+"Mali",2000,"female",739,14,43
+"Mali",2000,"male",1564,23,144
+"Mali",2001,"female",NA,NA,NA
+"Mali",2001,"male",NA,NA,NA
+"Mali",2002,"female",818,39,24
+"Mali",2002,"male",1784,20,72
+"Mali",2003,"female",858,29,45
+"Mali",2003,"male",1936,32,115
+"Mali",2004,"female",914,29,57
+"Mali",2004,"male",1894,28,147
+"Mali",2005,"female",1054,33,72
+"Mali",2005,"male",2145,26,193
+"Mali",2006,"female",1154,30,76
+"Mali",2006,"male",2668,624,216
+"Mali",2007,"female",1179,30,95
+"Mali",2007,"male",3392,44,213
+"Mali",2008,"female",1585,67,121
+"Mali",2008,"male",2719,91,250
+"Mali",2009,"female",1589,44,104
+"Mali",2009,"male",3114,37,275
+"Mali",2010,"female",1089,31,70
+"Mali",2010,"male",2195,94,207
+"Mali",2011,"female",1136,42,68
+"Mali",2011,"male",2276,25,230
+"Mali",2012,"female",1062,34,77
+"Mali",2012,"male",2317,25,211
+"Mali",2013,"female",1140,27,74
+"Mali",2013,"male",2321,26,230
+"Mexico",1995,"female",NA,NA,NA
+"Mexico",1995,"male",NA,NA,NA
+"Mexico",1996,"female",2947,243,312
+"Mexico",1996,"male",4326,198,469
+"Mexico",1997,"female",NA,NA,NA
+"Mexico",1997,"male",NA,NA,NA
+"Mexico",1998,"female",3884,268,585
+"Mexico",1998,"male",5615,229,892
+"Mexico",1999,"female",3466,151,710
+"Mexico",1999,"male",5149,143,1128
+"Mexico",2000,"female",3616,176,709
+"Mexico",2000,"male",5835,214,1126
+"Mexico",2001,"female",4708,146,948
+"Mexico",2001,"male",7605,130,1566
+"Mexico",2002,"female",3560,149,733
+"Mexico",2002,"male",5815,154,1144
+"Mexico",2003,"female",3966,184,841
+"Mexico",2003,"male",6403,187,1352
+"Mexico",2004,"female",3423,102,725
+"Mexico",2004,"male",5669,86,1209
+"Mexico",2005,"female",3635,125,784
+"Mexico",2005,"male",6065,100,1288
+"Mexico",2006,"female",5401,466,1120
+"Mexico",2006,"male",8055,439,1612
+"Mexico",2007,"female",5473,447,1131
+"Mexico",2007,"male",8387,486,1689
+"Mexico",2008,"female",5142,400,1069
+"Mexico",2008,"male",7646,382,1501
+"Mexico",2009,"female",4934,337,1003
+"Mexico",2009,"male",7880,328,1531
+"Mexico",2010,"female",5732,441,1199
+"Mexico",2010,"male",9212,480,1784
+"Mexico",2011,"female",5811,429,1163
+"Mexico",2011,"male",9416,457,1710
+"Mexico",2012,"female",5959,467,1191
+"Mexico",2012,"male",9683,484,1774
+"Mexico",2013,"female",6270,376,1232
+"Mexico",2013,"male",10461,429,1940
+"Mongolia",1995,"female",205,30,25
+"Mongolia",1995,"male",310,37,15
+"Mongolia",1996,"female",303,17,12
+"Mongolia",1996,"male",410,8,19
+"Mongolia",1997,"female",348,12,9
+"Mongolia",1997,"male",779,6,17
+"Mongolia",1998,"female",551,32,15
+"Mongolia",1998,"male",719,17,22
+"Mongolia",1999,"female",631,25,17
+"Mongolia",1999,"male",802,12,26
+"Mongolia",2000,"female",593,32,17
+"Mongolia",2000,"male",718,6,23
+"Mongolia",2001,"female",714,25,29
+"Mongolia",2001,"male",815,13,36
+"Mongolia",2002,"female",726,16,23
+"Mongolia",2002,"male",849,9,47
+"Mongolia",2003,"female",712,19,19
+"Mongolia",2003,"male",742,10,39
+"Mongolia",2004,"female",780,18,23
+"Mongolia",2004,"male",938,6,43
+"Mongolia",2005,"female",830,15,25
+"Mongolia",2005,"male",955,7,36
+"Mongolia",2006,"female",922,16,29
+"Mongolia",2006,"male",1114,7,41
+"Mongolia",2007,"female",778,23,29
+"Mongolia",2007,"male",988,4,34
+"Mongolia",2008,"female",757,18,26
+"Mongolia",2008,"male",994,7,36
+"Mongolia",2009,"female",769,20,27
+"Mongolia",2009,"male",964,2,27
+"Mongolia",2010,"female",1732,188,80
+"Mongolia",2010,"male",1931,196,86
+"Mongolia",2011,"female",1549,168,57
+"Mongolia",2011,"male",1915,202,94
+"Mongolia",2012,"female",1516,152,76
+"Mongolia",2012,"male",1949,159,92
+"Mongolia",2013,"female",1634,185,83
+"Mongolia",2013,"male",2154,174,101
+"Morocco",1995,"female",4477,191,299
+"Morocco",1995,"male",8509,142,553
+"Morocco",1996,"female",4511,217,292
+"Morocco",1996,"male",8557,118,583
+"Morocco",1997,"female",4715,238,275
+"Morocco",1997,"male",8230,119,557
+"Morocco",1998,"female",4243,182,330
+"Morocco",1998,"male",8028,116,527
+"Morocco",1999,"female",4285,156,332
+"Morocco",1999,"male",8007,78,562
+"Morocco",2000,"female",4127,170,352
+"Morocco",2000,"male",7529,99,595
+"Morocco",2001,"female",3920,156,360
+"Morocco",2001,"male",7677,85,606
+"Morocco",2002,"female",4084,144,386
+"Morocco",2002,"male",7644,79,577
+"Morocco",2003,"female",3914,168,351
+"Morocco",2003,"male",7768,91,550
+"Morocco",2004,"female",3398,149,325
+"Morocco",2004,"male",7801,68,539
+"Morocco",2005,"female",3565,167,398
+"Morocco",2005,"male",7957,79,591
+"Morocco",2006,"female",8873,1224,725
+"Morocco",2006,"male",12913,1270,1094
+"Morocco",2007,"female",8433,1081,894
+"Morocco",2007,"male",12938,1072,1144
+"Morocco",2008,"female",8357,1103,866
+"Morocco",2008,"male",12875,1086,1186
+"Morocco",2009,"female",8728,1144,873
+"Morocco",2009,"male",13102,1120,1092
+"Morocco",2010,"female",9042,1118,899
+"Morocco",2010,"male",13920,1041,1123
+"Morocco",2011,"female",9470,1112,921
+"Morocco",2011,"male",13599,1130,1193
+"Morocco",2012,"female",9499,1038,963
+"Morocco",2012,"male",13772,962,1203
+"Morocco",2013,"female",9418,1085,921
+"Morocco",2013,"male",13991,966,1185
+"Mozambique",1995,"female",4109,226,89
+"Mozambique",1995,"male",5635,187,320
+"Mozambique",1996,"female",4127,205,74
+"Mozambique",1996,"male",5656,141,275
+"Mozambique",1997,"female",4401,187,78
+"Mozambique",1997,"male",5983,163,313
+"Mozambique",1998,"female",NA,NA,NA
+"Mozambique",1998,"male",NA,NA,NA
+"Mozambique",1999,"female",NA,NA,NA
+"Mozambique",1999,"male",NA,NA,NA
+"Mozambique",2000,"female",NA,NA,NA
+"Mozambique",2000,"male",NA,NA,NA
+"Mozambique",2001,"female",NA,NA,NA
+"Mozambique",2001,"male",NA,NA,NA
+"Mozambique",2002,"female",NA,NA,NA
+"Mozambique",2002,"male",NA,NA,NA
+"Mozambique",2003,"female",NA,NA,NA
+"Mozambique",2003,"male",NA,NA,NA
+"Mozambique",2004,"female",NA,NA,NA
+"Mozambique",2004,"male",NA,NA,NA
+"Mozambique",2005,"female",NA,NA,NA
+"Mozambique",2005,"male",NA,NA,NA
+"Mozambique",2006,"female",NA,NA,NA
+"Mozambique",2006,"male",NA,NA,NA
+"Mozambique",2007,"female",NA,NA,NA
+"Mozambique",2007,"male",NA,NA,NA
+"Mozambique",2008,"female",NA,NA,NA
+"Mozambique",2008,"male",NA,NA,NA
+"Mozambique",2009,"female",NA,NA,NA
+"Mozambique",2009,"male",NA,NA,NA
+"Mozambique",2010,"female",NA,NA,NA
+"Mozambique",2010,"male",NA,NA,NA
+"Mozambique",2011,"female",NA,NA,NA
+"Mozambique",2011,"male",NA,NA,NA
+"Mozambique",2012,"female",NA,NA,NA
+"Mozambique",2012,"male",NA,NA,NA
+"Mozambique",2013,"female",NA,NA,NA
+"Mozambique",2013,"male",NA,NA,NA
+"Myanmar",1995,"female",2786,58,154
+"Myanmar",1995,"male",5191,42,298
+"Myanmar",1996,"female",3298,55,184
+"Myanmar",1996,"male",5721,58,400
+"Myanmar",1997,"female",2933,54,183
+"Myanmar",1997,"male",5347,56,441
+"Myanmar",1998,"female",3462,73,229
+"Myanmar",1998,"male",5823,64,438
+"Myanmar",1999,"female",3799,58,284
+"Myanmar",1999,"male",6740,37,540
+"Myanmar",2000,"female",5608,72,378
+"Myanmar",2000,"male",10272,88,836
+"Myanmar",2001,"female",6628,98,487
+"Myanmar",2001,"male",12473,69,931
+"Myanmar",2002,"female",7558,109,544
+"Myanmar",2002,"male",14820,64,1067
+"Myanmar",2003,"female",8660,154,617
+"Myanmar",2003,"male",16614,107,1296
+"Myanmar",2004,"female",9792,120,713
+"Myanmar",2004,"male",19120,96,1567
+"Myanmar",2005,"female",11305,147,885
+"Myanmar",2005,"male",22308,132,1764
+"Myanmar",2006,"female",12341,171,1016
+"Myanmar",2006,"male",24567,113,2033
+"Myanmar",2007,"female",13304,159,1198
+"Myanmar",2007,"male",25645,127,2155
+"Myanmar",2008,"female",12851,180,1102
+"Myanmar",2008,"male",24762,118,2235
+"Myanmar",2009,"female",12744,165,1100
+"Myanmar",2009,"male",25017,127,2248
+"Myanmar",2010,"female",13021,196,1139
+"Myanmar",2010,"male",25548,106,2308
+"Myanmar",2011,"female",13042,187,1407
+"Myanmar",2011,"male",25058,120,2500
+"Myanmar",2012,"female",13069,192,1464
+"Myanmar",2012,"male",25412,146,2626
+"Myanmar",2013,"female",NA,NA,NA
+"Myanmar",2013,"male",NA,NA,NA
+"Namibia",1995,"female",194,5,0
+"Namibia",1995,"male",492,0,6
+"Namibia",1996,"female",983,17,51
+"Namibia",1996,"male",1657,16,101
+"Namibia",1997,"female",1085,23,47
+"Namibia",1997,"male",1959,18,93
+"Namibia",1998,"female",1325,34,65
+"Namibia",1998,"male",2042,21,111
+"Namibia",1999,"female",1406,25,36
+"Namibia",1999,"male",2163,20,110
+"Namibia",2000,"female",1591,16,52
+"Namibia",2000,"male",2255,18,81
+"Namibia",2001,"female",1786,32,66
+"Namibia",2001,"male",2515,20,116
+"Namibia",2002,"female",1909,42,67
+"Namibia",2002,"male",2556,19,96
+"Namibia",2003,"female",2273,47,102
+"Namibia",2003,"male",2926,31,108
+"Namibia",2004,"female",2082,30,74
+"Namibia",2004,"male",2807,31,131
+"Namibia",2005,"female",2041,105,91
+"Namibia",2005,"male",2767,98,120
+"Namibia",2006,"female",2212,74,80
+"Namibia",2006,"male",2758,86,146
+"Namibia",2007,"female",2100,69,76
+"Namibia",2007,"male",2669,57,120
+"Namibia",2008,"female",1941,73,80
+"Namibia",2008,"male",2672,30,132
+"Namibia",2009,"female",1780,84,86
+"Namibia",2009,"male",2496,41,121
+"Namibia",2010,"female",1824,67,87
+"Namibia",2010,"male",2324,36,126
+"Namibia",2011,"female",1775,78,110
+"Namibia",2011,"male",2354,48,138
+"Namibia",2012,"female",3441,583,234
+"Namibia",2012,"male",4678,627,327
+"Namibia",2013,"female",3200,491,202
+"Namibia",2013,"male",4627,603,309
+"Nepal",1995,"female",NA,NA,NA
+"Nepal",1995,"male",NA,NA,NA
+"Nepal",1996,"female",2599,155,110
+"Nepal",1996,"male",5730,91,407
+"Nepal",1997,"female",NA,NA,NA
+"Nepal",1997,"male",NA,NA,NA
+"Nepal",1998,"female",3197,173,170
+"Nepal",1998,"male",6819,133,480
+"Nepal",1999,"female",3995,185,200
+"Nepal",1999,"male",8081,150,799
+"Nepal",2000,"female",4172,176,228
+"Nepal",2000,"male",8165,170,772
+"Nepal",2001,"female",4141,171,222
+"Nepal",2001,"male",8200,155,775
+"Nepal",2002,"female",4010,202,198
+"Nepal",2002,"male",8417,129,758
+"Nepal",2003,"female",4358,189,220
+"Nepal",2003,"male",8724,122,735
+"Nepal",2004,"female",4486,188,215
+"Nepal",2004,"male",8841,121,763
+"Nepal",2005,"female",4306,195,230
+"Nepal",2005,"male",8918,148,820
+"Nepal",2006,"female",4085,179,243
+"Nepal",2006,"male",8588,125,808
+"Nepal",2007,"female",4166,175,258
+"Nepal",2007,"male",8687,150,919
+"Nepal",2008,"female",3509,107,226
+"Nepal",2008,"male",6338,81,792
+"Nepal",2009,"female",4344,181,317
+"Nepal",2009,"male",9384,149,1067
+"Nepal",2010,"female",4355,192,352
+"Nepal",2010,"male",9379,165,1126
+"Nepal",2011,"female",4140,247,354
+"Nepal",2011,"male",8834,245,1180
+"Nepal",2012,"female",4210,210,397
+"Nepal",2012,"male",8787,250,1203
+"Nepal",2013,"female",4298,223,430
+"Nepal",2013,"male",8547,186,1415
+"Nicaragua",1995,"female",636,24,46
+"Nicaragua",1995,"male",747,23,92
+"Nicaragua",1996,"female",676,33,56
+"Nicaragua",1996,"male",836,27,94
+"Nicaragua",1997,"female",690,37,53
+"Nicaragua",1997,"male",789,18,83
+"Nicaragua",1998,"female",656,34,55
+"Nicaragua",1998,"male",769,24,110
+"Nicaragua",1999,"female",585,27,45
+"Nicaragua",1999,"male",796,26,85
+"Nicaragua",2000,"female",581,34,61
+"Nicaragua",2000,"male",687,18,90
+"Nicaragua",2001,"female",572,32,64
+"Nicaragua",2001,"male",723,24,95
+"Nicaragua",2002,"female",492,26,44
+"Nicaragua",2002,"male",662,22,74
+"Nicaragua",2003,"female",540,42,48
+"Nicaragua",2003,"male",695,14,65
+"Nicaragua",2004,"female",522,23,50
+"Nicaragua",2004,"male",636,24,72
+"Nicaragua",2005,"female",475,23,47
+"Nicaragua",2005,"male",605,17,79
+"Nicaragua",2006,"female",505,25,38
+"Nicaragua",2006,"male",630,15,72
+"Nicaragua",2007,"female",654,27,60
+"Nicaragua",2007,"male",837,16,96
+"Nicaragua",2008,"female",580,38,70
+"Nicaragua",2008,"male",782,20,87
+"Nicaragua",2009,"female",906,70,94
+"Nicaragua",2009,"male",1264,66,154
+"Nicaragua",2010,"female",520,27,79
+"Nicaragua",2010,"male",684,22,108
+"Nicaragua",2011,"female",539,4,72
+"Nicaragua",2011,"male",833,10,94
+"Nicaragua",2012,"female",0,0,0
+"Nicaragua",2012,"male",0,0,0
+"Nicaragua",2013,"female",716,31,39
+"Nicaragua",2013,"male",688,28,38
+"Niger",1995,"female",NA,NA,NA
+"Niger",1995,"male",NA,NA,NA
+"Niger",1996,"female",NA,NA,NA
+"Niger",1996,"male",NA,NA,NA
+"Niger",1997,"female",321,7,8
+"Niger",1997,"male",908,4,25
+"Niger",1998,"female",510,14,15
+"Niger",1998,"male",1521,4,61
+"Niger",1999,"female",NA,NA,NA
+"Niger",1999,"male",NA,NA,NA
+"Niger",2000,"female",711,31,9
+"Niger",2000,"male",1288,29,78
+"Niger",2001,"female",NA,NA,NA
+"Niger",2001,"male",NA,NA,NA
+"Niger",2002,"female",NA,NA,NA
+"Niger",2002,"male",NA,NA,NA
+"Niger",2003,"female",1096,30,42
+"Niger",2003,"male",3126,41,169
+"Niger",2004,"female",NA,NA,NA
+"Niger",2004,"male",NA,NA,NA
+"Niger",2005,"female",1286,34,70
+"Niger",2005,"male",3427,35,198
+"Niger",2006,"female",1359,37,84
+"Niger",2006,"male",3557,25,217
+"Niger",2007,"female",1427,57,109
+"Niger",2007,"male",3891,40,249
+"Niger",2008,"female",1363,57,110
+"Niger",2008,"male",3955,35,333
+"Niger",2009,"female",1499,36,127
+"Niger",2009,"male",4305,52,328
+"Niger",2010,"female",1449,39,135
+"Niger",2010,"male",4274,44,342
+"Niger",2011,"female",1524,50,147
+"Niger",2011,"male",4489,50,347
+"Niger",2012,"female",1498,48,124
+"Niger",2012,"male",4778,40,360
+"Niger",2013,"female",1596,47,151
+"Niger",2013,"male",4926,57,405
+"Nigeria",1995,"female",3785,404,451
+"Nigeria",1995,"male",3871,450,515
+"Nigeria",1996,"female",6711,411,215
+"Nigeria",1996,"male",7784,234,309
+"Nigeria",1997,"female",4545,156,120
+"Nigeria",1997,"male",5960,116,338
+"Nigeria",1998,"female",5403,169,132
+"Nigeria",1998,"male",6963,125,369
+"Nigeria",1999,"female",NA,NA,NA
+"Nigeria",1999,"male",NA,NA,NA
+"Nigeria",2000,"female",7498,239,231
+"Nigeria",2000,"male",8830,157,463
+"Nigeria",2001,"female",7432,272,251
+"Nigeria",2001,"male",9490,164,488
+"Nigeria",2002,"female",8092,242,241
+"Nigeria",2002,"male",10324,163,534
+"Nigeria",2003,"female",11018,356,327
+"Nigeria",2003,"male",15486,267,719
+"Nigeria",2004,"female",12927,469,567
+"Nigeria",2004,"male",18117,408,1267
+"Nigeria",2005,"female",13423,482,415
+"Nigeria",2005,"male",19453,325,950
+"Nigeria",2006,"female",14918,385,545
+"Nigeria",2006,"male",22911,247,897
+"Nigeria",2007,"female",16674,685,625
+"Nigeria",2007,"male",24188,503,1341
+"Nigeria",2008,"female",17329,745,660
+"Nigeria",2008,"male",25446,579,1267
+"Nigeria",2009,"female",16667,804,623
+"Nigeria",2009,"male",24789,711,1269
+"Nigeria",2010,"female",16616,595,682
+"Nigeria",2010,"male",25639,521,1363
+"Nigeria",2011,"female",17066,578,724
+"Nigeria",2011,"male",27097,529,1443
+"Nigeria",2012,"female",19031,649,867
+"Nigeria",2012,"male",30130,538,1686
+"Nigeria",2013,"female",35678,2768,2434
+"Nigeria",2013,"male",52257,3008,4256
+"Pakistan",1995,"female",1344,85,79
+"Pakistan",1995,"male",946,29,95
+"Pakistan",1996,"female",NA,NA,NA
+"Pakistan",1996,"male",NA,NA,NA
+"Pakistan",1997,"female",NA,NA,NA
+"Pakistan",1997,"male",NA,NA,NA
+"Pakistan",1998,"female",1801,159,50
+"Pakistan",1998,"male",1939,59,137
+"Pakistan",1999,"female",1118,33,114
+"Pakistan",1999,"male",845,49,113
+"Pakistan",2000,"female",1547,130,56
+"Pakistan",2000,"male",1526,55,130
+"Pakistan",2001,"female",3245,241,142
+"Pakistan",2001,"male",3915,139,306
+"Pakistan",2002,"female",6949,512,303
+"Pakistan",2002,"male",6945,225,554
+"Pakistan",2003,"female",9272,622,503
+"Pakistan",2003,"male",9742,284,870
+"Pakistan",2004,"female",13533,950,837
+"Pakistan",2004,"male",14183,363,1581
+"Pakistan",2005,"female",20987,1447,1338
+"Pakistan",2005,"male",21466,621,2453
+"Pakistan",2006,"female",27559,1941,1950
+"Pakistan",2006,"male",29599,820,3439
+"Pakistan",2007,"female",37597,2443,2934
+"Pakistan",2007,"male",39600,1017,5156
+"Pakistan",2008,"female",42610,2696,3547
+"Pakistan",2008,"male",44012,1213,5959
+"Pakistan",2009,"female",43538,2595,3492
+"Pakistan",2009,"male",45016,1052,5981
+"Pakistan",2010,"female",44032,14002,4338
+"Pakistan",2010,"male",45545,10472,6066
+"Pakistan",2011,"female",44783,14077,3711
+"Pakistan",2011,"male",47021,11656,6323
+"Pakistan",2012,"female",46980,14778,4056
+"Pakistan",2012,"male",49070,11381,6492
+"Pakistan",2013,"female",NA,15646,NA
+"Pakistan",2013,"male",NA,12467,NA
+"Paraguay",1995,"female",229,13,53
+"Paraguay",1995,"male",362,18,61
+"Paraguay",1996,"female",319,16,59
+"Paraguay",1996,"male",417,17,49
+"Paraguay",1997,"female",319,27,42
+"Paraguay",1997,"male",391,25,74
+"Paraguay",1998,"female",249,17,38
+"Paraguay",1998,"male",445,14,85
+"Paraguay",1999,"female",303,22,60
+"Paraguay",1999,"male",564,19,67
+"Paraguay",2000,"female",267,12,46
+"Paraguay",2000,"male",486,16,71
+"Paraguay",2001,"female",290,22,41
+"Paraguay",2001,"male",468,18,73
+"Paraguay",2002,"female",312,12,39
+"Paraguay",2002,"male",541,20,78
+"Paraguay",2003,"female",325,28,61
+"Paraguay",2003,"male",650,11,91
+"Paraguay",2004,"female",375,21,43
+"Paraguay",2004,"male",622,18,121
+"Paraguay",2005,"female",337,31,71
+"Paraguay",2005,"male",693,23,99
+"Paraguay",2006,"female",583,179,116
+"Paraguay",2006,"male",1119,172,190
+"Paraguay",2007,"female",485,157,82
+"Paraguay",2007,"male",1090,183,173
+"Paraguay",2008,"female",491,93,101
+"Paraguay",2008,"male",1167,103,178
+"Paraguay",2009,"female",523,116,89
+"Paraguay",2009,"male",1195,107,159
+"Paraguay",2010,"female",497,107,92
+"Paraguay",2010,"male",1069,112,179
+"Paraguay",2011,"female",509,95,87
+"Paraguay",2011,"male",1137,139,149
+"Paraguay",2012,"female",499,109,84
+"Paraguay",2012,"male",1089,127,186
+"Paraguay",2013,"female",521,84,78
+"Paraguay",2013,"male",1277,99,184
+"Peru",1995,"female",2459,149,152
+"Peru",1995,"male",3136,147,216
+"Peru",1996,"female",2050,169,144
+"Peru",1996,"male",3011,151,167
+"Peru",1997,"female",9892,864,496
+"Peru",1997,"male",14753,745,748
+"Peru",1998,"female",10108,862,623
+"Peru",1998,"male",14521,704,889
+"Peru",1999,"female",10752,700,703
+"Peru",1999,"male",10930,712,714
+"Peru",2000,"female",8422,633,624
+"Peru",2000,"male",11553,552,796
+"Peru",2001,"female",8620,11,497
+"Peru",2001,"male",11850,11,696
+"Peru",2002,"female",1660,62,100
+"Peru",2002,"male",2261,65,138
+"Peru",2003,"female",1511,107,98
+"Peru",2003,"male",1964,101,165
+"Peru",2004,"female",7405,410,471
+"Peru",2004,"male",8943,385,675
+"Peru",2005,"female",6863,375,472
+"Peru",2005,"male",9701,371,708
+"Peru",2006,"female",6966,435,556
+"Peru",2006,"male",10025,400,869
+"Peru",2007,"female",6629,335,669
+"Peru",2007,"male",9066,395,702
+"Peru",2008,"female",6519,52,899
+"Peru",2008,"male",8932,84,921
+"Peru",2009,"female",NA,NA,NA
+"Peru",2009,"male",NA,NA,NA
+"Peru",2010,"female",NA,NA,NA
+"Peru",2010,"male",NA,NA,NA
+"Peru",2011,"female",NA,NA,NA
+"Peru",2011,"male",NA,NA,NA
+"Peru",2012,"female",NA,NA,NA
+"Peru",2012,"male",NA,NA,NA
+"Peru",2013,"female",8783,854,1102
+"Peru",2013,"male",14067,960,1738
+"Philippines",1995,"female",117,1,11
+"Philippines",1995,"male",253,2,26
+"Philippines",1996,"female",70,1,9
+"Philippines",1996,"male",209,1,28
+"Philippines",1997,"female",530,6,70
+"Philippines",1997,"male",1212,5,129
+"Philippines",1998,"female",479,4,56
+"Philippines",1998,"male",1267,2,81
+"Philippines",1999,"female",NA,NA,NA
+"Philippines",1999,"male",NA,NA,NA
+"Philippines",2000,"female",NA,NA,NA
+"Philippines",2000,"male",NA,NA,NA
+"Philippines",2001,"female",NA,NA,NA
+"Philippines",2001,"male",NA,NA,NA
+"Philippines",2002,"female",NA,NA,NA
+"Philippines",2002,"male",NA,NA,NA
+"Philippines",2003,"female",19388,300,2018
+"Philippines",2003,"male",44278,356,3648
+"Philippines",2004,"female",21142,291,2183
+"Philippines",2004,"male",48288,312,4289
+"Philippines",2005,"female",22420,374,2029
+"Philippines",2005,"male",52063,482,4279
+"Philippines",2006,"female",24205,379,2237
+"Philippines",2006,"male",53860,419,4640
+"Philippines",2007,"female",23199,380,2217
+"Philippines",2007,"male",55442,466,4862
+"Philippines",2008,"female",22717,341,2188
+"Philippines",2008,"male",55062,369,4348
+"Philippines",2009,"female",23966,412,2138
+"Philippines",2009,"male",57186,487,4617
+"Philippines",2010,"female",23587,454,2070
+"Philippines",2010,"male",57834,511,4742
+"Philippines",2011,"female",24905,448,2236
+"Philippines",2011,"male",60573,573,4845
+"Philippines",2012,"female",25315,466,2380
+"Philippines",2012,"male",60142,583,5097
+"Philippines",2013,"female",25781,858,2562
+"Philippines",2013,"male",61252,1207,5561
+"Poland",1995,"female",735,4,414
+"Poland",1995,"male",2146,3,377
+"Poland",1996,"female",1280,9,823
+"Poland",1996,"male",3973,10,724
+"Poland",1997,"female",641,7,345
+"Poland",1997,"male",2131,3,359
+"Poland",1998,"female",690,5,361
+"Poland",1998,"male",2075,4,367
+"Poland",1999,"female",596,10,322
+"Poland",1999,"male",1943,0,306
+"Poland",2000,"female",720,1,421
+"Poland",2000,"male",2357,1,434
+"Poland",2001,"female",604,4,360
+"Poland",2001,"male",1860,5,322
+"Poland",2002,"female",600,7,368
+"Poland",2002,"male",1772,4,309
+"Poland",2003,"female",548,3,358
+"Poland",2003,"male",1721,2,349
+"Poland",2004,"female",551,2,285
+"Poland",2004,"male",1642,1,292
+"Poland",2005,"female",563,3,316
+"Poland",2005,"male",1628,3,310
+"Poland",2006,"female",1700,31,942
+"Poland",2006,"male",3883,38,1033
+"Poland",2007,"female",1700,35,853
+"Poland",2007,"male",3951,36,994
+"Poland",2008,"female",1518,37,812
+"Poland",2008,"male",3726,39,929
+"Poland",2009,"female",1579,56,840
+"Poland",2009,"male",3762,43,988
+"Poland",2010,"female",1399,33,733
+"Poland",2010,"male",3533,28,884
+"Poland",2011,"female",1623,50,869
+"Poland",2011,"male",3822,61,1090
+"Poland",2012,"female",1396,51,791
+"Poland",2012,"male",3458,43,926
+"Poland",2013,"female",1380,65,778
+"Poland",2013,"male",3708,51,1061
+"Portugal",1995,"female",473,7,85
+"Portugal",1995,"male",1279,11,164
+"Portugal",1996,"female",435,6,66
+"Portugal",1996,"male",1216,12,203
+"Portugal",1997,"female",373,4,61
+"Portugal",1997,"male",1098,8,84
+"Portugal",1998,"female",492,5,82
+"Portugal",1998,"male",1256,8,173
+"Portugal",1999,"female",376,9,57
+"Portugal",1999,"male",1157,13,189
+"Portugal",2000,"female",421,5,64
+"Portugal",2000,"male",1219,8,140
+"Portugal",2001,"female",419,13,63
+"Portugal",2001,"male",1168,9,140
+"Portugal",2002,"female",389,5,73
+"Portugal",2002,"male",1310,12,171
+"Portugal",2003,"female",410,7,47
+"Portugal",2003,"male",1090,11,148
+"Portugal",2004,"female",314,3,50
+"Portugal",2004,"male",1005,4,115
+"Portugal",2005,"female",282,7,42
+"Portugal",2005,"male",867,5,93
+"Portugal",2006,"female",776,42,207
+"Portugal",2006,"male",1644,52,342
+"Portugal",2007,"female",692,31,166
+"Portugal",2007,"male",1576,38,313
+"Portugal",2008,"female",668,31,199
+"Portugal",2008,"male",1409,27,303
+"Portugal",2009,"female",693,40,180
+"Portugal",2009,"male",1348,33,307
+"Portugal",2010,"female",625,28,184
+"Portugal",2010,"male",1325,30,299
+"Portugal",2011,"female",583,24,175
+"Portugal",2011,"male",1313,25,271
+"Portugal",2012,"female",636,36,175
+"Portugal",2012,"male",1213,34,298
+"Portugal",2013,"female",613,26,203
+"Portugal",2013,"male",1181,22,290
+"Republic of Korea",1995,"female",2906,46,867
+"Republic of Korea",1995,"male",6683,27,1225
+"Republic of Korea",1996,"female",2874,32,839
+"Republic of Korea",1996,"male",6528,31,1116
+"Republic of Korea",1997,"female",2513,31,807
+"Republic of Korea",1997,"male",5483,24,1099
+"Republic of Korea",1998,"female",2559,37,912
+"Republic of Korea",1998,"male",5713,19,1119
+"Republic of Korea",1999,"female",2321,40,933
+"Republic of Korea",1999,"male",5102,27,1136
+"Republic of Korea",2000,"female",1998,25,795
+"Republic of Korea",2000,"male",4478,19,901
+"Republic of Korea",2001,"female",2934,45,1270
+"Republic of Korea",2001,"male",6172,23,1361
+"Republic of Korea",2002,"female",2780,19,1329
+"Republic of Korea",2002,"male",5807,20,1390
+"Republic of Korea",2003,"female",2721,32,1325
+"Republic of Korea",2003,"male",5404,22,1472
+"Republic of Korea",2004,"female",2702,26,1516
+"Republic of Korea",2004,"male",5614,18,1595
+"Republic of Korea",2005,"female",2666,27,1729
+"Republic of Korea",2005,"male",5525,22,1669
+"Republic of Korea",2006,"female",10048,192,4203
+"Republic of Korea",2006,"male",16098,192,4628
+"Republic of Korea",2007,"female",9970,189,4274
+"Republic of Korea",2007,"male",15483,185,4609
+"Republic of Korea",2008,"female",9493,159,4627
+"Republic of Korea",2008,"male",14932,162,4780
+"Republic of Korea",2009,"female",10040,176,5081
+"Republic of Korea",2009,"male",15337,172,5036
+"Republic of Korea",2010,"female",10866,183,5811
+"Republic of Korea",2010,"male",16290,188,5713
+"Republic of Korea",2011,"female",10991,216,5979
+"Republic of Korea",2011,"male",16305,186,5880
+"Republic of Korea",2012,"female",10176,146,6507
+"Republic of Korea",2012,"male",16239,154,6291
+"Republic of Korea",2013,"female",10359,120,6649
+"Republic of Korea",2013,"male",16869,106,7470
+"Republic of Moldova",1995,"female",140,2,12
+"Republic of Moldova",1995,"male",496,0,15
+"Republic of Moldova",1996,"female",49,2,6
+"Republic of Moldova",1996,"male",157,0,5
+"Republic of Moldova",1997,"female",92,0,8
+"Republic of Moldova",1997,"male",284,0,13
+"Republic of Moldova",1998,"female",103,2,7
+"Republic of Moldova",1998,"male",347,2,16
+"Republic of Moldova",1999,"female",116,3,6
+"Republic of Moldova",1999,"male",469,1,14
+"Republic of Moldova",2000,"female",130,1,6
+"Republic of Moldova",2000,"male",145,2,6
+"Republic of Moldova",2001,"female",212,6,10
+"Republic of Moldova",2001,"male",799,1,32
+"Republic of Moldova",2002,"female",243,11,8
+"Republic of Moldova",2002,"male",846,5,33
+"Republic of Moldova",2003,"female",292,1,22
+"Republic of Moldova",2003,"male",873,1,25
+"Republic of Moldova",2004,"female",326,11,22
+"Republic of Moldova",2004,"male",1127,8,42
+"Republic of Moldova",2005,"female",330,3,18
+"Republic of Moldova",2005,"male",1312,2,31
+"Republic of Moldova",2006,"female",363,7,31
+"Republic of Moldova",2006,"male",1244,2,32
+"Republic of Moldova",2007,"female",1051,78,76
+"Republic of Moldova",2007,"male",2734,98,129
+"Republic of Moldova",2008,"female",1025,65,73
+"Republic of Moldova",2008,"male",2582,95,111
+"Republic of Moldova",2009,"female",1020,77,64
+"Republic of Moldova",2009,"male",2432,84,127
+"Republic of Moldova",2010,"female",959,69,75
+"Republic of Moldova",2010,"male",2478,68,96
+"Republic of Moldova",2011,"female",993,74,74
+"Republic of Moldova",2011,"male",2513,85,97
+"Republic of Moldova",2012,"female",993,78,80
+"Republic of Moldova",2012,"male",2466,67,120
+"Republic of Moldova",2013,"female",1086,63,91
+"Republic of Moldova",2013,"male",3017,71,157
+"Romania",1995,"female",4338,355,417
+"Romania",1995,"male",11930,387,784
+"Romania",1996,"female",2465,48,249
+"Romania",1996,"male",8234,35,500
+"Romania",1997,"female",2543,53,245
+"Romania",1997,"male",8332,31,461
+"Romania",1998,"female",2384,43,232
+"Romania",1998,"male",7619,21,522
+"Romania",1999,"female",2453,48,317
+"Romania",1999,"male",6980,34,472
+"Romania",2000,"female",2499,53,321
+"Romania",2000,"male",6739,46,533
+"Romania",2001,"female",2654,70,347
+"Romania",2001,"male",7360,60,685
+"Romania",2002,"female",2515,74,351
+"Romania",2002,"male",7046,102,605
+"Romania",2003,"female",2515,58,404
+"Romania",2003,"male",6799,37,594
+"Romania",2004,"female",2713,59,432
+"Romania",2004,"male",7014,31,629
+"Romania",2005,"female",2624,55,442
+"Romania",2005,"male",7000,36,638
+"Romania",2006,"female",5775,508,1029
+"Romania",2006,"male",11470,545,1405
+"Romania",2007,"female",5224,470,1017
+"Romania",2007,"male",10635,535,1372
+"Romania",2008,"female",4895,473,1009
+"Romania",2008,"male",10611,443,1343
+"Romania",2009,"female",4548,448,943
+"Romania",2009,"male",9974,505,1355
+"Romania",2010,"female",4137,399,897
+"Romania",2010,"male",8871,412,1224
+"Romania",2011,"female",3906,350,886
+"Romania",2011,"male",7802,409,1185
+"Romania",2012,"female",3520,367,898
+"Romania",2012,"male",7603,346,1154
+"Romania",2013,"female",3834,340,973
+"Romania",2013,"male",8723,355,1298
+"Russian Federation",1995,"female",NA,NA,NA
+"Russian Federation",1995,"male",NA,NA,NA
+"Russian Federation",1996,"female",36,0,12
+"Russian Federation",1996,"male",218,0,17
+"Russian Federation",1997,"female",113,0,29
+"Russian Federation",1997,"male",479,0,39
+"Russian Federation",1998,"female",116,2,24
+"Russian Federation",1998,"male",507,0,34
+"Russian Federation",1999,"female",3685,33,507
+"Russian Federation",1999,"male",16643,17,859
+"Russian Federation",2000,"female",259,1,44
+"Russian Federation",2000,"male",1970,1,54
+"Russian Federation",2001,"female",5190,37,598
+"Russian Federation",2001,"male",19814,26,941
+"Russian Federation",2002,"female",5660,0,632
+"Russian Federation",2002,"male",20465,0,1061
+"Russian Federation",2003,"female",6189,0,698
+"Russian Federation",2003,"male",20857,0,1058
+"Russian Federation",2004,"female",7088,45,736
+"Russian Federation",2004,"male",21819,18,1184
+"Russian Federation",2005,"female",NA,NA,NA
+"Russian Federation",2005,"male",NA,NA,NA
+"Russian Federation",2006,"female",7476,40,757
+"Russian Federation",2006,"male",22924,18,1120
+"Russian Federation",2007,"female",30960,1741,3088
+"Russian Federation",2007,"male",79017,1681,4425
+"Russian Federation",2008,"female",31617,1651,2966
+"Russian Federation",2008,"male",79003,1552,4046
+"Russian Federation",2009,"female",31331,1577,2843
+"Russian Federation",2009,"male",76373,1534,3569
+"Russian Federation",2010,"female",27807,460,2462
+"Russian Federation",2010,"male",68559,371,3164
+"Russian Federation",2011,"female",28213,1764,2494
+"Russian Federation",2011,"male",67214,1781,2854
+"Russian Federation",2012,"female",26268,1895,2411
+"Russian Federation",2012,"male",62332,1793,2843
+"Russian Federation",2013,"female",24165,1672,2256
+"Russian Federation",2013,"male",58031,1626,2677
+"Rwanda",1995,"female",NA,NA,NA
+"Rwanda",1995,"male",NA,NA,NA
+"Rwanda",1996,"female",738,45,5
+"Rwanda",1996,"male",1154,48,24
+"Rwanda",1997,"female",896,78,10
+"Rwanda",1997,"male",1750,78,40
+"Rwanda",1998,"female",NA,NA,NA
+"Rwanda",1998,"male",NA,NA,NA
+"Rwanda",1999,"female",697,59,5
+"Rwanda",1999,"male",1493,93,31
+"Rwanda",2000,"female",1339,105,14
+"Rwanda",2000,"male",2786,155,56
+"Rwanda",2001,"female",NA,NA,NA
+"Rwanda",2001,"male",NA,NA,NA
+"Rwanda",2002,"female",306,15,8
+"Rwanda",2002,"male",564,13,13
+"Rwanda",2003,"female",933,36,17
+"Rwanda",2003,"male",1658,32,48
+"Rwanda",2004,"female",1425,73,25
+"Rwanda",2004,"male",2402,52,64
+"Rwanda",2005,"female",1404,73,29
+"Rwanda",2005,"male",2349,45,71
+"Rwanda",2006,"female",1431,80,37
+"Rwanda",2006,"male",2547,25,100
+"Rwanda",2007,"female",1391,81,35
+"Rwanda",2007,"male",2404,51,91
+"Rwanda",2008,"female",1434,65,40
+"Rwanda",2008,"male",2476,33,125
+"Rwanda",2009,"female",1372,46,43
+"Rwanda",2009,"male",2584,25,114
+"Rwanda",2010,"female",1301,48,38
+"Rwanda",2010,"male",2224,48,126
+"Rwanda",2011,"female",1224,50,67
+"Rwanda",2011,"male",2304,42,124
+"Rwanda",2012,"female",1110,40,59
+"Rwanda",2012,"male",2217,22,123
+"Rwanda",2013,"female",1788,199,131
+"Rwanda",2013,"male",3125,207,252
+"Saudi Arabia",1995,"female",NA,NA,NA
+"Saudi Arabia",1995,"male",NA,NA,NA
+"Saudi Arabia",1996,"female",NA,NA,NA
+"Saudi Arabia",1996,"male",NA,NA,NA
+"Saudi Arabia",1997,"female",NA,NA,NA
+"Saudi Arabia",1997,"male",NA,NA,NA
+"Saudi Arabia",1998,"female",255,16,40
+"Saudi Arabia",1998,"male",422,2,62
+"Saudi Arabia",1999,"female",624,39,80
+"Saudi Arabia",1999,"male",969,5,143
+"Saudi Arabia",2000,"female",534,28,70
+"Saudi Arabia",2000,"male",856,0,107
+"Saudi Arabia",2001,"female",495,28,44
+"Saudi Arabia",2001,"male",722,7,106
+"Saudi Arabia",2002,"female",563,28,52
+"Saudi Arabia",2002,"male",910,11,110
+"Saudi Arabia",2003,"female",575,18,59
+"Saudi Arabia",2003,"male",882,5,107
+"Saudi Arabia",2004,"female",555,24,64
+"Saudi Arabia",2004,"male",960,4,85
+"Saudi Arabia",2005,"female",611,31,61
+"Saudi Arabia",2005,"male",904,8,107
+"Saudi Arabia",2006,"female",1326,157,108
+"Saudi Arabia",2006,"male",1801,84,197
+"Saudi Arabia",2007,"female",1447,117,152
+"Saudi Arabia",2007,"male",1853,94,200
+"Saudi Arabia",2008,"female",1580,113,186
+"Saudi Arabia",2008,"male",1779,89,172
+"Saudi Arabia",2009,"female",1399,121,121
+"Saudi Arabia",2009,"male",2047,68,193
+"Saudi Arabia",2010,"female",1456,100,124
+"Saudi Arabia",2010,"male",2324,81,209
+"Saudi Arabia",2011,"female",1327,96,107
+"Saudi Arabia",2011,"male",2091,46,201
+"Saudi Arabia",2012,"female",1177,71,122
+"Saudi Arabia",2012,"male",1982,57,190
+"Saudi Arabia",2013,"female",993,63,98
+"Saudi Arabia",2013,"male",2063,41,177
+"Senegal",1995,"female",1501,84,72
+"Senegal",1995,"male",3457,94,213
+"Senegal",1996,"female",1670,89,74
+"Senegal",1996,"male",3778,74,264
+"Senegal",1997,"female",1500,75,62
+"Senegal",1997,"male",3514,64,215
+"Senegal",1998,"female",1442,84,75
+"Senegal",1998,"male",3548,90,215
+"Senegal",1999,"female",1463,58,58
+"Senegal",1999,"male",3197,50,185
+"Senegal",2000,"female",1761,77,61
+"Senegal",2000,"male",3675,60,189
+"Senegal",2001,"female",1721,90,95
+"Senegal",2001,"male",3885,77,226
+"Senegal",2002,"female",1713,61,86
+"Senegal",2002,"male",3666,58,212
+"Senegal",2003,"female",1961,77,86
+"Senegal",2003,"male",4163,50,250
+"Senegal",2004,"female",1779,73,78
+"Senegal",2004,"male",4234,60,213
+"Senegal",2005,"female",1929,83,81
+"Senegal",2005,"male",4322,71,236
+"Senegal",2006,"female",1936,74,88
+"Senegal",2006,"male",4494,60,230
+"Senegal",2007,"female",2104,73,95
+"Senegal",2007,"male",4528,57,251
+"Senegal",2008,"female",2221,79,97
+"Senegal",2008,"male",4892,67,228
+"Senegal",2009,"female",2185,108,114
+"Senegal",2009,"male",5160,66,250
+"Senegal",2010,"female",2163,81,105
+"Senegal",2010,"male",5035,81,221
+"Senegal",2011,"female",2185,88,74
+"Senegal",2011,"male",4997,75,214
+"Senegal",2012,"female",2352,125,90
+"Senegal",2012,"male",5573,84,224
+"Senegal",2013,"female",NA,NA,NA
+"Senegal",2013,"male",NA,NA,NA
+"Sierra Leone",1995,"female",557,18,11
+"Sierra Leone",1995,"male",836,10,22
+"Sierra Leone",1996,"female",835,35,22
+"Sierra Leone",1996,"male",1268,23,51
+"Sierra Leone",1997,"female",869,21,15
+"Sierra Leone",1997,"male",1330,14,47
+"Sierra Leone",1998,"female",875,36,17
+"Sierra Leone",1998,"male",1278,14,42
+"Sierra Leone",1999,"female",NA,NA,NA
+"Sierra Leone",1999,"male",NA,NA,NA
+"Sierra Leone",2000,"female",913,27,30
+"Sierra Leone",2000,"male",1437,18,47
+"Sierra Leone",2001,"female",986,36,27
+"Sierra Leone",2001,"male",1573,19,51
+"Sierra Leone",2002,"female",1147,31,26
+"Sierra Leone",2002,"male",1653,23,58
+"Sierra Leone",2003,"female",1150,26,32
+"Sierra Leone",2003,"male",1809,19,77
+"Sierra Leone",2004,"female",1322,40,50
+"Sierra Leone",2004,"male",2174,19,130
+"Sierra Leone",2005,"female",1544,54,47
+"Sierra Leone",2005,"male",2556,45,124
+"Sierra Leone",2006,"female",1586,68,59
+"Sierra Leone",2006,"male",2707,43,166
+"Sierra Leone",2007,"female",1832,74,79
+"Sierra Leone",2007,"male",5630,1463,172
+"Sierra Leone",2008,"female",1992,NA,83
+"Sierra Leone",2008,"male",3463,NA,188
+"Sierra Leone",2009,"female",2081,66,90
+"Sierra Leone",2009,"male",3616,44,195
+"Sierra Leone",2010,"female",2419,77,131
+"Sierra Leone",2010,"male",3953,64,254
+"Sierra Leone",2011,"female",2579,115,116
+"Sierra Leone",2011,"male",4263,75,287
+"Sierra Leone",2012,"female",2823,817,132
+"Sierra Leone",2012,"male",4652,993,274
+"Sierra Leone",2013,"female",2601,52,128
+"Sierra Leone",2013,"male",4325,51,233
+"Somalia",1995,"female",459,38,16
+"Somalia",1995,"male",1670,46,109
+"Somalia",1996,"female",641,49,26
+"Somalia",1996,"male",1494,45,63
+"Somalia",1997,"female",920,63,37
+"Somalia",1997,"male",1893,72,112
+"Somalia",1998,"female",919,77,80
+"Somalia",1998,"male",1820,99,126
+"Somalia",1999,"female",968,131,74
+"Somalia",1999,"male",2054,136,124
+"Somalia",2000,"female",1074,85,41
+"Somalia",2000,"male",2321,113,142
+"Somalia",2001,"female",1337,91,69
+"Somalia",2001,"male",2822,125,196
+"Somalia",2002,"female",1500,112,75
+"Somalia",2002,"male",2747,119,176
+"Somalia",2003,"female",1662,106,104
+"Somalia",2003,"male",2986,118,214
+"Somalia",2004,"female",2145,129,110
+"Somalia",2004,"male",3642,175,278
+"Somalia",2005,"female",2328,169,157
+"Somalia",2005,"male",3970,125,319
+"Somalia",2006,"female",3570,349,174
+"Somalia",2006,"male",6273,551,457
+"Somalia",2007,"female",1924,135,129
+"Somalia",2007,"male",3528,125,289
+"Somalia",2008,"female",2106,138,151
+"Somalia",2008,"male",3711,116,298
+"Somalia",2009,"female",1896,129,141
+"Somalia",2009,"male",3401,175,305
+"Somalia",2010,"female",1577,91,132
+"Somalia",2010,"male",3039,109,277
+"Somalia",2011,"female",1736,994,135
+"Somalia",2011,"male",3509,1255,277
+"Somalia",2012,"female",1935,1048,169
+"Somalia",2012,"male",3466,1316,307
+"Somalia",2013,"female",2141,122,189
+"Somalia",2013,"male",3599,150,337
+"South Africa",1995,"female",NA,NA,NA
+"South Africa",1995,"male",NA,NA,NA
+"South Africa",1996,"female",NA,NA,NA
+"South Africa",1996,"male",NA,NA,NA
+"South Africa",1997,"female",NA,NA,NA
+"South Africa",1997,"male",NA,NA,NA
+"South Africa",1998,"female",NA,NA,NA
+"South Africa",1998,"male",NA,NA,NA
+"South Africa",1999,"female",3608,75,110
+"South Africa",1999,"male",5555,52,221
+"South Africa",2000,"female",4522,122,80
+"South Africa",2000,"male",6438,116,212
+"South Africa",2001,"female",8281,275,168
+"South Africa",2001,"male",11402,163,255
+"South Africa",2002,"female",28160,3261,600
+"South Africa",2002,"male",41423,3081,942
+"South Africa",2003,"female",44726,2341,1172
+"South Africa",2003,"male",61505,1769,1495
+"South Africa",2004,"female",51049,2810,1174
+"South Africa",2004,"male",67386,2269,1580
+"South Africa",2005,"female",52081,2561,1348
+"South Africa",2005,"male",65730,2035,1705
+"South Africa",2006,"female",104831,21208,3099
+"South Africa",2006,"male",116913,22206,3905
+"South Africa",2007,"female",112804,18829,5311
+"South Africa",2007,"male",125465,18701,5863
+"South Africa",2008,"female",127312,21180,6047
+"South Africa",2008,"male",138186,20768,6533
+"South Africa",2009,"female",153585,24959,8502
+"South Africa",2009,"male",163098,24866,8764
+"South Africa",2010,"female",148710,24813,5768
+"South Africa",2010,"male",153500,25661,6540
+"South Africa",2011,"female",114112,18758,4830
+"South Africa",2011,"male",127001,19125,5285
+"South Africa",2012,"female",113523,19009,5347
+"South Africa",2012,"male",133692,19596,5829
+"South Africa",2013,"female",115251,18054,5672
+"South Africa",2013,"male",148147,18617,6639
+"Spain",1995,"female",356,23,98
+"Spain",1995,"male",973,22,228
+"Spain",1996,"female",NA,NA,NA
+"Spain",1996,"male",NA,NA,NA
+"Spain",1997,"female",NA,NA,NA
+"Spain",1997,"male",NA,NA,NA
+"Spain",1998,"female",429,3,104
+"Spain",1998,"male",1150,25,205
+"Spain",1999,"female",NA,NA,NA
+"Spain",1999,"male",NA,NA,NA
+"Spain",2000,"female",NA,NA,NA
+"Spain",2000,"male",NA,NA,NA
+"Spain",2001,"female",551,15,83
+"Spain",2001,"male",1215,13,232
+"Spain",2002,"female",675,17,117
+"Spain",2002,"male",1478,22,337
+"Spain",2003,"female",549,6,87
+"Spain",2003,"male",1143,7,222
+"Spain",2004,"female",555,9,82
+"Spain",2004,"male",1124,14,227
+"Spain",2005,"female",632,10,108
+"Spain",2005,"male",1297,13,230
+"Spain",2006,"female",2016,254,487
+"Spain",2006,"male",3647,278,873
+"Spain",2007,"female",1924,234,497
+"Spain",2007,"male",3495,222,787
+"Spain",2008,"female",1867,254,376
+"Spain",2008,"male",3291,288,677
+"Spain",2009,"female",0,0,0
+"Spain",2009,"male",0,0,0
+"Spain",2010,"female",1773,212,467
+"Spain",2010,"male",3107,255,710
+"Spain",2011,"female",1673,247,439
+"Spain",2011,"male",2760,283,714
+"Spain",2012,"female",1487,173,361
+"Spain",2012,"male",2426,170,713
+"Spain",2013,"female",1506,179,427
+"Spain",2013,"male",2294,198,620
+"Sri Lanka",1995,"female",758,15,56
+"Sri Lanka",1995,"male",1929,10,261
+"Sri Lanka",1996,"female",756,18,62
+"Sri Lanka",1996,"male",1859,10,253
+"Sri Lanka",1997,"female",900,23,81
+"Sri Lanka",1997,"male",2220,11,271
+"Sri Lanka",1998,"female",924,22,87
+"Sri Lanka",1998,"male",2403,7,304
+"Sri Lanka",1999,"female",937,10,101
+"Sri Lanka",1999,"male",2368,8,325
+"Sri Lanka",2000,"female",1098,23,113
+"Sri Lanka",2000,"male",2697,25,360
+"Sri Lanka",2001,"female",1067,18,131
+"Sri Lanka",2001,"male",2750,6,336
+"Sri Lanka",2002,"female",1075,19,107
+"Sri Lanka",2002,"male",2719,11,366
+"Sri Lanka",2003,"female",1028,14,120
+"Sri Lanka",2003,"male",2758,12,389
+"Sri Lanka",2004,"female",990,18,102
+"Sri Lanka",2004,"male",2815,6,371
+"Sri Lanka",2005,"female",1099,19,130
+"Sri Lanka",2005,"male",3160,9,424
+"Sri Lanka",2006,"female",2319,160,339
+"Sri Lanka",2006,"male",4457,190,794
+"Sri Lanka",2007,"female",2383,164,299
+"Sri Lanka",2007,"male",4634,162,776
+"Sri Lanka",2008,"female",2545,192,332
+"Sri Lanka",2008,"male",4849,187,833
+"Sri Lanka",2009,"female",2426,184,375
+"Sri Lanka",2009,"male",5076,208,823
+"Sri Lanka",2010,"female",2513,191,435
+"Sri Lanka",2010,"male",5066,201,922
+"Sri Lanka",2011,"female",2696,176,462
+"Sri Lanka",2011,"male",5025,176,972
+"Sri Lanka",2012,"female",2326,155,391
+"Sri Lanka",2012,"male",4607,154,874
+"Sri Lanka",2013,"female",2448,152,418
+"Sri Lanka",2013,"male",4848,158,986
+"Sudan",1995,"female",2147,359,305
+"Sudan",1995,"male",2882,250,337
+"Sudan",1996,"female",NA,NA,NA
+"Sudan",1996,"male",NA,NA,NA
+"Sudan",1997,"female",NA,NA,NA
+"Sudan",1997,"male",NA,NA,NA
+"Sudan",1998,"female",3518,680,247
+"Sudan",1998,"male",5088,805,453
+"Sudan",1999,"female",4661,903,615
+"Sudan",1999,"male",5645,842,839
+"Sudan",2000,"female",4062,817,323
+"Sudan",2000,"male",5647,785,677
+"Sudan",2001,"female",3091,590,58
+"Sudan",2001,"male",4710,732,301
+"Sudan",2002,"female",3510,498,170
+"Sudan",2002,"male",5196,559,405
+"Sudan",2003,"female",3758,443,219
+"Sudan",2003,"male",5611,489,473
+"Sudan",2004,"female",4063,426,237
+"Sudan",2004,"male",6365,537,467
+"Sudan",2005,"female",4423,381,244
+"Sudan",2005,"male",6764,425,493
+"Sudan",2006,"female",4226,312,270
+"Sudan",2006,"male",6557,297,532
+"Sudan",2007,"female",5272,1365,363
+"Sudan",2007,"male",7947,1586,619
+"Sudan",2008,"female",7130,1131,235
+"Sudan",2008,"male",10854,1591,534
+"Sudan",2009,"female",7186,1420,233
+"Sudan",2009,"male",11178,1716,477
+"Sudan",2010,"female",3311,195,191
+"Sudan",2010,"male",5661,209,391
+"Sudan",2011,"female",5797,1120,175
+"Sudan",2011,"male",9708,1464,372
+"Sudan",2012,"female",2037,1105,172
+"Sudan",2012,"male",3815,1364,331
+"Sudan",2013,"female",NA,976,NA
+"Sudan",2013,"male",NA,1205,NA
+"Swaziland",1995,"female",185,5,6
+"Swaziland",1995,"male",444,4,16
+"Swaziland",1996,"female",806,64,38
+"Swaziland",1996,"male",1087,79,120
+"Swaziland",1997,"female",NA,NA,NA
+"Swaziland",1997,"male",NA,NA,NA
+"Swaziland",1998,"female",NA,NA,NA
+"Swaziland",1998,"male",NA,NA,NA
+"Swaziland",1999,"female",NA,NA,NA
+"Swaziland",1999,"male",NA,NA,NA
+"Swaziland",2000,"female",644,10,5
+"Swaziland",2000,"male",906,11,17
+"Swaziland",2001,"female",1124,22,16
+"Swaziland",2001,"male",1330,16,34
+"Swaziland",2002,"female",700,9,9
+"Swaziland",2002,"male",670,1,10
+"Swaziland",2003,"female",792,14,8
+"Swaziland",2003,"male",733,15,19
+"Swaziland",2004,"female",927,17,14
+"Swaziland",2004,"male",906,6,21
+"Swaziland",2005,"female",1072,14,8
+"Swaziland",2005,"male",1049,9,27
+"Swaziland",2006,"female",3300,448,114
+"Swaziland",2006,"male",3403,486,162
+"Swaziland",2007,"female",1356,NA,18
+"Swaziland",2007,"male",1285,NA,27
+"Swaziland",2008,"female",1570,39,19
+"Swaziland",2008,"male",1413,29,35
+"Swaziland",2009,"female",1749,54,32
+"Swaziland",2009,"male",1592,26,45
+"Swaziland",2010,"female",3896,798,123
+"Swaziland",2010,"male",3849,835,205
+"Swaziland",2011,"female",2544,156,101
+"Swaziland",2011,"male",2540,131,161
+"Swaziland",2012,"female",2809,371,113
+"Swaziland",2012,"male",2992,414,169
+"Swaziland",2013,"female",2589,331,113
+"Swaziland",2013,"male",3124,340,194
+"Syrian Arab Republic",1995,"female",389,22,20
+"Syrian Arab Republic",1995,"male",827,13,50
+"Syrian Arab Republic",1996,"female",460,12,31
+"Syrian Arab Republic",1996,"male",949,11,60
+"Syrian Arab Republic",1997,"female",427,23,18
+"Syrian Arab Republic",1997,"male",876,6,52
+"Syrian Arab Republic",1998,"female",406,20,21
+"Syrian Arab Republic",1998,"male",880,5,50
+"Syrian Arab Republic",1999,"female",NA,NA,NA
+"Syrian Arab Republic",1999,"male",NA,NA,NA
+"Syrian Arab Republic",2000,"female",433,23,28
+"Syrian Arab Republic",2000,"male",935,8,55
+"Syrian Arab Republic",2001,"female",474,26,28
+"Syrian Arab Republic",2001,"male",871,8,47
+"Syrian Arab Republic",2002,"female",425,23,26
+"Syrian Arab Republic",2002,"male",900,12,61
+"Syrian Arab Republic",2003,"female",490,26,33
+"Syrian Arab Republic",2003,"male",922,10,64
+"Syrian Arab Republic",2004,"female",512,20,35
+"Syrian Arab Republic",2004,"male",931,13,50
+"Syrian Arab Republic",2005,"female",440,27,23
+"Syrian Arab Republic",2005,"male",788,9,63
+"Syrian Arab Republic",2006,"female",1464,223,113
+"Syrian Arab Republic",2006,"male",1695,215,155
+"Syrian Arab Republic",2007,"female",1565,256,152
+"Syrian Arab Republic",2007,"male",1652,226,179
+"Syrian Arab Republic",2008,"female",1393,219,124
+"Syrian Arab Republic",2008,"male",1530,221,184
+"Syrian Arab Republic",2009,"female",1568,224,124
+"Syrian Arab Republic",2009,"male",1573,186,179
+"Syrian Arab Republic",2010,"female",1488,211,127
+"Syrian Arab Republic",2010,"male",1412,210,166
+"Syrian Arab Republic",2011,"female",1259,254,118
+"Syrian Arab Republic",2011,"male",1283,298,123
+"Syrian Arab Republic",2012,"female",1195,218,69
+"Syrian Arab Republic",2012,"male",1017,270,106
+"Syrian Arab Republic",2013,"female",1114,192,80
+"Syrian Arab Republic",2013,"male",1085,211,113
+"Tajikistan",1995,"female",NA,NA,NA
+"Tajikistan",1995,"male",NA,NA,NA
+"Tajikistan",1996,"female",121,5,4
+"Tajikistan",1996,"male",94,4,4
+"Tajikistan",1997,"female",103,7,9
+"Tajikistan",1997,"male",110,8,8
+"Tajikistan",1998,"female",161,2,8
+"Tajikistan",1998,"male",245,9,10
+"Tajikistan",1999,"female",NA,NA,NA
+"Tajikistan",1999,"male",NA,NA,NA
+"Tajikistan",2000,"female",NA,NA,NA
+"Tajikistan",2000,"male",NA,NA,NA
+"Tajikistan",2001,"female",242,0,8
+"Tajikistan",2001,"male",430,8,16
+"Tajikistan",2002,"female",243,6,6
+"Tajikistan",2002,"male",406,7,19
+"Tajikistan",2003,"female",NA,NA,NA
+"Tajikistan",2003,"male",NA,NA,NA
+"Tajikistan",2004,"female",217,11,16
+"Tajikistan",2004,"male",340,7,10
+"Tajikistan",2005,"female",693,26,53
+"Tajikistan",2005,"male",909,8,48
+"Tajikistan",2006,"female",NA,NA,NA
+"Tajikistan",2006,"male",NA,NA,NA
+"Tajikistan",2007,"female",2164,283,163
+"Tajikistan",2007,"male",3017,302,152
+"Tajikistan",2008,"female",2090,248,145
+"Tajikistan",2008,"male",3171,299,162
+"Tajikistan",2009,"female",2086,205,146
+"Tajikistan",2009,"male",3029,251,147
+"Tajikistan",2010,"female",2241,239,153
+"Tajikistan",2010,"male",2907,252,167
+"Tajikistan",2011,"female",2136,249,203
+"Tajikistan",2011,"male",2856,320,171
+"Tajikistan",2012,"female",2023,164,205
+"Tajikistan",2012,"male",2732,196,164
+"Tajikistan",2013,"female",1962,184,165
+"Tajikistan",2013,"male",2614,205,176
+"Thailand",1995,"female",4522,52,1178
+"Thailand",1995,"male",12116,59,2346
+"Thailand",1996,"female",3761,50,980
+"Thailand",1996,"male",10380,54,1772
+"Thailand",1997,"female",2882,38,690
+"Thailand",1997,"male",8223,53,1326
+"Thailand",1998,"female",1876,17,558
+"Thailand",1998,"male",4515,11,985
+"Thailand",1999,"female",3587,30,1164
+"Thailand",1999,"male",8336,20,1795
+"Thailand",2000,"female",4328,32,1321
+"Thailand",2000,"male",9834,27,2213
+"Thailand",2001,"female",6296,58,1777
+"Thailand",2001,"male",17462,37,2912
+"Thailand",2002,"female",6084,61,1769
+"Thailand",2002,"male",14567,35,3077
+"Thailand",2003,"female",6515,49,1866
+"Thailand",2003,"male",16747,41,3241
+"Thailand",2004,"female",6308,50,1846
+"Thailand",2004,"male",16792,46,3379
+"Thailand",2005,"female",6529,57,1938
+"Thailand",2005,"male",16385,44,3407
+"Thailand",2006,"female",6441,65,1989
+"Thailand",2006,"male",16811,43,3732
+"Thailand",2007,"female",6367,50,1938
+"Thailand",2007,"male",16436,48,3748
+"Thailand",2008,"female",6406,77,2051
+"Thailand",2008,"male",16352,66,3836
+"Thailand",2009,"female",8076,80,2287
+"Thailand",2009,"male",18042,43,4282
+"Thailand",2010,"female",7727,82,2276
+"Thailand",2010,"male",19121,55,4189
+"Thailand",2011,"female",7633,76,2133
+"Thailand",2011,"male",19209,38,4080
+"Thailand",2012,"female",6887,82,2058
+"Thailand",2012,"male",18073,35,3863
+"Thailand",2013,"female",NA,NA,NA
+"Thailand",2013,"male",NA,NA,NA
+"Togo",1995,"female",282,9,15
+"Togo",1995,"male",515,7,49
+"Togo",1996,"female",311,12,19
+"Togo",1996,"male",508,11,50
+"Togo",1997,"female",NA,NA,NA
+"Togo",1997,"male",NA,NA,NA
+"Togo",1998,"female",313,15,18
+"Togo",1998,"male",532,13,36
+"Togo",1999,"female",332,7,10
+"Togo",1999,"male",507,11,37
+"Togo",2000,"female",341,13,15
+"Togo",2000,"male",570,4,39
+"Togo",2001,"female",NA,NA,NA
+"Togo",2001,"male",NA,NA,NA
+"Togo",2002,"female",424,12,13
+"Togo",2002,"male",704,10,40
+"Togo",2003,"female",412,15,28
+"Togo",2003,"male",733,10,57
+"Togo",2004,"female",550,12,28
+"Togo",2004,"male",876,9,66
+"Togo",2005,"female",647,23,32
+"Togo",2005,"male",984,11,69
+"Togo",2006,"female",806,29,49
+"Togo",2006,"male",1153,15,79
+"Togo",2007,"female",692,17,30
+"Togo",2007,"male",984,557,66
+"Togo",2008,"female",815,29,59
+"Togo",2008,"male",1238,15,78
+"Togo",2009,"female",977,55,52
+"Togo",2009,"male",1494,40,116
+"Togo",2010,"female",736,39,29
+"Togo",2010,"male",1191,21,80
+"Togo",2011,"female",729,11,38
+"Togo",2011,"male",1216,15,85
+"Togo",2012,"female",763,17,28
+"Togo",2012,"male",1208,9,87
+"Togo",2013,"female",876,44,53
+"Togo",2013,"male",1494,41,92
+"Turkey",1995,"female",NA,NA,NA
+"Turkey",1995,"male",NA,NA,NA
+"Turkey",1996,"female",NA,NA,NA
+"Turkey",1996,"male",NA,NA,NA
+"Turkey",1997,"female",NA,NA,NA
+"Turkey",1997,"male",NA,NA,NA
+"Turkey",1998,"female",NA,NA,NA
+"Turkey",1998,"male",NA,NA,NA
+"Turkey",1999,"female",NA,NA,NA
+"Turkey",1999,"male",NA,NA,NA
+"Turkey",2000,"female",NA,NA,NA
+"Turkey",2000,"male",NA,NA,NA
+"Turkey",2001,"female",NA,NA,NA
+"Turkey",2001,"male",NA,NA,NA
+"Turkey",2002,"female",NA,NA,NA
+"Turkey",2002,"male",NA,NA,NA
+"Turkey",2003,"female",NA,NA,NA
+"Turkey",2003,"male",NA,NA,NA
+"Turkey",2004,"female",64,2,6
+"Turkey",2004,"male",207,0,19
+"Turkey",2005,"female",1757,50,213
+"Turkey",2005,"male",4968,33,429
+"Turkey",2006,"female",5504,575,774
+"Turkey",2006,"male",10068,538,1085
+"Turkey",2007,"female",5593,462,787
+"Turkey",2007,"male",9376,490,1101
+"Turkey",2008,"female",5259,463,825
+"Turkey",2008,"male",8719,486,1008
+"Turkey",2009,"female",5173,485,856
+"Turkey",2009,"male",7937,455,1037
+"Turkey",2010,"female",5057,405,890
+"Turkey",2010,"male",7302,474,1055
+"Turkey",2011,"female",4859,370,899
+"Turkey",2011,"male",6840,374,1075
+"Turkey",2012,"female",4353,331,943
+"Turkey",2012,"male",6513,341,1054
+"Turkey",2013,"female",4222,299,960
+"Turkey",2013,"male",6256,282,1151
+"Uganda",1995,"female",5272,402,113
+"Uganda",1995,"male",7198,370,323
+"Uganda",1996,"female",5934,455,160
+"Uganda",1996,"male",7901,372,353
+"Uganda",1997,"female",6748,375,131
+"Uganda",1997,"male",9854,340,353
+"Uganda",1998,"female",7022,467,191
+"Uganda",1998,"male",9780,334,428
+"Uganda",1999,"female",6671,434,162
+"Uganda",1999,"male",9478,310,413
+"Uganda",2000,"female",6928,400,163
+"Uganda",2000,"male",9373,283,395
+"Uganda",2001,"female",6782,334,180
+"Uganda",2001,"male",9364,231,392
+"Uganda",2002,"female",7547,371,184
+"Uganda",2002,"male",10273,259,465
+"Uganda",2003,"female",7866,377,214
+"Uganda",2003,"male",11093,261,501
+"Uganda",2004,"female",7863,371,193
+"Uganda",2004,"male",11703,284,525
+"Uganda",2005,"female",7917,371,257
+"Uganda",2005,"male",11183,257,539
+"Uganda",2006,"female",7581,363,238
+"Uganda",2006,"male",11408,255,511
+"Uganda",2007,"female",7830,343,246
+"Uganda",2007,"male",12145,234,505
+"Uganda",2008,"female",7916,382,206
+"Uganda",2008,"male",13428,269,565
+"Uganda",2009,"female",7923,372,216
+"Uganda",2009,"male",13774,250,578
+"Uganda",2010,"female",7867,401,248
+"Uganda",2010,"male",14042,268,613
+"Uganda",2011,"female",8136,400,313
+"Uganda",2011,"male",15192,295,604
+"Uganda",2012,"female",8122,364,281
+"Uganda",2012,"male",15190,272,633
+"Uganda",2013,"female",8106,386,341
+"Uganda",2013,"male",15598,263,714
+"Ukraine",1995,"female",1388,21,280
+"Ukraine",1995,"male",6127,10,437
+"Ukraine",1996,"female",1574,13,370
+"Ukraine",1996,"male",7054,9,544
+"Ukraine",1997,"female",1598,22,377
+"Ukraine",1997,"male",6899,12,555
+"Ukraine",1998,"female",1897,36,393
+"Ukraine",1998,"male",7660,24,576
+"Ukraine",1999,"female",2059,25,393
+"Ukraine",1999,"male",7367,11,557
+"Ukraine",2000,"female",2040,41,405
+"Ukraine",2000,"male",7699,21,532
+"Ukraine",2001,"female",2307,18,418
+"Ukraine",2001,"male",8641,9,559
+"Ukraine",2002,"female",NA,NA,NA
+"Ukraine",2002,"male",NA,NA,NA
+"Ukraine",2003,"female",2400,29,421
+"Ukraine",2003,"male",9308,10,617
+"Ukraine",2004,"female",NA,NA,NA
+"Ukraine",2004,"male",NA,NA,NA
+"Ukraine",2005,"female",NA,NA,NA
+"Ukraine",2005,"male",NA,NA,NA
+"Ukraine",2006,"female",4295,199,735
+"Ukraine",2006,"male",12248,264,759
+"Ukraine",2007,"female",5250,7,861
+"Ukraine",2007,"male",18423,14,1090
+"Ukraine",2008,"female",8995,279,1224
+"Ukraine",2008,"male",23299,302,1640
+"Ukraine",2009,"female",8643,298,1213
+"Ukraine",2009,"male",21475,282,1513
+"Ukraine",2010,"female",1103,127,164
+"Ukraine",2010,"male",1648,175,138
+"Ukraine",2011,"female",2310,11,380
+"Ukraine",2011,"male",7416,8,377
+"Ukraine",2012,"female",7165,115,923
+"Ukraine",2012,"male",18040,108,1138
+"Ukraine",2013,"female",8948,314,1241
+"Ukraine",2013,"male",21882,324,1435
+"United Kingdom of Great Britain and Northern Ireland",1995,"female",NA,NA,NA
+"United Kingdom of Great Britain and Northern Ireland",1995,"male",NA,NA,NA
+"United Kingdom of Great Britain and Northern Ireland",1996,"female",NA,NA,NA
+"United Kingdom of Great Britain and Northern Ireland",1996,"male",NA,NA,NA
+"United Kingdom of Great Britain and Northern Ireland",1997,"female",232,8,51
+"United Kingdom of Great Britain and Northern Ireland",1997,"male",389,2,107
+"United Kingdom of Great Britain and Northern Ireland",1998,"female",362,9,114
+"United Kingdom of Great Britain and Northern Ireland",1998,"male",621,11,225
+"United Kingdom of Great Britain and Northern Ireland",1999,"female",254,6,69
+"United Kingdom of Great Britain and Northern Ireland",1999,"male",333,8,126
+"United Kingdom of Great Britain and Northern Ireland",2000,"female",331,9,67
+"United Kingdom of Great Britain and Northern Ireland",2000,"male",474,8,138
+"United Kingdom of Great Britain and Northern Ireland",2001,"female",327,15,105
+"United Kingdom of Great Britain and Northern Ireland",2001,"male",516,10,117
+"United Kingdom of Great Britain and Northern Ireland",2002,"female",356,6,93
+"United Kingdom of Great Britain and Northern Ireland",2002,"male",556,6,153
+"United Kingdom of Great Britain and Northern Ireland",2003,"female",408,14,55
+"United Kingdom of Great Britain and Northern Ireland",2003,"male",551,13,92
+"United Kingdom of Great Britain and Northern Ireland",2004,"female",467,13,65
+"United Kingdom of Great Britain and Northern Ireland",2004,"male",657,10,94
+"United Kingdom of Great Britain and Northern Ireland",2005,"female",425,14,83
+"United Kingdom of Great Britain and Northern Ireland",2005,"male",691,9,124
+"United Kingdom of Great Britain and Northern Ireland",2006,"female",2924,216,531
+"United Kingdom of Great Britain and Northern Ireland",2006,"male",3619,160,687
+"United Kingdom of Great Britain and Northern Ireland",2007,"female",3762,387,738
+"United Kingdom of Great Britain and Northern Ireland",2007,"male",4996,360,933
+"United Kingdom of Great Britain and Northern Ireland",2008,"female",2381,200,385
+"United Kingdom of Great Britain and Northern Ireland",2008,"male",2917,177,455
+"United Kingdom of Great Britain and Northern Ireland",2009,"female",2510,182,391
+"United Kingdom of Great Britain and Northern Ireland",2009,"male",3234,160,511
+"United Kingdom of Great Britain and Northern Ireland",2010,"female",2498,178,405
+"United Kingdom of Great Britain and Northern Ireland",2010,"male",3400,155,512
+"United Kingdom of Great Britain and Northern Ireland",2011,"female",2725,204,397
+"United Kingdom of Great Britain and Northern Ireland",2011,"male",3742,168,592
+"United Kingdom of Great Britain and Northern Ireland",2012,"female",2611,197,444
+"United Kingdom of Great Britain and Northern Ireland",2012,"male",3735,178,513
+"United Kingdom of Great Britain and Northern Ireland",2013,"female",2481,156,462
+"United Kingdom of Great Britain and Northern Ireland",2013,"male",3572,155,558
+"United Republic of Tanzania",1995,"female",6875,201,179
+"United Republic of Tanzania",1995,"male",11876,183,640
+"United Republic of Tanzania",1996,"female",7711,221,203
+"United Republic of Tanzania",1996,"male",12510,171,656
+"United Republic of Tanzania",1997,"female",7933,251,198
+"United Republic of Tanzania",1997,"male",12038,188,699
+"United Republic of Tanzania",1998,"female",8464,240,241
+"United Republic of Tanzania",1998,"male",13923,198,767
+"United Republic of Tanzania",1999,"female",8730,230,232
+"United Republic of Tanzania",1999,"male",13938,170,823
+"United Republic of Tanzania",2000,"female",8632,257,269
+"United Republic of Tanzania",2000,"male",13847,200,834
+"United Republic of Tanzania",2001,"female",8986,312,319
+"United Republic of Tanzania",2001,"male",13926,212,930
+"United Republic of Tanzania",2002,"female",8526,241,304
+"United Republic of Tanzania",2002,"male",13934,187,944
+"United Republic of Tanzania",2003,"female",8838,244,344
+"United Republic of Tanzania",2003,"male",14267,181,1025
+"United Republic of Tanzania",2004,"female",9048,280,329
+"United Republic of Tanzania",2004,"male",14829,208,1129
+"United Republic of Tanzania",2005,"female",8780,271,354
+"United Republic of Tanzania",2005,"male",14615,190,1054
+"United Republic of Tanzania",2006,"female",8543,293,335
+"United Republic of Tanzania",2006,"male",14320,204,1029
+"United Republic of Tanzania",2007,"female",8550,238,388
+"United Republic of Tanzania",2007,"male",14089,189,1066
+"United Republic of Tanzania",2008,"female",8244,233,415
+"United Republic of Tanzania",2008,"male",48730,191,1077
+"United Republic of Tanzania",2009,"female",21847,2367,416
+"United Republic of Tanzania",2009,"male",31468,2829,1123
+"United Republic of Tanzania",2010,"female",21840,2381,471
+"United Republic of Tanzania",2010,"male",30990,2835,1161
+"United Republic of Tanzania",2011,"female",8130,2250,381
+"United Republic of Tanzania",2011,"male",14066,2633,1127
+"United Republic of Tanzania",2012,"female",8216,2492,424
+"United Republic of Tanzania",2012,"male",14987,2823,1121
+"United Republic of Tanzania",2013,"female",NA,3069,NA
+"United Republic of Tanzania",2013,"male",NA,3589,NA
+"United States of America",1995,"female",1845,26,591
+"United States of America",1995,"male",4511,19,1099
+"United States of America",1996,"female",1750,21,541
+"United States of America",1996,"male",4118,15,1007
+"United States of America",1997,"female",1620,28,514
+"United States of America",1997,"male",3816,12,944
+"United States of America",1998,"female",1564,15,492
+"United States of America",1998,"male",3628,10,914
+"United States of America",1999,"female",1506,16,444
+"United States of America",1999,"male",3489,18,801
+"United States of America",2000,"female",1376,14,396
+"United States of America",2000,"male",3354,6,738
+"United States of America",2001,"female",1418,21,389
+"United States of America",2001,"male",3157,17,649
+"United States of America",2002,"female",1440,15,370
+"United States of America",2002,"male",3003,14,592
+"United States of America",2003,"female",1378,12,354
+"United States of America",2003,"male",2960,11,650
+"United States of America",2004,"female",1324,19,344
+"United States of America",2004,"male",2970,12,582
+"United States of America",2005,"female",1268,11,322
+"United States of America",2005,"male",2850,14,624
+"United States of America",2006,"female",3794,389,1040
+"United States of America",2006,"male",6491,418,1635
+"United States of America",2007,"female",3716,391,1075
+"United States of America",2007,"male",6212,388,1501
+"United States of America",2008,"female",3565,379,1014
+"United States of America",2008,"male",6046,404,1485
+"United States of America",2009,"female",3301,303,870
+"United States of America",2009,"male",5170,336,1390
+"United States of America",2010,"female",2865,282,810
+"United States of America",2010,"male",4766,310,1272
+"United States of America",2011,"female",2855,264,900
+"United States of America",2011,"male",4691,308,1301
+"United States of America",2012,"female",2831,241,828
+"United States of America",2012,"male",4404,243,1371
+"United States of America",2013,"female",2569,229,786
+"United States of America",2013,"male",4014,249,1259
+"Uzbekistan",1995,"female",NA,NA,NA
+"Uzbekistan",1995,"male",NA,NA,NA
+"Uzbekistan",1996,"female",1359,5,0
+"Uzbekistan",1996,"male",1984,2,0
+"Uzbekistan",1997,"female",NA,NA,NA
+"Uzbekistan",1997,"male",NA,NA,NA
+"Uzbekistan",1998,"female",25,0,1
+"Uzbekistan",1998,"male",13,0,0
+"Uzbekistan",1999,"female",1654,11,124
+"Uzbekistan",1999,"male",2282,4,100
+"Uzbekistan",2000,"female",1421,11,111
+"Uzbekistan",2000,"male",2169,6,107
+"Uzbekistan",2001,"female",1789,21,181
+"Uzbekistan",2001,"male",2467,7,133
+"Uzbekistan",2002,"female",1108,18,125
+"Uzbekistan",2002,"male",1394,10,111
+"Uzbekistan",2003,"female",1683,29,174
+"Uzbekistan",2003,"male",2575,9,220
+"Uzbekistan",2004,"female",1856,31,226
+"Uzbekistan",2004,"male",2731,23,252
+"Uzbekistan",2005,"female",2015,40,367
+"Uzbekistan",2005,"male",2935,25,313
+"Uzbekistan",2006,"female",5734,1156,966
+"Uzbekistan",2006,"male",8058,1677,983
+"Uzbekistan",2007,"female",5275,1058,1001
+"Uzbekistan",2007,"male",7987,1525,1065
+"Uzbekistan",2008,"female",4733,836,875
+"Uzbekistan",2008,"male",7378,1172,977
+"Uzbekistan",2009,"female",5154,871,871
+"Uzbekistan",2009,"male",7390,1392,891
+"Uzbekistan",2010,"female",5094,723,833
+"Uzbekistan",2010,"male",7071,1155,858
+"Uzbekistan",2011,"female",4558,602,766
+"Uzbekistan",2011,"male",6296,990,783
+"Uzbekistan",2012,"female",4491,606,796
+"Uzbekistan",2012,"male",6451,955,833
+"Uzbekistan",2013,"female",6240,766,1120
+"Uzbekistan",2013,"male",10348,1194,1144
+"Venezuela (Bolivarian Republic of)",1995,"female",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",1995,"male",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",1996,"female",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",1996,"male",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",1997,"female",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",1997,"male",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",1998,"female",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",1998,"male",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",1999,"female",1096,28,267
+"Venezuela (Bolivarian Republic of)",1999,"male",1901,32,346
+"Venezuela (Bolivarian Republic of)",2000,"female",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",2000,"male",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",2001,"female",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",2001,"male",NA,NA,NA
+"Venezuela (Bolivarian Republic of)",2002,"female",1053,42,198
+"Venezuela (Bolivarian Republic of)",2002,"male",1819,19,313
+"Venezuela (Bolivarian Republic of)",2003,"female",1279,46,240
+"Venezuela (Bolivarian Republic of)",2003,"male",1962,39,316
+"Venezuela (Bolivarian Republic of)",2004,"female",1193,36,242
+"Venezuela (Bolivarian Republic of)",2004,"male",1965,24,316
+"Venezuela (Bolivarian Republic of)",2005,"female",1246,37,216
+"Venezuela (Bolivarian Republic of)",2005,"male",1787,35,332
+"Venezuela (Bolivarian Republic of)",2006,"female",1864,339,414
+"Venezuela (Bolivarian Republic of)",2006,"male",2959,288,584
+"Venezuela (Bolivarian Republic of)",2007,"female",1809,282,389
+"Venezuela (Bolivarian Republic of)",2007,"male",2771,301,523
+"Venezuela (Bolivarian Republic of)",2008,"female",1863,261,345
+"Venezuela (Bolivarian Republic of)",2008,"male",2843,216,531
+"Venezuela (Bolivarian Republic of)",2009,"female",1978,247,359
+"Venezuela (Bolivarian Republic of)",2009,"male",2876,239,514
+"Venezuela (Bolivarian Republic of)",2010,"female",1869,250,384
+"Venezuela (Bolivarian Republic of)",2010,"male",2791,240,553
+"Venezuela (Bolivarian Republic of)",2011,"female",1881,221,336
+"Venezuela (Bolivarian Republic of)",2011,"male",2891,274,466
+"Venezuela (Bolivarian Republic of)",2012,"female",1920,253,368
+"Venezuela (Bolivarian Republic of)",2012,"male",2943,251,471
+"Venezuela (Bolivarian Republic of)",2013,"female",2046,229,402
+"Venezuela (Bolivarian Republic of)",2013,"male",3123,232,523
+"Viet Nam",1995,"female",NA,NA,NA
+"Viet Nam",1995,"male",NA,NA,NA
+"Viet Nam",1996,"female",12642,91,3938
+"Viet Nam",1996,"male",25856,92,6292
+"Viet Nam",1997,"female",13478,73,4340
+"Viet Nam",1997,"male",28664,103,6989
+"Viet Nam",1998,"female",13067,60,4575
+"Viet Nam",1998,"male",29841,56,7274
+"Viet Nam",1999,"female",12484,68,4828
+"Viet Nam",1999,"male",28996,58,7371
+"Viet Nam",2000,"female",11849,64,4907
+"Viet Nam",2000,"male",28586,51,7712
+"Viet Nam",2001,"female",11507,48,5174
+"Viet Nam",2001,"male",29791,39,7643
+"Viet Nam",2002,"female",11464,68,4969
+"Viet Nam",2002,"male",32069,57,8184
+"Viet Nam",2003,"female",11105,66,4896
+"Viet Nam",2003,"male",32028,49,7793
+"Viet Nam",2004,"female",11133,66,4970
+"Viet Nam",2004,"male",33960,54,8206
+"Viet Nam",2005,"female",10477,47,4604
+"Viet Nam",2005,"male",32815,54,7573
+"Viet Nam",2006,"female",10523,62,4400
+"Viet Nam",2006,"male",33995,49,7408
+"Viet Nam",2007,"female",10277,59,4144
+"Viet Nam",2007,"male",32906,48,7026
+"Viet Nam",2008,"female",10174,48,3811
+"Viet Nam",2008,"male",32748,36,6667
+"Viet Nam",2009,"female",9811,47,3397
+"Viet Nam",2009,"male",31832,41,6162
+"Viet Nam",2010,"female",9732,53,3751
+"Viet Nam",2010,"male",32446,59,6248
+"Viet Nam",2011,"female",9561,64,3124
+"Viet Nam",2011,"male",32120,61,5821
+"Viet Nam",2012,"female",9515,84,3298
+"Viet Nam",2012,"male",32158,58,5920
+"Viet Nam",2013,"female",9743,78,3110
+"Viet Nam",2013,"male",31777,65,5834
+"Yemen",1995,"female",1794,83,92
+"Yemen",1995,"male",1610,57,45
+"Yemen",1996,"female",317,14,11
+"Yemen",1996,"male",314,15,12
+"Yemen",1997,"female",2125,196,13
+"Yemen",1997,"male",2263,87,34
+"Yemen",1998,"female",2173,115,72
+"Yemen",1998,"male",2338,83,115
+"Yemen",1999,"female",1879,111,80
+"Yemen",1999,"male",1879,96,85
+"Yemen",2000,"female",2535,161,92
+"Yemen",2000,"male",2540,110,127
+"Yemen",2001,"female",2146,154,53
+"Yemen",2001,"male",2419,82,114
+"Yemen",2002,"female",1643,163,71
+"Yemen",2002,"male",1999,266,117
+"Yemen",2003,"female",1531,74,74
+"Yemen",2003,"male",1971,40,103
+"Yemen",2004,"female",1333,72,44
+"Yemen",2004,"male",1860,49,76
+"Yemen",2005,"female",1367,44,39
+"Yemen",2005,"male",1803,48,78
+"Yemen",2006,"female",1276,55,42
+"Yemen",2006,"male",1837,29,103
+"Yemen",2007,"female",1378,50,57
+"Yemen",2007,"male",1910,23,119
+"Yemen",2008,"female",1474,57,61
+"Yemen",2008,"male",1800,29,119
+"Yemen",2009,"female",1461,58,60
+"Yemen",2009,"male",1844,32,121
+"Yemen",2010,"female",1424,98,63
+"Yemen",2010,"male",1793,68,138
+"Yemen",2011,"female",1353,85,58
+"Yemen",2011,"male",1510,33,96
+"Yemen",2012,"female",4071,497,316
+"Yemen",2012,"male",3836,477,418
+"Yemen",2013,"female",4354,522,360
+"Yemen",2013,"male",4085,560,446
+"Zambia",1995,"female",3995,129,63
+"Zambia",1995,"male",4169,91,130
+"Zambia",1996,"female",NA,NA,NA
+"Zambia",1996,"male",NA,NA,NA
+"Zambia",1997,"female",NA,NA,NA
+"Zambia",1997,"male",NA,NA,NA
+"Zambia",1998,"female",NA,NA,NA
+"Zambia",1998,"male",NA,NA,NA
+"Zambia",1999,"female",NA,NA,NA
+"Zambia",1999,"male",NA,NA,NA
+"Zambia",2000,"female",3653,150,75
+"Zambia",2000,"male",8526,349,174
+"Zambia",2001,"female",NA,NA,NA
+"Zambia",2001,"male",NA,NA,NA
+"Zambia",2002,"female",6501,1099,197
+"Zambia",2002,"male",7014,1135,405
+"Zambia",2003,"female",8103,292,243
+"Zambia",2003,"male",9686,302,308
+"Zambia",2004,"female",7271,247,192
+"Zambia",2004,"male",9004,209,324
+"Zambia",2005,"female",6207,168,185
+"Zambia",2005,"male",7841,135,321
+"Zambia",2006,"female",6250,224,122
+"Zambia",2006,"male",7093,150,186
+"Zambia",2007,"female",5518,195,131
+"Zambia",2007,"male",7178,152,204
+"Zambia",2008,"female",5107,165,115
+"Zambia",2008,"male",7494,101,229
+"Zambia",2009,"female",4797,145,126
+"Zambia",2009,"male",7469,92,237
+"Zambia",2010,"female",NA,NA,NA
+"Zambia",2010,"male",NA,NA,NA
+"Zambia",2011,"female",14712,1850,657
+"Zambia",2011,"male",21742,1962,1035
+"Zambia",2012,"female",13452,1595,596
+"Zambia",2012,"male",20485,1737,1004
+"Zambia",2013,"female",14313,1517,669
+"Zambia",2013,"male",21390,1637,1112
+"Zimbabwe",1995,"female",NA,NA,NA
+"Zimbabwe",1995,"male",NA,NA,NA
+"Zimbabwe",1996,"female",NA,NA,NA
+"Zimbabwe",1996,"male",NA,NA,NA
+"Zimbabwe",1997,"female",NA,NA,NA
+"Zimbabwe",1997,"male",NA,NA,NA
+"Zimbabwe",1998,"female",NA,NA,NA
+"Zimbabwe",1998,"male",NA,NA,NA
+"Zimbabwe",1999,"female",NA,NA,NA
+"Zimbabwe",1999,"male",NA,NA,NA
+"Zimbabwe",2000,"female",NA,NA,NA
+"Zimbabwe",2000,"male",NA,NA,NA
+"Zimbabwe",2001,"female",NA,NA,NA
+"Zimbabwe",2001,"male",NA,NA,NA
+"Zimbabwe",2002,"female",4755,222,65
+"Zimbabwe",2002,"male",5869,191,159
+"Zimbabwe",2003,"female",6358,180,114
+"Zimbabwe",2003,"male",7498,133,205
+"Zimbabwe",2004,"female",6399,225,111
+"Zimbabwe",2004,"male",7461,187,198
+"Zimbabwe",2005,"female",5404,269,603
+"Zimbabwe",2005,"male",6013,210,656
+"Zimbabwe",2006,"female",18559,1973,497
+"Zimbabwe",2006,"male",19093,2061,869
+"Zimbabwe",2007,"female",16311,3707,145
+"Zimbabwe",2007,"male",15807,2726,232
+"Zimbabwe",2008,"female",15372,1631,512
+"Zimbabwe",2008,"male",16010,1713,822
+"Zimbabwe",2009,"female",18144,1815,778
+"Zimbabwe",2009,"male",17826,1929,1276
+"Zimbabwe",2010,"female",18082,2125,880
+"Zimbabwe",2010,"male",18231,2246,1308
+"Zimbabwe",2011,"female",15000,1654,784
+"Zimbabwe",2011,"male",16578,1766,1178
+"Zimbabwe",2012,"female",13445,1389,736
+"Zimbabwe",2012,"male",16050,1522,1249
+"Zimbabwe",2013,"female",12508,1252,725
+"Zimbabwe",2013,"male",15891,1315,1208
