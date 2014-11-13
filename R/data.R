@@ -66,3 +66,11 @@
 #'
 "tb"
 
+#' Population data
+#'
+#' Populations of 100 countries for 1995-2013 laid out in table format
+#'
+#' 
+#' @source \url{http://www.who.int/tb/country/data/download/en/}
+#'
+"population"
