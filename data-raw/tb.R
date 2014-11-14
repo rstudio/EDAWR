@@ -50,7 +50,8 @@ tb5 <- tb4 %>%
   filter(year >= 1995, country %in% keep)
 
 tb6 <- tb5 %>%
-  spread(age, n)
+  spread(age, n) %>%
+  select(country:sex, child, adult, elderly)
 
 tb <- tb6
 write.csv(tb, file = "data-raw/tb.csv", row.names = FALSE)
@@ -69,3 +70,22 @@ population <- pop %>%
 write.csv(population, file = "data-raw/population.csv", row.names = FALSE)
 save(population, file = "data/population.rdata")
   
+# making raw tb data set
+
+nraw <- tb5 %>%
+  filter(!is.na(n), country %in% unique(tb$country)[c(1:5, 7:8, 10, 13)])
+
+n <- nraw$n
+index <- rep(NA, sum(n))
+j <- 1
+
+for (i in 1:length(n)) {
+  k <- j + n[i]
+  index[j:(k - 1)] <- i
+  j <- k
+}
+
+nraw$n <- 1
+rawtb <- nraw[index, ]
+# write.csv(rawtb, file = "data-raw/rawtb.csv", row.names = FALSE)
+save(rawtb, file = "data/rawtb.rdata")

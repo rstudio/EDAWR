@@ -74,3 +74,21 @@
 #' @source \url{http://www.who.int/tb/country/data/download/en/}
 #'
 "population"
+
+
+#' Raw TB data
+#'
+#' A subset of the data in the \code{\link{tb}} data set. The data displays each individual TB case from Afghanistan, Algeria, Angola, Argentina, Azerbaijan, Belarus, Benin, Botswana, and Burundi in its own row.
+#'
+#' @format A dataset with the variables
+#' \describe{
+#' \item{country}{}
+#' \item{year}{}
+#' \item{sex}{}
+#' \item{age}{One of \code{child} (0 - 14 years of age), \code{adult} (15 - 64 years of age), or \code{elderly} (over 64 years of age).}
+#' \item{n}{Number of cases: in this layout, one.}
+#' }
+#' 
+#' @source \url{http://www.who.int/tb/country/data/download/en/}
+#'
+"rawtb"
