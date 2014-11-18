@@ -92,3 +92,28 @@
 #' @source \url{http://www.who.int/tb/country/data/download/en/}
 #'
 "rawtb"
+
+
+#' Names of musicians
+#'
+#' A simple data set of musicians and the instruments they played.
+#'
+"artists"
+
+#' Names of musicians
+#'
+#' A second simple data set of musicians and the instruments they played.
+#'
+"artists2"
+
+#' Names of songs
+#'
+#' A simple list of pop songs and their authors
+#'
+"songs"
+
+#' Names of songs
+#'
+#' A second simple list of pop songs and their authors
+#'
+"songs2"
