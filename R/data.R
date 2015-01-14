@@ -129,3 +129,15 @@
 #' Meaningless numbers and letters.
 #'
 "z"
+
+#' Toy data
+#'
+#' Meaningless numbers and letters.
+#'
+"a"
+
+#' Toy data
+#'
+#' Meaningless numbers and letters.
+#'
+"b"

@@ -5,7 +5,7 @@
 \alias{z}
 \title{Toy data}
 \format{\preformatted{'data.frame':	3 obs. of  2 variables:
- $ x1: Factor w/ 3 levels "B","C","D": 1 2 3
+ $ x1: chr  "B" "C" "D"
  $ x2: int  2 3 4
 }}
 \usage{
