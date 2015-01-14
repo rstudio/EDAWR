@@ -117,3 +117,15 @@
 #' A second simple list of pop songs and their authors
 #'
 "songs2"
+
+#' Toy data
+#'
+#' Meaningless numbers and letters.
+#'
+"y"
+
+#' Toy data
+#'
+#' Meaningless numbers and letters.
+#'
+"z"
