@@ -4,9 +4,7 @@
 \name{a}
 \alias{a}
 \title{Toy data}
-\format{\preformatted{'data.frame':	3 obs. of  2 variables:
- $ x1: chr  "A" "B" "C"
- $ x2: int  1 2 3
+\format{\preformatted{ num [1:3] NA 2 3
 }}
 \usage{
 a
