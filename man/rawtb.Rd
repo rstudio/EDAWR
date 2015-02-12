@@ -17,9 +17,13 @@
 }
 \usage{
 rawtb
+
+rawtb
 }
 \description{
 A subset of the data in the \code{\link{tb}} data set. The data displays each individual TB case from Afghanistan, Algeria, Angola, Argentina, Azerbaijan, Belarus, Benin, Botswana, and Burundi in its own row.
+
+A toy data set based on the \code{\link{tb}} data set. The data displays an imaginary number of TB cases grouped by country, year, and sex.
 }
 \keyword{datasets}
 

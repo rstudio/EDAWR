@@ -141,3 +141,17 @@
 #' Meaningless numbers and letters.
 #'
 "b"
+
+#' Toy TB data
+#'
+#' A toy data set based on the \code{\link{tb}} data set. The data displays an imaginary number of TB cases grouped by country, year, and sex.
+#'
+#' @format A data frame with the columns
+#' \describe{
+#' \item{country}{}
+#' \item{year}{}
+#' \item{sex}{}
+#' \item{cases}
+#' }
+#' 
+"rawtb"

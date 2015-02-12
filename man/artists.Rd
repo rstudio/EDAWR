@@ -5,8 +5,8 @@
 \alias{artists}
 \title{Names of musicians}
 \format{\preformatted{'data.frame':	4 obs. of  2 variables:
- $ name : Factor w/ 4 levels "George","John",..: 1 2 3 4
- $ plays: Factor w/ 4 levels "bass","drums",..: 4 3 1 2
+ $ name : chr  "George" "John" "Paul" "Ringo"
+ $ plays: chr  "sitar" "guitar" "bass" "drums"
 }}
 \usage{
 artists

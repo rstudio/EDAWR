@@ -5,9 +5,9 @@
 \alias{songs2}
 \title{Names of songs}
 \format{\preformatted{'data.frame':	4 obs. of  3 variables:
- $ song : Factor w/ 4 levels "Across the Universe",..: 1 2 3 4
- $ first: Factor w/ 3 levels "Buddy","John",..: 2 2 3 1
- $ last : Factor w/ 3 levels "Holly","Lennon",..: 2 2 3 1
+ $ song : chr  "Across the Universe" "Come Together" "Hello, Goodbye" "Peggy Sue"
+ $ first: chr  "John" "John" "Paul" "Buddy"
+ $ last : chr  "Lennon" "Lennon" "McCartney" "Holly"
 }}
 \usage{
 songs2
