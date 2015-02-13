@@ -1,0 +1,3485 @@
+"country","year","cases","population","rate"
+"Afghanistan",1997,128,19021226,0.07
+"Afghanistan",1998,1778,19496836,0.91
+"Afghanistan",1999,745,19987071,0.37
+"Afghanistan",2000,2666,20595360,1.29
+"Afghanistan",2001,4639,21347782,2.17
+"Afghanistan",2002,6509,22202806,2.93
+"Afghanistan",2003,6528,23116142,2.82
+"Afghanistan",2004,8245,24018682,3.43
+"Afghanistan",2005,9949,24860855,4
+"Afghanistan",2006,12469,25631282,4.86
+"Afghanistan",2007,13213,26349243,5.01
+"Afghanistan",2008,13136,27032197,4.86
+"Afghanistan",2009,12503,27708187,4.51
+"Afghanistan",2010,12947,28397812,4.56
+"Afghanistan",2011,15542,29105480,5.34
+"Afghanistan",2012,15774,29824536,5.29
+"Afghanistan",2013,3454,30551674,1.13
+"Albania",1995,139,NA,NA
+"Albania",1997,241,NA,NA
+"Albania",1998,212,NA,NA
+"Albania",1999,168,NA,NA
+"Albania",2000,171,NA,NA
+"Albania",2001,171,NA,NA
+"Albania",2002,225,NA,NA
+"Albania",2003,211,NA,NA
+"Albania",2004,201,NA,NA
+"Albania",2005,196,NA,NA
+"Albania",2006,467,NA,NA
+"Albania",2007,422,NA,NA
+"Albania",2008,402,NA,NA
+"Albania",2009,416,NA,NA
+"Albania",2010,415,NA,NA
+"Albania",2011,413,NA,NA
+"Albania",2012,391,NA,NA
+"Albania",2013,474,NA,NA
+"Algeria",1997,8902,30345466,2.93
+"Algeria",1999,7088,31276295,2.27
+"Algeria",2000,8050,31719449,2.54
+"Algeria",2001,7953,32150198,2.47
+"Algeria",2002,8246,32572977,2.53
+"Algeria",2003,7641,33003442,2.32
+"Algeria",2004,7979,33461345,2.38
+"Algeria",2005,8654,33960903,2.55
+"Algeria",2006,7396,34507214,2.14
+"Algeria",2007,8439,35097043,2.4
+"Algeria",2008,8646,35725377,2.42
+"Algeria",2009,8402,36383302,2.31
+"Algeria",2010,8299,37062820,2.24
+"Algeria",2011,7790,37762962,2.06
+"Algeria",2012,7510,38481705,1.95
+"Algeria",2013,7124,39208194,1.82
+"American Samoa",1997,6,NA,NA
+"American Samoa",2000,3,NA,NA
+"American Samoa",2001,2,NA,NA
+"American Samoa",2002,1,NA,NA
+"American Samoa",2003,2,NA,NA
+"American Samoa",2004,3,NA,NA
+"American Samoa",2005,3,NA,NA
+"American Samoa",2006,4,NA,NA
+"American Samoa",2007,3,NA,NA
+"American Samoa",2008,3,NA,NA
+"American Samoa",2009,4,NA,NA
+"American Samoa",2010,4,NA,NA
+"American Samoa",2011,3,NA,NA
+"Andorra",1996,8,NA,NA
+"Andorra",1997,19,NA,NA
+"Andorra",1998,1,NA,NA
+"Andorra",1999,3,NA,NA
+"Andorra",2000,1,NA,NA
+"Andorra",2001,3,NA,NA
+"Andorra",2002,2,NA,NA
+"Andorra",2003,6,NA,NA
+"Andorra",2004,3,NA,NA
+"Andorra",2005,5,NA,NA
+"Andorra",2006,12,NA,NA
+"Andorra",2007,6,NA,NA
+"Andorra",2008,4,NA,NA
+"Andorra",2009,7,NA,NA
+"Andorra",2010,7,NA,NA
+"Andorra",2011,3,NA,NA
+"Andorra",2012,8,NA,NA
+"Andorra",2013,5,NA,NA
+"Angola",1995,4592,12104952,3.79
+"Angola",1996,8016,12451945,6.44
+"Angola",1997,8201,12791388,6.41
+"Angola",1998,7322,13137542,5.57
+"Angola",1999,9242,13510616,6.84
+"Angola",2000,8149,13924930,5.85
+"Angola",2001,6805,14385283,4.73
+"Angola",2002,17988,14886574,12.08
+"Angola",2003,18971,15421075,12.3
+"Angola",2004,20333,15976715,12.73
+"Angola",2005,20410,16544376,12.34
+"Angola",2006,21499,17122409,12.56
+"Angola",2007,21422,17712824,12.09
+"Angola",2008,22562,18314441,12.32
+"Angola",2009,22488,18926650,11.88
+"Angola",2010,21146,19549124,10.82
+"Angola",2011,26434,20180490,13.1
+"Angola",2012,21124,20820525,10.15
+"Angola",2013,21661,21471618,10.09
+"Anguilla",2003,1,NA,NA
+"Anguilla",2004,0,NA,NA
+"Anguilla",2010,1,NA,NA
+"Anguilla",2011,0,NA,NA
+"Anguilla",2012,0,NA,NA
+"Anguilla",2013,0,NA,NA
+"Antigua and Barbuda",1996,2,NA,NA
+"Antigua and Barbuda",2000,4,NA,NA
+"Antigua and Barbuda",2001,1,NA,NA
+"Antigua and Barbuda",2002,4,NA,NA
+"Antigua and Barbuda",2003,1,NA,NA
+"Antigua and Barbuda",2005,6,NA,NA
+"Antigua and Barbuda",2006,4,NA,NA
+"Antigua and Barbuda",2007,2,NA,NA
+"Antigua and Barbuda",2008,1,NA,NA
+"Antigua and Barbuda",2009,3,NA,NA
+"Antigua and Barbuda",2010,6,NA,NA
+"Antigua and Barbuda",2011,8,NA,NA
+"Antigua and Barbuda",2012,3,NA,NA
+"Antigua and Barbuda",2013,10,NA,NA
+"Argentina",1996,5787,35264070,1.64
+"Argentina",1997,5317,35690778,1.49
+"Argentina",1998,5062,36109342,1.4
+"Argentina",1999,4769,36514558,1.31
+"Argentina",2000,4519,36903067,1.22
+"Argentina",2001,5506,37273361,1.48
+"Argentina",2002,5383,37627545,1.43
+"Argentina",2003,4959,37970411,1.31
+"Argentina",2004,4666,38308779,1.22
+"Argentina",2005,4636,38647854,1.2
+"Argentina",2006,7908,38988923,2.03
+"Argentina",2007,9376,39331357,2.38
+"Argentina",2008,8959,39676083,2.26
+"Argentina",2009,7121,40023641,1.78
+"Argentina",2010,6827,40374224,1.69
+"Argentina",2011,9219,40728738,2.26
+"Argentina",2012,8250,41086927,2.01
+"Argentina",2013,8892,41446246,2.15
+"Armenia",1995,78,NA,NA
+"Armenia",1996,327,NA,NA
+"Armenia",1997,400,NA,NA
+"Armenia",1998,475,NA,NA
+"Armenia",1999,576,NA,NA
+"Armenia",2000,621,NA,NA
+"Armenia",2001,572,NA,NA
+"Armenia",2002,511,NA,NA
+"Armenia",2003,575,NA,NA
+"Armenia",2004,461,NA,NA
+"Armenia",2005,581,NA,NA
+"Armenia",2006,1598,NA,NA
+"Armenia",2007,1196,NA,NA
+"Armenia",2008,1507,NA,NA
+"Armenia",2009,1464,NA,NA
+"Armenia",2010,1329,NA,NA
+"Armenia",2011,1200,NA,NA
+"Armenia",2012,1123,NA,NA
+"Armenia",2013,1397,NA,NA
+"Aruba",2011,8,NA,NA
+"Aruba",2012,50,NA,NA
+"Aruba",2013,11,NA,NA
+"Australia",1997,170,NA,NA
+"Australia",1998,204,NA,NA
+"Australia",1999,323,NA,NA
+"Australia",2000,251,NA,NA
+"Australia",2001,228,NA,NA
+"Australia",2002,212,NA,NA
+"Australia",2003,113,NA,NA
+"Australia",2004,166,NA,NA
+"Australia",2005,222,NA,NA
+"Australia",2006,1164,NA,NA
+"Australia",2007,1081,NA,NA
+"Australia",2008,1158,NA,NA
+"Australia",2009,1168,NA,NA
+"Australia",2010,1139,NA,NA
+"Australia",2011,1200,NA,NA
+"Australia",2012,1195,NA,NA
+"Australia",2013,1250,NA,NA
+"Austria",1995,661,NA,NA
+"Austria",1997,1350,NA,NA
+"Austria",1999,323,NA,NA
+"Austria",2000,298,NA,NA
+"Austria",2001,248,NA,NA
+"Austria",2002,204,NA,NA
+"Austria",2003,249,NA,NA
+"Austria",2004,207,NA,NA
+"Austria",2005,223,NA,NA
+"Austria",2006,855,NA,NA
+"Austria",2007,810,NA,NA
+"Austria",2009,433,NA,NA
+"Austria",2010,360,NA,NA
+"Austria",2011,396,NA,NA
+"Austria",2012,410,NA,NA
+"Austria",2013,624,NA,NA
+"Azerbaijan",1995,90,7770806,0.12
+"Azerbaijan",1996,1058,7852273,1.35
+"Azerbaijan",1997,975,7921745,1.23
+"Azerbaijan",1998,161,7984460,0.2
+"Azerbaijan",1999,763,8047936,0.95
+"Azerbaijan",2000,153,8117742,0.19
+"Azerbaijan",2001,10,8195427,0.01
+"Azerbaijan",2002,1661,8279768,2.01
+"Azerbaijan",2003,1161,8370169,1.39
+"Azerbaijan",2004,1472,8465127,1.74
+"Azerbaijan",2005,1561,8563398,1.82
+"Azerbaijan",2006,4429,8665006,5.11
+"Azerbaijan",2009,1410,8986266,1.57
+"Azerbaijan",2010,4792,9094718,5.27
+"Azerbaijan",2011,1130,9202432,1.23
+"Azerbaijan",2012,4616,9308959,4.96
+"Azerbaijan",2013,4528,9413420,4.81
+"Bahamas",1995,37,NA,NA
+"Bahamas",1996,26,NA,NA
+"Bahamas",1997,57,NA,NA
+"Bahamas",1998,31,NA,NA
+"Bahamas",1999,35,NA,NA
+"Bahamas",2000,56,NA,NA
+"Bahamas",2002,44,NA,NA
+"Bahamas",2003,38,NA,NA
+"Bahamas",2004,47,NA,NA
+"Bahamas",2007,45,NA,NA
+"Bahamas",2008,46,NA,NA
+"Bahamas",2009,41,NA,NA
+"Bahamas",2010,29,NA,NA
+"Bahamas",2011,40,NA,NA
+"Bahamas",2012,32,NA,NA
+"Bahamas",2013,33,NA,NA
+"Bahrain",1995,16,NA,NA
+"Bahrain",1996,121,NA,NA
+"Bahrain",1997,110,NA,NA
+"Bahrain",1998,170,NA,NA
+"Bahrain",1999,93,NA,NA
+"Bahrain",2000,23,NA,NA
+"Bahrain",2001,23,NA,NA
+"Bahrain",2002,17,NA,NA
+"Bahrain",2003,16,NA,NA
+"Bahrain",2004,11,NA,NA
+"Bahrain",2005,15,NA,NA
+"Bahrain",2006,272,NA,NA
+"Bahrain",2007,278,NA,NA
+"Bahrain",2008,306,NA,NA
+"Bahrain",2009,326,NA,NA
+"Bahrain",2010,246,NA,NA
+"Bahrain",2011,225,NA,NA
+"Bahrain",2012,225,NA,NA
+"Bahrain",2013,209,NA,NA
+"Bangladesh",1995,6023,119869585,0.5
+"Bangladesh",1996,7551,122400896,0.62
+"Bangladesh",1997,30294,124945315,2.42
+"Bangladesh",1998,37623,127478524,2.95
+"Bangladesh",1999,37674,129966823,2.9
+"Bangladesh",2000,37983,132383265,2.87
+"Bangladesh",2001,40487,134729503,3.01
+"Bangladesh",2002,46771,137006279,3.41
+"Bangladesh",2003,53618,139185986,3.85
+"Bangladesh",2004,62500,141235035,4.43
+"Bangladesh",2005,84848,143135180,5.93
+"Bangladesh",2006,140948,144868702,9.73
+"Bangladesh",2007,104296,146457067,7.12
+"Bangladesh",2008,187471,147969967,12.67
+"Bangladesh",2009,3466,149503100,0.23
+"Bangladesh",2010,150856,151125475,9.98
+"Bangladesh",2011,148198,152862431,9.69
+"Bangladesh",2012,161790,154695368,10.46
+"Bangladesh",2013,181637,156594962,11.6
+"Barbados",1996,3,NA,NA
+"Barbados",2000,3,NA,NA
+"Barbados",2001,6,NA,NA
+"Barbados",2002,5,NA,NA
+"Barbados",2004,20,NA,NA
+"Barbados",2006,5,NA,NA
+"Barbados",2007,16,NA,NA
+"Barbados",2008,3,NA,NA
+"Barbados",2009,2,NA,NA
+"Barbados",2010,6,NA,NA
+"Barbados",2011,0,NA,NA
+"Barbados",2012,0,NA,NA
+"Barbados",2013,4,NA,NA
+"Belarus",2001,6,9920173,0.01
+"Belarus",2002,838,9852866,0.85
+"Belarus",2003,1018,9784111,1.04
+"Belarus",2004,1109,9719991,1.14
+"Belarus",2005,1235,9664714,1.28
+"Belarus",2006,5142,9620359,5.34
+"Belarus",2007,4872,9585368,5.08
+"Belarus",2008,4634,9555801,4.85
+"Belarus",2009,1631,9525785,1.71
+"Belarus",2010,4345,9491070,4.58
+"Belarus",2011,4043,9450391,4.28
+"Belarus",2012,3842,9405097,4.09
+"Belarus",2013,4470,9356678,4.78
+"Belgium",1995,478,NA,NA
+"Belgium",1996,364,NA,NA
+"Belgium",1997,434,NA,NA
+"Belgium",1998,418,NA,NA
+"Belgium",1999,403,NA,NA
+"Belgium",2000,361,NA,NA
+"Belgium",2001,352,NA,NA
+"Belgium",2002,341,NA,NA
+"Belgium",2003,265,NA,NA
+"Belgium",2004,306,NA,NA
+"Belgium",2005,312,NA,NA
+"Belgium",2006,1043,NA,NA
+"Belgium",2007,955,NA,NA
+"Belgium",2008,811,NA,NA
+"Belgium",2009,787,NA,NA
+"Belgium",2010,790,NA,NA
+"Belgium",2011,689,NA,NA
+"Belgium",2012,651,NA,NA
+"Belgium",2013,906,NA,NA
+"Belize",1995,22,NA,NA
+"Belize",1996,20,NA,NA
+"Belize",1997,48,NA,NA
+"Belize",2000,44,NA,NA
+"Belize",2001,53,NA,NA
+"Belize",2002,71,NA,NA
+"Belize",2003,62,NA,NA
+"Belize",2004,34,NA,NA
+"Belize",2005,59,NA,NA
+"Belize",2006,78,NA,NA
+"Belize",2007,63,NA,NA
+"Belize",2008,88,NA,NA
+"Belize",2009,82,NA,NA
+"Belize",2010,190,NA,NA
+"Belize",2011,64,NA,NA
+"Belize",2012,89,NA,NA
+"Belize",2013,121,NA,NA
+"Benin",1995,1839,5985658,3.07
+"Benin",1996,1868,6176318,3.02
+"Benin",1997,1936,6361301,3.04
+"Benin",1998,1988,6546493,3.04
+"Benin",1999,2202,6740491,3.27
+"Benin",2000,2286,6949366,3.29
+"Benin",2001,2293,7174911,3.2
+"Benin",2002,2411,7414744,3.25
+"Benin",2003,2434,7665681,3.18
+"Benin",2004,2582,7922796,3.26
+"Benin",2005,2739,8182362,3.35
+"Benin",2006,2943,8443671,3.49
+"Benin",2007,2770,8707490,3.18
+"Benin",2008,2966,8973293,3.31
+"Benin",2009,2960,9240783,3.2
+"Benin",2010,2973,9509798,3.13
+"Benin",2011,3331,9779795,3.41
+"Benin",2012,3171,10050702,3.16
+"Benin",2013,3129,10323474,3.03
+"Bermuda",2004,0,NA,NA
+"Bermuda",2006,3,NA,NA
+"Bermuda",2010,1,NA,NA
+"Bermuda",2011,1,NA,NA
+"Bermuda",2012,3,NA,NA
+"Bermuda",2013,0,NA,NA
+"Bhutan",1995,368,NA,NA
+"Bhutan",1996,324,NA,NA
+"Bhutan",1997,287,NA,NA
+"Bhutan",1998,294,NA,NA
+"Bhutan",1999,315,NA,NA
+"Bhutan",2000,337,NA,NA
+"Bhutan",2001,359,NA,NA
+"Bhutan",2002,364,NA,NA
+"Bhutan",2003,360,NA,NA
+"Bhutan",2004,356,NA,NA
+"Bhutan",2005,308,NA,NA
+"Bhutan",2006,312,NA,NA
+"Bhutan",2007,328,NA,NA
+"Bhutan",2008,539,NA,NA
+"Bhutan",2009,434,NA,NA
+"Bhutan",2010,455,NA,NA
+"Bhutan",2011,1180,NA,NA
+"Bhutan",2012,1066,NA,NA
+"Bhutan",2013,1071,NA,NA
+"Bolivia (Plurinational State of)",1996,6949,7806953,8.9
+"Bolivia (Plurinational State of)",1997,6458,7978521,8.09
+"Bolivia (Plurinational State of)",1998,6581,8150214,8.07
+"Bolivia (Plurinational State of)",1999,6673,8322408,8.02
+"Bolivia (Plurinational State of)",2000,6458,8495271,7.6
+"Bolivia (Plurinational State of)",2001,6672,8669066,7.7
+"Bolivia (Plurinational State of)",2002,6829,8843350,7.72
+"Bolivia (Plurinational State of)",2003,6344,9016787,7.04
+"Bolivia (Plurinational State of)",2004,6213,9187610,6.76
+"Bolivia (Plurinational State of)",2005,6278,9354709,6.71
+"Bolivia (Plurinational State of)",2006,5788,9517395,6.08
+"Bolivia (Plurinational State of)",2007,5400,9676456,5.58
+"Bolivia (Plurinational State of)",2008,6048,9834098,6.15
+"Bolivia (Plurinational State of)",2009,7679,9993406,7.68
+"Bolivia (Plurinational State of)",2010,7937,10156601,7.81
+"Bolivia (Plurinational State of)",2011,8110,10324445,7.86
+"Bolivia (Plurinational State of)",2012,7811,10496285,7.44
+"Bolivia (Plurinational State of)",2013,8327,10671200,7.8
+"Bonaire, Saint Eustatius and Saba",2010,0,NA,NA
+"Bonaire, Saint Eustatius and Saba",2011,0,NA,NA
+"Bonaire, Saint Eustatius and Saba",2012,0,NA,NA
+"Bonaire, Saint Eustatius and Saba",2013,0,NA,NA
+"Bosnia and Herzegovina",1995,865,NA,NA
+"Bosnia and Herzegovina",1996,467,NA,NA
+"Bosnia and Herzegovina",1997,751,NA,NA
+"Bosnia and Herzegovina",1998,640,NA,NA
+"Bosnia and Herzegovina",1999,749,NA,NA
+"Bosnia and Herzegovina",2000,752,NA,NA
+"Bosnia and Herzegovina",2001,796,NA,NA
+"Bosnia and Herzegovina",2002,526,NA,NA
+"Bosnia and Herzegovina",2003,493,NA,NA
+"Bosnia and Herzegovina",2004,887,NA,NA
+"Bosnia and Herzegovina",2005,639,NA,NA
+"Bosnia and Herzegovina",2006,1681,NA,NA
+"Bosnia and Herzegovina",2007,0,NA,NA
+"Bosnia and Herzegovina",2008,1669,NA,NA
+"Bosnia and Herzegovina",2009,1653,NA,NA
+"Bosnia and Herzegovina",2010,1289,NA,NA
+"Bosnia and Herzegovina",2011,1318,NA,NA
+"Bosnia and Herzegovina",2012,1278,NA,NA
+"Bosnia and Herzegovina",2013,1261,NA,NA
+"Botswana",1997,2686,1657349,16.21
+"Botswana",1999,2855,1724924,16.55
+"Botswana",2000,3095,1755375,17.63
+"Botswana",2001,3059,1783349,17.15
+"Botswana",2002,3337,1808976,18.45
+"Botswana",2003,3050,1832602,16.64
+"Botswana",2004,3128,1854739,16.86
+"Botswana",2005,3170,1875805,16.9
+"Botswana",2006,3252,1895944,17.15
+"Botswana",2007,3002,1915187,15.67
+"Botswana",2008,7826,1933719,40.47
+"Botswana",2009,7966,1951715,40.82
+"Botswana",2010,6560,1969341,33.31
+"Botswana",2011,5865,1986701,29.52
+"Botswana",2012,5785,2003910,28.87
+"Botswana",2013,6834,2021144,33.81
+"Brazil",1999,37737,172006362,2.19
+"Brazil",2000,80488,174504898,4.61
+"Brazil",2001,37491,176968205,2.12
+"Brazil",2002,40723,179393768,2.27
+"Brazil",2003,39883,181752951,2.19
+"Brazil",2004,42881,184010283,2.33
+"Brazil",2005,42093,186142403,2.26
+"Brazil",2006,74358,188134315,3.95
+"Brazil",2007,71827,189996976,3.78
+"Brazil",2008,70484,191765567,3.68
+"Brazil",2009,71572,193490922,3.7
+"Brazil",2010,70848,195210154,3.63
+"Brazil",2011,71202,196935134,3.62
+"Brazil",2012,71072,198656019,3.58
+"Brazil",2013,75996,200361925,3.79
+"British Virgin Islands",2000,1,NA,NA
+"British Virgin Islands",2002,1,NA,NA
+"British Virgin Islands",2004,2,NA,NA
+"British Virgin Islands",2010,1,NA,NA
+"British Virgin Islands",2011,0,NA,NA
+"British Virgin Islands",2012,0,NA,NA
+"British Virgin Islands",2013,0,NA,NA
+"Brunei Darussalam",1999,267,NA,NA
+"Brunei Darussalam",2000,84,NA,NA
+"Brunei Darussalam",2002,112,NA,NA
+"Brunei Darussalam",2003,121,NA,NA
+"Brunei Darussalam",2004,115,NA,NA
+"Brunei Darussalam",2005,101,NA,NA
+"Brunei Darussalam",2006,179,NA,NA
+"Brunei Darussalam",2007,186,NA,NA
+"Brunei Darussalam",2008,203,NA,NA
+"Brunei Darussalam",2009,207,NA,NA
+"Brunei Darussalam",2010,219,NA,NA
+"Brunei Darussalam",2011,209,NA,NA
+"Brunei Darussalam",2012,229,NA,NA
+"Brunei Darussalam",2013,212,NA,NA
+"Bulgaria",2000,116,NA,NA
+"Bulgaria",2001,170,NA,NA
+"Bulgaria",2002,742,NA,NA
+"Bulgaria",2003,1254,NA,NA
+"Bulgaria",2004,1315,NA,NA
+"Bulgaria",2005,1338,NA,NA
+"Bulgaria",2006,1235,NA,NA
+"Bulgaria",2007,2743,NA,NA
+"Bulgaria",2008,2828,NA,NA
+"Bulgaria",2009,2526,NA,NA
+"Bulgaria",2010,2301,NA,NA
+"Bulgaria",2011,2051,NA,NA
+"Bulgaria",2012,1965,NA,NA
+"Bulgaria",2013,1930,NA,NA
+"Burkina Faso",1995,689,10089876,0.68
+"Burkina Faso",1996,899,10372562,0.87
+"Burkina Faso",1997,899,10664982,0.84
+"Burkina Faso",1998,1331,10967836,1.21
+"Burkina Faso",1999,1248,11281942,1.11
+"Burkina Faso",2000,1287,11607944,1.11
+"Burkina Faso",2001,1518,11946080,1.27
+"Burkina Faso",2002,1526,12296399,1.24
+"Burkina Faso",2003,1703,12659086,1.35
+"Burkina Faso",2004,1926,13034258,1.48
+"Burkina Faso",2005,2294,13421929,1.71
+"Burkina Faso",2006,2659,13822257,1.92
+"Burkina Faso",2007,3704,14235075,2.6
+"Burkina Faso",2008,2756,14659646,1.88
+"Burkina Faso",2009,3061,15094967,2.03
+"Burkina Faso",2010,3041,15540284,1.96
+"Burkina Faso",2011,3450,15995313,2.16
+"Burkina Faso",2012,3583,16460141,2.18
+"Burkina Faso",2013,3616,16934839,2.14
+"Burundi",1995,1109,6209923,1.79
+"Burundi",1996,1505,6294482,2.39
+"Burundi",1997,2226,6369573,3.49
+"Burundi",1998,2921,6447672,4.53
+"Burundi",1999,2924,6545273,4.47
+"Burundi",2001,3040,6839376,4.44
+"Burundi",2002,2791,7037727,3.97
+"Burundi",2003,3017,7264340,4.15
+"Burundi",2004,3087,7510771,4.11
+"Burundi",2005,3262,7770392,4.2
+"Burundi",2006,3119,8042579,3.88
+"Burundi",2007,3595,8328312,4.32
+"Burundi",2008,3610,8624280,4.19
+"Burundi",2009,3974,8926687,4.45
+"Burundi",2010,7379,9232753,7.99
+"Burundi",2011,6494,9540362,6.81
+"Burundi",2012,6708,9849569,6.81
+"Burundi",2013,7249,10162532,7.13
+"Cabo Verde",1997,122,NA,NA
+"Cabo Verde",1998,101,NA,NA
+"Cabo Verde",2001,68,NA,NA
+"Cabo Verde",2002,125,NA,NA
+"Cabo Verde",2003,152,NA,NA
+"Cabo Verde",2004,169,NA,NA
+"Cabo Verde",2005,135,NA,NA
+"Cabo Verde",2006,131,NA,NA
+"Cabo Verde",2007,158,NA,NA
+"Cabo Verde",2008,197,NA,NA
+"Cabo Verde",2009,319,NA,NA
+"Cabo Verde",2011,366,NA,NA
+"Cabo Verde",2012,385,NA,NA
+"Cabo Verde",2013,185,NA,NA
+"Cambodia",1995,12485,10769198,11.59
+"Cambodia",1996,12065,11090611,10.88
+"Cambodia",1998,13849,11685332,11.85
+"Cambodia",1999,15744,11960467,13.16
+"Cambodia",2000,14823,12222871,12.13
+"Cambodia",2001,14361,12472586,11.51
+"Cambodia",2002,17258,12709336,13.58
+"Cambodia",2003,18923,12934369,14.63
+"Cambodia",2004,18978,13149386,14.43
+"Cambodia",2005,21001,13356424,15.72
+"Cambodia",2006,19294,13555054,14.23
+"Cambodia",2007,19421,13747288,14.13
+"Cambodia",2008,19860,13940518,14.25
+"Cambodia",2009,17863,14144225,12.63
+"Cambodia",2010,17454,14364931,12.15
+"Cambodia",2011,15876,14605862,10.87
+"Cambodia",2012,14841,14864646,9.98
+"Cambodia",2013,14083,15135169,9.3
+"Cameroon",1995,2857,13929575,2.05
+"Cameroon",1996,2313,14316949,1.62
+"Cameroon",1997,3548,14709426,2.41
+"Cameroon",1998,4374,15107909,2.9
+"Cameroon",1999,5832,15513653,3.76
+"Cameroon",2000,3960,15927713,2.49
+"Cameroon",2001,4696,16350440,2.87
+"Cameroon",2002,7365,16782044,4.39
+"Cameroon",2003,10692,17223277,6.21
+"Cameroon",2004,11218,17674960,6.35
+"Cameroon",2005,13001,18137734,7.17
+"Cameroon",2006,12870,18611937,6.91
+"Cameroon",2007,13220,19097676,6.92
+"Cameroon",2008,14237,19595026,7.27
+"Cameroon",2009,14487,20103945,7.21
+"Cameroon",2010,14464,20624343,7.01
+"Cameroon",2011,14927,21156272,7.06
+"Cameroon",2012,15016,21699631,6.92
+"Cameroon",2013,291,22253959,0.13
+"Canada",1980,951,NA,NA
+"Canada",1981,803,NA,NA
+"Canada",1982,812,NA,NA
+"Canada",1983,771,NA,NA
+"Canada",1984,811,NA,NA
+"Canada",1985,791,NA,NA
+"Canada",1986,752,NA,NA
+"Canada",1987,668,NA,NA
+"Canada",1988,682,NA,NA
+"Canada",1989,652,NA,NA
+"Canada",1990,549,NA,NA
+"Canada",1991,543,NA,NA
+"Canada",1992,506,NA,NA
+"Canada",1993,488,NA,NA
+"Canada",1994,483,NA,NA
+"Canada",1995,436,NA,NA
+"Canada",1996,430,NA,NA
+"Canada",1997,473,NA,NA
+"Canada",1998,438,NA,NA
+"Canada",1999,455,NA,NA
+"Canada",2000,492,NA,NA
+"Canada",2001,458,NA,NA
+"Canada",2002,408,NA,NA
+"Canada",2003,332,NA,NA
+"Canada",2004,438,NA,NA
+"Canada",2005,432,NA,NA
+"Canada",2006,1395,NA,NA
+"Canada",2007,1396,NA,NA
+"Canada",2008,1370,NA,NA
+"Canada",2009,1447,NA,NA
+"Canada",2010,1274,NA,NA
+"Canada",2011,1332,NA,NA
+"Canada",2012,1571,NA,NA
+"Canada",2013,1638,NA,NA
+"Cayman Islands",1998,2,NA,NA
+"Cayman Islands",1999,2,NA,NA
+"Cayman Islands",2000,5,NA,NA
+"Cayman Islands",2001,1,NA,NA
+"Cayman Islands",2003,0,NA,NA
+"Cayman Islands",2004,1,NA,NA
+"Cayman Islands",2006,0,NA,NA
+"Cayman Islands",2007,1,NA,NA
+"Cayman Islands",2010,4,NA,NA
+"Cayman Islands",2011,2,NA,NA
+"Cayman Islands",2012,6,NA,NA
+"Cayman Islands",2013,5,NA,NA
+"Central African Republic",1995,1794,3275695,5.48
+"Central African Republic",1996,1984,3350299,5.92
+"Central African Republic",1997,2273,3424733,6.64
+"Central African Republic",1998,2637,3498140,7.54
+"Central African Republic",1999,2725,3569523,7.63
+"Central African Republic",2001,1382,3704045,3.73
+"Central African Republic",2002,2758,3767248,7.32
+"Central African Republic",2004,2923,3893595,7.51
+"Central African Republic",2005,2153,3960897,5.44
+"Central African Republic",2006,6417,4032102,15.91
+"Central African Republic",2008,4232,4185106,10.11
+"Central African Republic",2009,5132,4266247,12.03
+"Central African Republic",2010,6302,4349921,14.49
+"Central African Republic",2011,5307,4436217,11.96
+"Central African Republic",2012,4641,4525209,10.26
+"Central African Republic",2013,4196,4616417,9.09
+"Chad",1999,2920,8002899,3.65
+"Chad",2002,3517,8959964,3.93
+"Chad",2003,3599,9311234,3.87
+"Chad",2004,2270,9665024,2.35
+"Chad",2005,2516,10014413,2.51
+"Chad",2008,3309,11030628,3
+"Chad",2009,3818,11371325,3.36
+"Chad",2010,7701,11720781,6.57
+"Chad",2011,8266,12080037,6.84
+"Chad",2012,8289,12448175,6.66
+"Chad",2013,11237,12825314,8.76
+"Chile",1995,1624,14440103,1.12
+"Chile",1996,1480,14662323,1.01
+"Chile",1997,1523,14872458,1.02
+"Chile",1999,1497,15265536,0.98
+"Chile",2000,1290,15454402,0.83
+"Chile",2001,1355,15639289,0.87
+"Chile",2002,1412,15819522,0.89
+"Chile",2003,1276,15995658,0.8
+"Chile",2004,1297,16168241,0.8
+"Chile",2005,1176,16337749,0.72
+"Chile",2006,2271,16504530,1.38
+"Chile",2007,2266,16668892,1.36
+"Chile",2008,2275,16831184,1.35
+"Chile",2009,2210,16991729,1.3
+"Chile",2010,2209,17150760,1.29
+"Chile",2011,2263,17308449,1.31
+"Chile",2012,2215,17464814,1.27
+"Chile",2013,2404,17619708,1.36
+"China",1995,131194,1237531429,1.06
+"China",1996,168270,1247897092,1.35
+"China",1997,195895,1257021784,1.56
+"China",1998,214404,1265222536,1.69
+"China",1999,212258,1272915272,1.67
+"China",2000,213766,1280428583,1.67
+"China",2001,212766,1287890449,1.65
+"China",2002,194972,1295322020,1.51
+"China",2003,267280,1302810258,2.05
+"China",2004,384886,1310414386,2.94
+"China",2005,472719,1318176835,3.59
+"China",2006,468291,1326146433,3.53
+"China",2007,465877,1334343509,3.49
+"China",2008,462596,1342732604,3.45
+"China",2009,884477,1351247555,6.55
+"China",2010,869092,1359821465,6.39
+"China",2011,865059,1368440300,6.32
+"China",2012,858861,1377064907,6.24
+"China",2013,847176,1385566537,6.11
+"China, Hong Kong SAR",1997,2036,6430651,3.17
+"China, Hong Kong SAR",1999,1767,6732627,2.62
+"China, Hong Kong SAR",2000,1940,6835301,2.84
+"China, Hong Kong SAR",2001,1857,6892752,2.69
+"China, Hong Kong SAR",2002,1892,6912079,2.74
+"China, Hong Kong SAR",2003,1794,6906631,2.6
+"China, Hong Kong SAR",2004,1694,6896523,2.46
+"China, Hong Kong SAR",2005,5441,6896686,7.89
+"China, Hong Kong SAR",2006,5142,6910671,7.44
+"China, Hong Kong SAR",2007,4973,6934748,7.17
+"China, Hong Kong SAR",2008,5168,6967866,7.42
+"China, Hong Kong SAR",2009,4839,7006930,6.91
+"China, Hong Kong SAR",2010,4619,7049514,6.55
+"China, Hong Kong SAR",2011,4439,7096359,6.26
+"China, Hong Kong SAR",2012,4486,7148493,6.28
+"China, Hong Kong SAR",2013,4744,7203836,6.59
+"China, Macao SAR",1995,141,NA,NA
+"China, Macao SAR",1996,204,NA,NA
+"China, Macao SAR",1997,304,NA,NA
+"China, Macao SAR",1998,261,NA,NA
+"China, Macao SAR",2000,133,NA,NA
+"China, Macao SAR",2001,157,NA,NA
+"China, Macao SAR",2002,147,NA,NA
+"China, Macao SAR",2003,138,NA,NA
+"China, Macao SAR",2004,128,NA,NA
+"China, Macao SAR",2005,136,NA,NA
+"China, Macao SAR",2006,365,NA,NA
+"China, Macao SAR",2007,314,NA,NA
+"China, Macao SAR",2008,338,NA,NA
+"China, Macao SAR",2009,291,NA,NA
+"China, Macao SAR",2010,347,NA,NA
+"China, Macao SAR",2011,446,NA,NA
+"China, Macao SAR",2012,326,NA,NA
+"China, Macao SAR",2013,433,NA,NA
+"Colombia",1999,8329,39234115,2.12
+"Colombia",2000,8358,39897984,2.09
+"Colombia",2001,8022,40558648,1.98
+"Colombia",2002,6519,41216304,1.58
+"Colombia",2003,7972,41872051,1.9
+"Colombia",2004,7640,42527623,1.8
+"Colombia",2005,6870,43184026,1.59
+"Colombia",2006,10696,43841370,2.44
+"Colombia",2007,10527,44498390,2.37
+"Colombia",2008,10931,45153037,2.42
+"Colombia",2009,10985,45802561,2.4
+"Colombia",2010,10709,46444798,2.31
+"Colombia",2011,11142,47078792,2.37
+"Colombia",2012,11066,47704427,2.32
+"Colombia",2013,11737,48321405,2.43
+"Comoros",1995,103,NA,NA
+"Comoros",1996,111,NA,NA
+"Comoros",1998,92,NA,NA
+"Comoros",2000,87,NA,NA
+"Comoros",2001,92,NA,NA
+"Comoros",2002,72,NA,NA
+"Comoros",2003,48,NA,NA
+"Comoros",2005,79,NA,NA
+"Comoros",2006,109,NA,NA
+"Comoros",2008,112,NA,NA
+"Comoros",2009,118,NA,NA
+"Comoros",2011,106,NA,NA
+"Comoros",2012,117,NA,NA
+"Comoros",2013,70,NA,NA
+"Congo",1995,1986,2720633,7.3
+"Congo",1999,2032,3044444,6.67
+"Congo",2001,4164,3205636,12.99
+"Congo",2004,4119,3448868,11.94
+"Congo",2006,3191,3646653,8.75
+"Congo",2007,3552,3758858,9.45
+"Congo",2008,3371,3876475,8.7
+"Congo",2009,3433,3995146,8.59
+"Congo",2010,3449,4111715,8.39
+"Congo",2011,3716,4225359,8.79
+"Congo",2012,3984,4337051,9.19
+"Congo",2013,3903,4447632,8.78
+"Cook Islands",1980,8,NA,NA
+"Cook Islands",1981,2,NA,NA
+"Cook Islands",1982,12,NA,NA
+"Cook Islands",1983,15,NA,NA
+"Cook Islands",1984,3,NA,NA
+"Cook Islands",1985,8,NA,NA
+"Cook Islands",1986,2,NA,NA
+"Cook Islands",1987,2,NA,NA
+"Cook Islands",1989,2,NA,NA
+"Cook Islands",1991,1,NA,NA
+"Cook Islands",1992,6,NA,NA
+"Cook Islands",1993,4,NA,NA
+"Cook Islands",1994,5,NA,NA
+"Cook Islands",1995,2,NA,NA
+"Cook Islands",1996,1,NA,NA
+"Cook Islands",1997,2,NA,NA
+"Cook Islands",1998,0,NA,NA
+"Cook Islands",2000,0,NA,NA
+"Cook Islands",2001,2,NA,NA
+"Cook Islands",2002,1,NA,NA
+"Cook Islands",2003,0,NA,NA
+"Cook Islands",2004,1,NA,NA
+"Cook Islands",2005,1,NA,NA
+"Cook Islands",2006,0,NA,NA
+"Cook Islands",2008,2,NA,NA
+"Cook Islands",2009,2,NA,NA
+"Cook Islands",2010,0,NA,NA
+"Cook Islands",2011,1,NA,NA
+"Cook Islands",2012,0,NA,NA
+"Cook Islands",2013,2,NA,NA
+"Costa Rica",1995,219,NA,NA
+"Costa Rica",1996,122,NA,NA
+"Costa Rica",1997,578,NA,NA
+"Costa Rica",1998,562,NA,NA
+"Costa Rica",1999,591,NA,NA
+"Costa Rica",2000,434,NA,NA
+"Costa Rica",2001,385,NA,NA
+"Costa Rica",2002,328,NA,NA
+"Costa Rica",2003,346,NA,NA
+"Costa Rica",2004,419,NA,NA
+"Costa Rica",2005,330,NA,NA
+"Costa Rica",2006,472,NA,NA
+"Costa Rica",2007,523,NA,NA
+"Costa Rica",2008,487,NA,NA
+"Costa Rica",2009,472,NA,NA
+"Costa Rica",2010,462,NA,NA
+"Costa Rica",2011,498,NA,NA
+"Costa Rica",2012,451,NA,NA
+"Costa Rica",2013,407,NA,NA
+"Croatia",1995,1204,NA,NA
+"Croatia",1997,1073,NA,NA
+"Croatia",1998,1129,NA,NA
+"Croatia",1999,475,NA,NA
+"Croatia",2001,838,NA,NA
+"Croatia",2002,431,NA,NA
+"Croatia",2003,438,NA,NA
+"Croatia",2004,416,NA,NA
+"Croatia",2005,372,NA,NA
+"Croatia",2006,1028,NA,NA
+"Croatia",2007,76,NA,NA
+"Croatia",2008,931,NA,NA
+"Croatia",2009,793,NA,NA
+"Croatia",2010,652,NA,NA
+"Croatia",2011,619,NA,NA
+"Croatia",2012,539,NA,NA
+"Croatia",2013,511,NA,NA
+"Cuba",1995,834,NA,NA
+"Cuba",1996,835,NA,NA
+"Cuba",1997,765,NA,NA
+"Cuba",1998,744,NA,NA
+"Cuba",1999,720,NA,NA
+"Cuba",2000,675,NA,NA
+"Cuba",2001,559,NA,NA
+"Cuba",2002,540,NA,NA
+"Cuba",2003,507,NA,NA
+"Cuba",2004,454,NA,NA
+"Cuba",2005,467,NA,NA
+"Cuba",2006,716,NA,NA
+"Cuba",2008,771,NA,NA
+"Cuba",2009,659,NA,NA
+"Cuba",2010,772,NA,NA
+"Cuba",2011,742,NA,NA
+"Cuba",2012,686,NA,NA
+"Cuba",2013,757,NA,NA
+"Curaçao",2010,5,NA,NA
+"Curaçao",2011,1,NA,NA
+"Curaçao",2012,1,NA,NA
+"Curaçao",2013,2,NA,NA
+"Cyprus",1995,12,NA,NA
+"Cyprus",1996,3,NA,NA
+"Cyprus",1998,6,NA,NA
+"Cyprus",1999,39,NA,NA
+"Cyprus",2002,8,NA,NA
+"Cyprus",2003,14,NA,NA
+"Cyprus",2004,10,NA,NA
+"Cyprus",2005,8,NA,NA
+"Cyprus",2006,36,NA,NA
+"Cyprus",2007,39,NA,NA
+"Cyprus",2008,41,NA,NA
+"Cyprus",2009,40,NA,NA
+"Cyprus",2010,32,NA,NA
+"Cyprus",2011,30,NA,NA
+"Cyprus",2012,54,NA,NA
+"Cyprus",2013,41,NA,NA
+"Czech Republic",1995,508,NA,NA
+"Czech Republic",1996,574,NA,NA
+"Czech Republic",1997,481,NA,NA
+"Czech Republic",1998,545,NA,NA
+"Czech Republic",1999,449,NA,NA
+"Czech Republic",2000,410,NA,NA
+"Czech Republic",2001,391,NA,NA
+"Czech Republic",2002,329,NA,NA
+"Czech Republic",2003,338,NA,NA
+"Czech Republic",2004,302,NA,NA
+"Czech Republic",2005,308,NA,NA
+"Czech Republic",2006,941,NA,NA
+"Czech Republic",2007,790,NA,NA
+"Czech Republic",2008,807,NA,NA
+"Czech Republic",2009,632,NA,NA
+"Czech Republic",2010,619,NA,NA
+"Czech Republic",2011,568,NA,NA
+"Czech Republic",2012,565,NA,NA
+"Czech Republic",2013,471,NA,NA
+"Côte d'Ivoire",1995,8254,14217430,5.81
+"Côte d'Ivoire",1996,7387,14632391,5.05
+"Côte d'Ivoire",1997,9041,15042149,6.01
+"Côte d'Ivoire",1998,9391,15436470,6.08
+"Côte d'Ivoire",1999,8952,15802248,5.67
+"Côte d'Ivoire",2001,9901,16420173,6.03
+"Côte d'Ivoire",2002,11025,16674987,6.61
+"Côte d'Ivoire",2003,11198,16909801,6.62
+"Côte d'Ivoire",2004,12136,17144325,7.08
+"Côte d'Ivoire",2005,12403,17393994,7.13
+"Côte d'Ivoire",2006,12867,17662417,7.28
+"Côte d'Ivoire",2007,14071,17949061,7.84
+"Côte d'Ivoire",2008,15294,18260044,8.38
+"Côte d'Ivoire",2009,14300,18601342,7.69
+"Côte d'Ivoire",2010,14131,18976588,7.45
+"Côte d'Ivoire",2011,14416,19389954,7.43
+"Côte d'Ivoire",2012,14660,19839750,7.39
+"Côte d'Ivoire",2013,15241,20316086,7.5
+"Democratic People's Republic of Korea",1997,3980,22240833,1.79
+"Democratic People's Republic of Korea",1998,302,22444993,0.13
+"Democratic People's Republic of Korea",1999,2673,22641754,1.18
+"Democratic People's Republic of Korea",2000,16440,22840225,7.2
+"Democratic People's Republic of Korea",2001,14428,23043449,6.26
+"Democratic People's Republic of Korea",2002,18576,23248059,7.99
+"Democratic People's Republic of Korea",2003,17392,23449180,7.42
+"Democratic People's Republic of Korea",2004,18479,23639303,7.82
+"Democratic People's Republic of Korea",2005,17816,23813333,7.48
+"Democratic People's Republic of Korea",2006,18435,23969917,7.69
+"Democratic People's Republic of Korea",2007,23575,24111989,9.78
+"Democratic People's Republic of Korea",2008,70384,24243894,29.03
+"Democratic People's Republic of Korea",2009,74089,24371865,30.4
+"Democratic People's Republic of Korea",2010,81240,24500520,33.16
+"Democratic People's Republic of Korea",2011,85564,24631291,34.74
+"Democratic People's Republic of Korea",2012,85184,24763188,34.4
+"Democratic People's Republic of Korea",2013,90591,24895480,36.39
+"Democratic Republic of the Congo",1995,14069,42012524,3.35
+"Democratic Republic of the Congo",1996,11587,43122601,2.69
+"Democratic Republic of the Congo",1997,13242,44078397,3
+"Democratic Republic of the Congo",1998,30573,44960941,6.8
+"Democratic Republic of the Congo",1999,34921,45889100,7.61
+"Democratic Republic of the Congo",2000,35488,46949244,7.56
+"Democratic Republic of the Congo",2001,40450,48167045,8.4
+"Democratic Republic of the Congo",2002,43480,49516960,8.78
+"Democratic Republic of the Congo",2003,53333,50972323,10.46
+"Democratic Republic of the Congo",2004,62192,52487293,11.85
+"Democratic Republic of the Congo",2005,65040,54028003,12.04
+"Democratic Republic of the Congo",2006,63144,55590838,11.36
+"Democratic Republic of the Congo",2007,66099,57187942,11.56
+"Democratic Republic of the Congo",2008,69477,58819038,11.81
+"Democratic Republic of the Congo",2009,70489,60486276,11.65
+"Democratic Republic of the Congo",2010,73653,62191161,11.84
+"Democratic Republic of the Congo",2011,71321,63931512,11.16
+"Democratic Republic of the Congo",2012,71124,65705093,10.82
+"Democratic Republic of the Congo",2013,71220,67513677,10.55
+"Denmark",1995,128,NA,NA
+"Denmark",1996,97,NA,NA
+"Denmark",1997,114,NA,NA
+"Denmark",1998,132,NA,NA
+"Denmark",1999,170,NA,NA
+"Denmark",2000,171,NA,NA
+"Denmark",2001,124,NA,NA
+"Denmark",2002,135,NA,NA
+"Denmark",2003,143,NA,NA
+"Denmark",2004,146,NA,NA
+"Denmark",2005,129,NA,NA
+"Denmark",2006,341,NA,NA
+"Denmark",2007,355,NA,NA
+"Denmark",2008,329,NA,NA
+"Denmark",2009,290,NA,NA
+"Denmark",2010,264,NA,NA
+"Denmark",2011,269,NA,NA
+"Denmark",2012,337,NA,NA
+"Denmark",2013,330,NA,NA
+"Djibouti",1996,1796,675891,26.57
+"Djibouti",1997,1905,687897,27.69
+"Djibouti",1998,1697,699922,24.25
+"Djibouti",1999,1570,711652,22.06
+"Djibouti",2000,1394,722887,19.28
+"Djibouti",2001,1312,733732,17.88
+"Djibouti",2002,1253,744434,16.83
+"Djibouti",2003,1192,755085,15.79
+"Djibouti",2004,1086,765776,14.18
+"Djibouti",2005,1120,776585,14.42
+"Djibouti",2006,1153,787544,14.64
+"Djibouti",2007,2826,798690,35.38
+"Djibouti",2008,1375,810100,16.97
+"Djibouti",2009,1377,821865,16.75
+"Djibouti",2010,1181,834036,14.16
+"Djibouti",2011,1336,846646,15.78
+"Djibouti",2012,1170,859652,13.61
+"Djibouti",2013,1150,872932,13.17
+"Dominica",1996,7,NA,NA
+"Dominica",1997,5,NA,NA
+"Dominica",1998,5,NA,NA
+"Dominica",2002,2,NA,NA
+"Dominica",2006,19,NA,NA
+"Dominica",2007,3,NA,NA
+"Dominica",2008,12,NA,NA
+"Dominica",2009,4,NA,NA
+"Dominica",2010,8,NA,NA
+"Dominica",2011,2,NA,NA
+"Dominica",2012,6,NA,NA
+"Dominica",2013,3,NA,NA
+"Dominican Republic",1996,1300,8118570,1.6
+"Dominican Republic",1997,2682,8256496,3.25
+"Dominican Republic",1998,2194,8392534,2.61
+"Dominican Republic",1999,3489,8527881,4.09
+"Dominican Republic",2000,2907,8663421,3.36
+"Dominican Republic",2002,2179,8935261,2.44
+"Dominican Republic",2003,2806,9071318,3.09
+"Dominican Republic",2004,2720,9207389,2.95
+"Dominican Republic",2005,2949,9343362,3.16
+"Dominican Republic",2006,2658,9479269,2.8
+"Dominican Republic",2007,2373,9615015,2.47
+"Dominican Republic",2008,2458,9750195,2.52
+"Dominican Republic",2009,2441,9884265,2.47
+"Dominican Republic",2010,2159,10016797,2.16
+"Dominican Republic",2011,2454,10147598,2.42
+"Dominican Republic",2012,2483,10276621,2.42
+"Dominican Republic",2013,2675,10403761,2.57
+"Ecuador",1998,1523,12042454,1.26
+"Ecuador",2001,4439,12780869,3.47
+"Ecuador",2003,1699,13279806,1.28
+"Ecuador",2004,4340,13529091,3.21
+"Ecuador",2005,3048,13777131,2.21
+"Ecuador",2006,3182,14023503,2.27
+"Ecuador",2007,3448,14268397,2.42
+"Ecuador",2008,3380,14512402,2.33
+"Ecuador",2009,3330,14756424,2.26
+"Ecuador",2010,3373,15001072,2.25
+"Ecuador",2011,4709,15246481,3.09
+"Ecuador",2012,4997,15492264,3.23
+"Ecuador",2013,5277,15737878,3.35
+"Egypt",1995,4475,61168397,0.73
+"Egypt",1996,4635,62123592,0.75
+"Egypt",1997,5074,63094069,0.8
+"Egypt",1998,5077,64084443,0.79
+"Egypt",1999,4713,65097777,0.72
+"Egypt",2000,4580,66136590,0.69
+"Egypt",2001,4514,67204189,0.67
+"Egypt",2002,4777,68302914,0.7
+"Egypt",2003,5001,69432477,0.72
+"Egypt",2004,4619,70591288,0.65
+"Egypt",2005,3730,71777678,0.52
+"Egypt",2006,9559,72990754,1.31
+"Egypt",2007,9458,74229577,1.27
+"Egypt",2008,8939,75491922,1.18
+"Egypt",2009,9289,76775023,1.21
+"Egypt",2010,8886,78075705,1.14
+"Egypt",2011,8523,79392466,1.07
+"Egypt",2012,8145,80721874,1.01
+"Egypt",2013,7534,82056378,0.92
+"El Salvador",1996,965,NA,NA
+"El Salvador",1997,860,NA,NA
+"El Salvador",1998,984,NA,NA
+"El Salvador",1999,1023,NA,NA
+"El Salvador",2000,1008,NA,NA
+"El Salvador",2001,1003,NA,NA
+"El Salvador",2002,980,NA,NA
+"El Salvador",2003,870,NA,NA
+"El Salvador",2004,926,NA,NA
+"El Salvador",2005,1059,NA,NA
+"El Salvador",2006,1196,NA,NA
+"El Salvador",2007,1606,NA,NA
+"El Salvador",2008,1660,NA,NA
+"El Salvador",2009,1622,NA,NA
+"El Salvador",2010,1638,NA,NA
+"El Salvador",2011,1834,NA,NA
+"El Salvador",2012,1965,NA,NA
+"El Salvador",2013,2067,NA,NA
+"Equatorial Guinea",1995,218,NA,NA
+"Equatorial Guinea",1997,226,NA,NA
+"Equatorial Guinea",1998,284,NA,NA
+"Equatorial Guinea",2004,406,NA,NA
+"Equatorial Guinea",2008,541,NA,NA
+"Equatorial Guinea",2009,599,NA,NA
+"Equatorial Guinea",2010,724,NA,NA
+"Equatorial Guinea",2011,858,NA,NA
+"Eritrea",1997,109,NA,NA
+"Eritrea",1998,228,NA,NA
+"Eritrea",1999,530,NA,NA
+"Eritrea",2000,597,NA,NA
+"Eritrea",2001,702,NA,NA
+"Eritrea",2002,646,NA,NA
+"Eritrea",2003,887,NA,NA
+"Eritrea",2004,679,NA,NA
+"Eritrea",2005,687,NA,NA
+"Eritrea",2006,680,NA,NA
+"Eritrea",2007,694,NA,NA
+"Eritrea",2009,802,NA,NA
+"Eritrea",2010,832,NA,NA
+"Eritrea",2012,779,NA,NA
+"Estonia",1996,240,NA,NA
+"Estonia",1997,258,NA,NA
+"Estonia",1998,299,NA,NA
+"Estonia",1999,274,NA,NA
+"Estonia",2000,255,NA,NA
+"Estonia",2001,212,NA,NA
+"Estonia",2002,203,NA,NA
+"Estonia",2003,201,NA,NA
+"Estonia",2004,203,NA,NA
+"Estonia",2005,162,NA,NA
+"Estonia",2006,373,NA,NA
+"Estonia",2007,396,NA,NA
+"Estonia",2008,354,NA,NA
+"Estonia",2009,326,NA,NA
+"Estonia",2010,252,NA,NA
+"Estonia",2011,264,NA,NA
+"Estonia",2012,234,NA,NA
+"Estonia",2013,263,NA,NA
+"Ethiopia",1995,6080,57023519,1.07
+"Ethiopia",1996,9225,58815116,1.57
+"Ethiopia",1997,15753,60584273,2.6
+"Ethiopia",1998,17864,62353942,2.86
+"Ethiopia",1999,21555,64158887,3.36
+"Ethiopia",2000,30510,66024199,4.62
+"Ethiopia",2001,33028,67956866,4.86
+"Ethiopia",2002,36541,69948344,5.22
+"Ethiopia",2003,39698,71989666,5.51
+"Ethiopia",2004,41430,74066147,5.59
+"Ethiopia",2005,38525,76167240,5.06
+"Ethiopia",2006,36674,78290649,4.68
+"Ethiopia",2007,38040,80440708,4.73
+"Ethiopia",2008,40794,82621190,4.94
+"Ethiopia",2009,44396,84838032,5.23
+"Ethiopia",2010,46634,87095281,5.35
+"Ethiopia",2011,49694,89393063,5.56
+"Ethiopia",2012,15534,91728849,1.69
+"Ethiopia",2013,21317,94100756,2.27
+"Fiji",1994,62,NA,NA
+"Fiji",1995,68,NA,NA
+"Fiji",1996,69,NA,NA
+"Fiji",1997,66,NA,NA
+"Fiji",1998,74,NA,NA
+"Fiji",1999,65,NA,NA
+"Fiji",2000,62,NA,NA
+"Fiji",2001,62,NA,NA
+"Fiji",2002,74,NA,NA
+"Fiji",2003,78,NA,NA
+"Fiji",2004,62,NA,NA
+"Fiji",2005,132,NA,NA
+"Fiji",2006,113,NA,NA
+"Fiji",2007,127,NA,NA
+"Fiji",2008,114,NA,NA
+"Fiji",2009,121,NA,NA
+"Fiji",2010,179,NA,NA
+"Fiji",2011,205,NA,NA
+"Fiji",2012,205,NA,NA
+"Fiji",2013,254,NA,NA
+"Finland",1995,244,NA,NA
+"Finland",1996,240,NA,NA
+"Finland",1997,186,NA,NA
+"Finland",1998,188,NA,NA
+"Finland",1999,179,NA,NA
+"Finland",2000,201,NA,NA
+"Finland",2001,148,NA,NA
+"Finland",2002,128,NA,NA
+"Finland",2003,135,NA,NA
+"Finland",2004,102,NA,NA
+"Finland",2005,97,NA,NA
+"Finland",2006,280,NA,NA
+"Finland",2007,613,NA,NA
+"Finland",2008,331,NA,NA
+"Finland",2009,400,NA,NA
+"Finland",2010,304,NA,NA
+"Finland",2011,311,NA,NA
+"Finland",2012,252,NA,NA
+"Finland",2013,266,NA,NA
+"France",1995,3449,58008958,0.59
+"France",1996,2991,58216225,0.51
+"France",1997,2421,58418324,0.41
+"France",1999,2312,58894671,0.39
+"France",2000,1807,59213096,0.31
+"France",2001,1827,59600714,0.31
+"France",2002,1754,60047743,0.29
+"France",2003,1719,60527640,0.28
+"France",2004,1681,61002537,0.28
+"France",2005,1718,61444972,0.28
+"France",2006,4789,61845239,0.77
+"France",2007,6326,62210877,1.02
+"France",2008,3281,62552614,0.52
+"France",2009,2847,62888318,0.45
+"France",2010,2730,63230866,0.43
+"France",2011,2652,63582112,0.42
+"France",2012,2600,63936575,0.41
+"France",2013,4680,64291280,0.73
+"French Polynesia",1996,37,NA,NA
+"French Polynesia",1997,41,NA,NA
+"French Polynesia",1998,34,NA,NA
+"French Polynesia",1999,33,NA,NA
+"French Polynesia",2000,29,NA,NA
+"French Polynesia",2001,45,NA,NA
+"French Polynesia",2002,27,NA,NA
+"French Polynesia",2003,21,NA,NA
+"French Polynesia",2004,30,NA,NA
+"French Polynesia",2005,22,NA,NA
+"French Polynesia",2006,67,NA,NA
+"French Polynesia",2007,62,NA,NA
+"French Polynesia",2008,45,NA,NA
+"French Polynesia",2009,48,NA,NA
+"French Polynesia",2010,37,NA,NA
+"French Polynesia",2011,62,NA,NA
+"French Polynesia",2012,44,NA,NA
+"French Polynesia",2013,52,NA,NA
+"Gabon",1995,486,NA,NA
+"Gabon",1996,249,NA,NA
+"Gabon",1998,886,NA,NA
+"Gabon",1999,915,NA,NA
+"Gabon",2001,1131,NA,NA
+"Gabon",2002,1033,NA,NA
+"Gabon",2003,1233,NA,NA
+"Gabon",2004,1323,NA,NA
+"Gabon",2005,1042,NA,NA
+"Gabon",2006,1145,NA,NA
+"Gabon",2008,1501,NA,NA
+"Gabon",2009,1243,NA,NA
+"Gabon",2010,3198,NA,NA
+"Gabon",2011,1740,NA,NA
+"Gabon",2012,4512,NA,NA
+"Gabon",2013,1930,NA,NA
+"Gambia",1995,658,NA,NA
+"Gambia",1996,757,NA,NA
+"Gambia",1997,820,NA,NA
+"Gambia",1998,903,NA,NA
+"Gambia",1999,862,NA,NA
+"Gambia",2002,1035,NA,NA
+"Gambia",2003,1035,NA,NA
+"Gambia",2004,1012,NA,NA
+"Gambia",2005,1127,NA,NA
+"Gambia",2006,1209,NA,NA
+"Gambia",2008,2026,NA,NA
+"Gambia",2009,2079,NA,NA
+"Gambia",2010,1344,NA,NA
+"Gambia",2011,1375,NA,NA
+"Gambia",2012,1429,NA,NA
+"Gambia",2013,137,NA,NA
+"Georgia",1995,221,5067143,0.44
+"Georgia",1996,475,4990097,0.95
+"Georgia",1997,595,4922489,1.21
+"Georgia",1998,547,4861848,1.13
+"Georgia",1999,746,4803312,1.55
+"Georgia",2000,592,4743591,1.25
+"Georgia",2001,1014,4682290,2.17
+"Georgia",2002,984,4621837,2.13
+"Georgia",2003,987,4564938,2.16
+"Georgia",2004,1311,4515280,2.9
+"Georgia",2005,1495,4475306,3.34
+"Georgia",2006,4318,4446032,9.71
+"Georgia",2007,4028,4426077,9.1
+"Georgia",2008,4148,4412502,9.4
+"Georgia",2009,4457,4401093,10.13
+"Georgia",2010,4383,4388674,9.99
+"Georgia",2011,4223,4374226,9.65
+"Georgia",2012,3778,4358242,8.67
+"Georgia",2013,3434,4340895,7.91
+"Germany",1995,3852,83147770,0.46
+"Germany",1996,3680,83388930,0.44
+"Germany",1997,3346,83490697,0.4
+"Germany",1998,3124,83500716,0.37
+"Germany",1999,2918,83490881,0.35
+"Germany",2001,841,83583461,0.1
+"Germany",2002,722,83685160,0.09
+"Germany",2003,1195,83788480,0.14
+"Germany",2004,1327,83848844,0.16
+"Germany",2005,1190,83835978,0.14
+"Germany",2006,4862,83740302,0.58
+"Germany",2007,5655,83578794,0.68
+"Germany",2008,3538,83379538,0.42
+"Germany",2009,3571,83182774,0.43
+"Germany",2010,3452,83017404,0.42
+"Germany",2011,3457,82892904,0.42
+"Germany",2012,3378,82800121,0.41
+"Germany",2013,4175,82726626,0.5
+"Ghana",1995,2638,16760926,1.57
+"Ghana",1996,2422,17169151,1.41
+"Ghana",1997,5596,17568461,3.19
+"Ghana",1998,7005,17968830,3.9
+"Ghana",1999,6825,18384302,3.71
+"Ghana",2000,7316,18825034,3.89
+"Ghana",2001,7712,19293392,4
+"Ghana",2002,7732,19786307,3.91
+"Ghana",2003,7714,20301686,3.8
+"Ghana",2004,7259,20835514,3.48
+"Ghana",2005,7505,21384034,3.51
+"Ghana",2006,7786,21947779,3.55
+"Ghana",2007,7429,22525659,3.3
+"Ghana",2009,8255,23691533,3.48
+"Ghana",2010,12724,24262901,5.24
+"Ghana",2011,14962,24820706,6.03
+"Ghana",2012,14377,25366462,5.67
+"Ghana",2013,15043,25904598,5.81
+"Greece",1997,287,NA,NA
+"Greece",1998,287,NA,NA
+"Greece",1999,142,NA,NA
+"Greece",2000,211,NA,NA
+"Greece",2001,199,NA,NA
+"Greece",2002,152,NA,NA
+"Greece",2003,207,NA,NA
+"Greece",2004,151,NA,NA
+"Greece",2005,176,NA,NA
+"Greece",2006,573,NA,NA
+"Greece",2007,500,NA,NA
+"Greece",2008,533,NA,NA
+"Greece",2009,458,NA,NA
+"Greece",2010,345,NA,NA
+"Greece",2011,443,NA,NA
+"Greece",2012,443,NA,NA
+"Greece",2013,486,NA,NA
+"Greenland",2009,57,NA,NA
+"Greenland",2010,104,NA,NA
+"Greenland",2011,115,NA,NA
+"Greenland",2012,82,NA,NA
+"Greenland",2013,96,NA,NA
+"Grenada",1997,2,NA,NA
+"Grenada",1998,2,NA,NA
+"Grenada",1999,3,NA,NA
+"Grenada",2003,2,NA,NA
+"Grenada",2004,1,NA,NA
+"Grenada",2006,1,NA,NA
+"Grenada",2007,3,NA,NA
+"Grenada",2008,5,NA,NA
+"Grenada",2009,5,NA,NA
+"Grenada",2010,4,NA,NA
+"Grenada",2011,2,NA,NA
+"Grenada",2012,1,NA,NA
+"Grenada",2013,1,NA,NA
+"Guam",2000,54,NA,NA
+"Guam",2001,48,NA,NA
+"Guam",2002,65,NA,NA
+"Guam",2003,39,NA,NA
+"Guam",2004,22,NA,NA
+"Guam",2005,27,NA,NA
+"Guam",2006,44,NA,NA
+"Guam",2007,52,NA,NA
+"Guam",2008,89,NA,NA
+"Guam",2009,101,NA,NA
+"Guam",2010,99,NA,NA
+"Guam",2011,78,NA,NA
+"Guam",2012,68,NA,NA
+"Guam",2013,48,NA,NA
+"Guatemala",1995,2368,9983861,2.37
+"Guatemala",1996,2308,10214623,2.26
+"Guatemala",1997,2218,10449636,2.12
+"Guatemala",1998,2255,10691090,2.11
+"Guatemala",1999,2264,10941913,2.07
+"Guatemala",2000,2052,11204183,1.83
+"Guatemala",2001,1669,11478984,1.45
+"Guatemala",2002,1865,11765738,1.59
+"Guatemala",2003,1795,12062835,1.49
+"Guatemala",2004,2339,12367800,1.89
+"Guatemala",2005,2420,12678919,1.91
+"Guatemala",2007,3006,13317931,2.26
+"Guatemala",2008,2742,13648307,2.01
+"Guatemala",2009,3010,13988988,2.15
+"Guatemala",2010,2121,14341576,1.48
+"Guatemala",2011,1961,14706578,1.33
+"Guatemala",2013,2196,15468203,1.42
+"Guinea",1995,2263,7837173,2.89
+"Guinea",1996,2844,8094751,3.51
+"Guinea",1997,2981,8296478,3.59
+"Guinea",1998,3362,8457221,3.98
+"Guinea",1999,3562,8600911,4.14
+"Guinea",2000,3920,8746128,4.48
+"Guinea",2001,4092,8895353,4.6
+"Guinea",2002,4028,9045748,4.45
+"Guinea",2003,4495,9204581,4.88
+"Guinea",2004,5015,9379621,5.35
+"Guinea",2005,5479,9576331,5.72
+"Guinea",2006,5903,9798963,6.02
+"Guinea",2007,6224,10046967,6.19
+"Guinea",2008,6561,10314678,6.36
+"Guinea",2009,5377,10593248,5.08
+"Guinea",2010,7041,10876033,6.47
+"Guinea",2011,10664,11161530,9.55
+"Guinea",2012,5015,11451273,4.38
+"Guinea",2013,11313,11745189,9.63
+"Guinea-Bissau",1996,922,NA,NA
+"Guinea-Bissau",2000,526,NA,NA
+"Guinea-Bissau",2002,899,NA,NA
+"Guinea-Bissau",2003,963,NA,NA
+"Guinea-Bissau",2004,1186,NA,NA
+"Guinea-Bissau",2005,1132,NA,NA
+"Guinea-Bissau",2006,2004,NA,NA
+"Guinea-Bissau",2008,1223,NA,NA
+"Guinea-Bissau",2009,1310,NA,NA
+"Guinea-Bissau",2010,1409,NA,NA
+"Guinea-Bissau",2011,1885,NA,NA
+"Guinea-Bissau",2012,1847,NA,NA
+"Guinea-Bissau",2013,2046,NA,NA
+"Guyana",1995,80,NA,NA
+"Guyana",1996,71,NA,NA
+"Guyana",1997,105,NA,NA
+"Guyana",1998,318,NA,NA
+"Guyana",2000,119,NA,NA
+"Guyana",2001,174,NA,NA
+"Guyana",2002,526,NA,NA
+"Guyana",2003,595,NA,NA
+"Guyana",2004,510,NA,NA
+"Guyana",2005,656,NA,NA
+"Guyana",2006,710,NA,NA
+"Guyana",2007,577,NA,NA
+"Guyana",2008,623,NA,NA
+"Guyana",2009,626,NA,NA
+"Guyana",2010,674,NA,NA
+"Guyana",2011,683,NA,NA
+"Guyana",2012,725,NA,NA
+"Guyana",2013,679,NA,NA
+"Haiti",1996,3351,7986858,4.2
+"Haiti",1997,5449,8136372,6.7
+"Haiti",1998,6442,8285690,7.77
+"Haiti",1999,6828,8433339,8.1
+"Haiti",2000,5887,8578234,6.86
+"Haiti",2001,5607,8720247,6.43
+"Haiti",2002,6188,8859635,6.98
+"Haiti",2003,7015,8996229,7.8
+"Haiti",2004,7044,9129933,7.72
+"Haiti",2005,7340,9260879,7.93
+"Haiti",2006,13693,9388642,14.58
+"Haiti",2007,13824,9513714,14.53
+"Haiti",2008,14289,9638255,14.83
+"Haiti",2010,13884,9896400,14.03
+"Haiti",2011,14871,10032864,14.82
+"Haiti",2012,15898,10173775,15.63
+"Haiti",2013,17040,10317461,16.52
+"Honduras",1995,2438,5591935,4.36
+"Honduras",1996,1944,5723639,3.4
+"Honduras",1997,1579,5852719,2.7
+"Honduras",1998,2311,5980152,3.86
+"Honduras",1999,2406,6107385,3.94
+"Honduras",2000,2345,6235561,3.76
+"Honduras",2001,2839,6365040,4.46
+"Honduras",2002,2956,6495801,4.55
+"Honduras",2003,1956,6628171,2.95
+"Honduras",2004,2012,6762426,2.98
+"Honduras",2005,2069,6898825,3
+"Honduras",2006,3024,7037428,4.3
+"Honduras",2007,2772,7178436,3.86
+"Honduras",2008,2678,7322368,3.66
+"Honduras",2009,2732,7469844,3.66
+"Honduras",2010,2706,7621204,3.55
+"Honduras",2011,3078,7776669,3.96
+"Honduras",2012,2816,7935846,3.55
+"Honduras",2013,2981,8097688,3.68
+"Hungary",1996,1066,NA,NA
+"Hungary",1997,702,NA,NA
+"Hungary",1998,667,NA,NA
+"Hungary",1999,660,NA,NA
+"Hungary",2000,412,NA,NA
+"Hungary",2001,534,NA,NA
+"Hungary",2002,550,NA,NA
+"Hungary",2003,516,NA,NA
+"Hungary",2004,557,NA,NA
+"Hungary",2005,420,NA,NA
+"Hungary",2006,1575,NA,NA
+"Hungary",2007,1424,NA,NA
+"Hungary",2008,1320,NA,NA
+"Hungary",2009,1192,NA,NA
+"Hungary",2010,1472,NA,NA
+"Hungary",2011,1223,NA,NA
+"Hungary",2012,1139,NA,NA
+"Hungary",2013,1040,NA,NA
+"Iceland",1995,2,NA,NA
+"Iceland",1996,1,NA,NA
+"Iceland",1997,5,NA,NA
+"Iceland",1998,2,NA,NA
+"Iceland",1999,2,NA,NA
+"Iceland",2000,1,NA,NA
+"Iceland",2001,3,NA,NA
+"Iceland",2002,2,NA,NA
+"Iceland",2003,1,NA,NA
+"Iceland",2004,2,NA,NA
+"Iceland",2005,2,NA,NA
+"Iceland",2006,13,NA,NA
+"Iceland",2007,29,NA,NA
+"Iceland",2008,6,NA,NA
+"Iceland",2009,7,NA,NA
+"Iceland",2010,22,NA,NA
+"Iceland",2011,8,NA,NA
+"Iceland",2012,10,NA,NA
+"Iceland",2013,11,NA,NA
+"India",1995,1985,955804355,0.02
+"India",1996,6254,973147577,0.06
+"India",1997,7708,990460131,0.08
+"India",1998,12421,1007746556,0.12
+"India",1999,52900,1025014711,0.52
+"India",2000,193149,1042261758,1.85
+"India",2001,185277,1059500888,1.75
+"India",2002,351493,1076705723,3.26
+"India",2003,404884,1093786762,3.7
+"India",2004,479665,1110626108,4.32
+"India",2005,508557,1127143548,4.51
+"India",2006,553797,1143289350,4.84
+"India",2007,1198289,1159095250,10.34
+"India",2008,615492,1174662334,5.24
+"India",2009,624617,1190138069,5.25
+"India",2010,630164,1205624648,5.23
+"India",2011,642311,1221156319,5.26
+"India",2012,629589,1236686732,5.09
+"Indonesia",1995,2468,194112556,0.13
+"Indonesia",1996,11381,197097887,0.58
+"Indonesia",1997,17364,200050444,0.87
+"Indonesia",1998,32280,202990922,1.59
+"Indonesia",1999,49172,205946831,2.39
+"Indonesia",2001,53965,211970371,2.55
+"Indonesia",2002,76230,215038285,3.54
+"Indonesia",2003,92566,218145617,4.24
+"Indonesia",2004,128981,221293797,5.83
+"Indonesia",2005,158640,224480901,7.07
+"Indonesia",2006,175320,227709821,7.7
+"Indonesia",2007,271278,230972808,11.75
+"Indonesia",2008,292899,234243489,12.5
+"Indonesia",2009,289044,237486894,12.17
+"Indonesia",2010,296272,240676485,12.31
+"Indonesia",2011,313601,243801639,12.86
+"Indonesia",2012,322882,246864191,13.08
+"Indonesia",2013,325582,249865631,13.03
+"Iran (Islamic Republic of)",1995,9324,60468352,1.54
+"Iran (Islamic Republic of)",1996,5414,61440887,0.88
+"Iran (Islamic Republic of)",1997,5271,62542531,0.84
+"Iran (Islamic Republic of)",1998,5141,63713397,0.81
+"Iran (Islamic Republic of)",1999,4977,64858754,0.77
+"Iran (Islamic Republic of)",2000,5378,65911052,0.82
+"Iran (Islamic Republic of)",2001,5529,66857624,0.83
+"Iran (Islamic Republic of)",2002,5366,67727274,0.79
+"Iran (Islamic Republic of)",2003,5188,68543171,0.76
+"Iran (Islamic Republic of)",2004,4897,69342126,0.71
+"Iran (Islamic Republic of)",2005,4581,70152384,0.65
+"Iran (Islamic Republic of)",2006,9054,70976584,1.28
+"Iran (Islamic Republic of)",2007,9046,71809219,1.26
+"Iran (Islamic Republic of)",2008,9156,72660887,1.26
+"Iran (Islamic Republic of)",2009,9763,73542954,1.33
+"Iran (Islamic Republic of)",2010,10042,74462314,1.35
+"Iran (Islamic Republic of)",2011,10595,75424285,1.4
+"Iran (Islamic Republic of)",2012,10705,76424443,1.4
+"Iran (Islamic Republic of)",2013,11052,77447168,1.43
+"Iraq",1995,11553,20363138,5.67
+"Iraq",1997,8001,21693597,3.69
+"Iraq",1998,8850,22387179,3.95
+"Iraq",1999,10811,23091408,4.68
+"Iraq",2000,2779,23801156,1.17
+"Iraq",2001,3559,24516842,1.45
+"Iraq",2002,3895,25238267,1.54
+"Iraq",2003,3557,25959531,1.37
+"Iraq",2004,3381,26673536,1.27
+"Iraq",2005,3096,27377045,1.13
+"Iraq",2006,7440,28064095,2.65
+"Iraq",2007,7309,28740630,2.54
+"Iraq",2008,8595,29429829,2.92
+"Iraq",2009,8917,30163199,2.96
+"Iraq",2010,9320,30962380,3.01
+"Iraq",2011,8479,31837015,2.66
+"Iraq",2012,8336,32778030,2.54
+"Iraq",2013,8554,33765232,2.53
+"Ireland",1998,111,NA,NA
+"Ireland",1999,115,NA,NA
+"Ireland",2000,108,NA,NA
+"Ireland",2001,74,NA,NA
+"Ireland",2002,88,NA,NA
+"Ireland",2003,98,NA,NA
+"Ireland",2004,93,NA,NA
+"Ireland",2005,94,NA,NA
+"Ireland",2006,410,NA,NA
+"Ireland",2007,954,NA,NA
+"Ireland",2008,328,NA,NA
+"Ireland",2009,361,NA,NA
+"Ireland",2010,327,NA,NA
+"Ireland",2011,280,NA,NA
+"Ireland",2012,248,NA,NA
+"Ireland",2013,354,NA,NA
+"Israel",1996,147,NA,NA
+"Israel",1997,223,NA,NA
+"Israel",1998,221,NA,NA
+"Israel",1999,517,NA,NA
+"Israel",2000,529,NA,NA
+"Israel",2001,505,NA,NA
+"Israel",2002,452,NA,NA
+"Israel",2003,457,NA,NA
+"Israel",2004,443,NA,NA
+"Israel",2005,365,NA,NA
+"Israel",2006,335,NA,NA
+"Israel",2007,389,NA,NA
+"Israel",2008,318,NA,NA
+"Israel",2009,338,NA,NA
+"Israel",2010,338,NA,NA
+"Israel",2011,408,NA,NA
+"Israel",2012,498,NA,NA
+"Israel",2013,308,NA,NA
+"Italy",1995,1402,56967071,0.25
+"Italy",1996,1539,56937309,0.27
+"Italy",1997,1930,56887127,0.34
+"Italy",1998,2353,56850303,0.41
+"Italy",1999,1233,56872736,0.22
+"Italy",2000,676,56986085,0.12
+"Italy",2001,743,57200233,0.13
+"Italy",2002,936,57501450,0.16
+"Italy",2003,1167,57868021,0.2
+"Italy",2004,833,58267068,0.14
+"Italy",2005,1104,58671855,0.19
+"Italy",2006,4058,59078271,0.69
+"Italy",2007,2965,59485505,0.5
+"Italy",2008,3395,59873820,0.57
+"Italy",2009,2520,60220314,0.42
+"Italy",2010,2722,60508978,0.45
+"Italy",2011,2007,60729316,0.33
+"Italy",2012,1611,60884593,0.26
+"Italy",2013,2434,60990277,0.4
+"Jamaica",1995,91,NA,NA
+"Jamaica",1996,75,NA,NA
+"Jamaica",1997,71,NA,NA
+"Jamaica",1998,82,NA,NA
+"Jamaica",1999,92,NA,NA
+"Jamaica",2000,90,NA,NA
+"Jamaica",2001,75,NA,NA
+"Jamaica",2002,60,NA,NA
+"Jamaica",2003,81,NA,NA
+"Jamaica",2004,69,NA,NA
+"Jamaica",2005,53,NA,NA
+"Jamaica",2006,93,NA,NA
+"Jamaica",2007,94,NA,NA
+"Jamaica",2008,99,NA,NA
+"Jamaica",2009,130,NA,NA
+"Jamaica",2010,128,NA,NA
+"Jamaica",2011,78,NA,NA
+"Jamaica",2012,88,NA,NA
+"Jamaica",2013,95,NA,NA
+"Japan",1995,14367,124483305,1.15
+"Japan",1996,12867,124794906,1.03
+"Japan",1997,13571,125048712,1.09
+"Japan",1998,11935,125266855,0.95
+"Japan",1999,12909,125481436,1.03
+"Japan",2000,11853,125714674,0.94
+"Japan",2001,11408,125973930,0.91
+"Japan",2002,10807,126249090,0.86
+"Japan",2003,10843,126523597,0.86
+"Japan",2004,10471,126772899,0.83
+"Japan",2005,10931,126978754,0.86
+"Japan",2006,24460,127136020,1.92
+"Japan",2007,23626,127248855,1.86
+"Japan",2008,22924,127319434,1.8
+"Japan",2009,22419,127352872,1.76
+"Japan",2010,21499,127352833,1.69
+"Japan",2011,20994,127319206,1.65
+"Japan",2012,19947,127249704,1.57
+"Japan",2013,20495,127143577,1.61
+"Jordan",1995,193,NA,NA
+"Jordan",1996,170,NA,NA
+"Jordan",1997,136,NA,NA
+"Jordan",1998,110,NA,NA
+"Jordan",1999,102,NA,NA
+"Jordan",2000,89,NA,NA
+"Jordan",2001,94,NA,NA
+"Jordan",2002,91,NA,NA
+"Jordan",2003,108,NA,NA
+"Jordan",2004,91,NA,NA
+"Jordan",2005,86,NA,NA
+"Jordan",2006,355,NA,NA
+"Jordan",2007,333,NA,NA
+"Jordan",2008,337,NA,NA
+"Jordan",2009,363,NA,NA
+"Jordan",2010,336,NA,NA
+"Jordan",2011,312,NA,NA
+"Jordan",2012,330,NA,NA
+"Jordan",2013,326,NA,NA
+"Kazakhstan",1997,4432,15085965,2.94
+"Kazakhstan",1998,6180,14858241,4.16
+"Kazakhstan",1999,6887,14679568,4.69
+"Kazakhstan",2000,8903,14575644,6.11
+"Kazakhstan",2001,9079,14559255,6.24
+"Kazakhstan",2002,9452,14623188,6.46
+"Kazakhstan",2004,7927,14902452,5.32
+"Kazakhstan",2005,6911,15064088,4.59
+"Kazakhstan",2006,25988,15227211,17.07
+"Kazakhstan",2007,21073,15396045,13.69
+"Kazakhstan",2008,19684,15568294,12.64
+"Kazakhstan",2009,16810,15743552,10.68
+"Kazakhstan",2010,15487,15921127,9.73
+"Kazakhstan",2011,14396,16097998,8.94
+"Kazakhstan",2012,13404,16271201,8.24
+"Kazakhstan",2013,18958,16440586,11.53
+"Kenya",1995,13934,27418077,5.08
+"Kenya",1996,16978,28186224,6.02
+"Kenya",1997,18856,28943647,6.51
+"Kenya",1998,24029,29702246,8.09
+"Kenya",1999,27197,30478597,8.92
+"Kenya",2000,28773,31285050,9.2
+"Kenya",2001,31307,32126351,9.74
+"Kenya",2002,34318,33000524,10.4
+"Kenya",2003,38158,33905011,11.25
+"Kenya",2004,41149,34834606,11.81
+"Kenya",2005,40389,35785718,11.29
+"Kenya",2006,39154,36757498,10.65
+"Kenya",2007,38360,37752304,10.16
+"Kenya",2008,78697,38773277,20.3
+"Kenya",2009,87427,39824734,21.95
+"Kenya",2010,85484,40909194,20.9
+"Kenya",2011,84548,42027891,20.12
+"Kenya",2012,81449,43178141,18.86
+"Kenya",2013,74335,44353691,16.76
+"Kiribati",1996,29,NA,NA
+"Kiribati",1997,17,NA,NA
+"Kiribati",1998,49,NA,NA
+"Kiribati",1999,59,NA,NA
+"Kiribati",2000,54,NA,NA
+"Kiribati",2001,64,NA,NA
+"Kiribati",2002,82,NA,NA
+"Kiribati",2003,99,NA,NA
+"Kiribati",2004,142,NA,NA
+"Kiribati",2005,124,NA,NA
+"Kiribati",2006,350,NA,NA
+"Kiribati",2007,328,NA,NA
+"Kiribati",2008,325,NA,NA
+"Kiribati",2009,274,NA,NA
+"Kiribati",2010,280,NA,NA
+"Kiribati",2011,336,NA,NA
+"Kiribati",2012,329,NA,NA
+"Kiribati",2013,410,NA,NA
+"Kuwait",1995,175,NA,NA
+"Kuwait",1996,153,NA,NA
+"Kuwait",1997,201,NA,NA
+"Kuwait",1998,185,NA,NA
+"Kuwait",1999,169,NA,NA
+"Kuwait",2000,180,NA,NA
+"Kuwait",2001,174,NA,NA
+"Kuwait",2002,206,NA,NA
+"Kuwait",2003,201,NA,NA
+"Kuwait",2004,248,NA,NA
+"Kuwait",2005,187,NA,NA
+"Kuwait",2006,644,NA,NA
+"Kuwait",2007,645,NA,NA
+"Kuwait",2008,866,NA,NA
+"Kuwait",2009,932,NA,NA
+"Kuwait",2010,955,NA,NA
+"Kuwait",2011,222,NA,NA
+"Kuwait",2012,737,NA,NA
+"Kuwait",2013,704,NA,NA
+"Kyrgyzstan",1995,832,4592135,1.81
+"Kyrgyzstan",1996,1003,4658815,2.15
+"Kyrgyzstan",1997,1618,4739263,3.41
+"Kyrgyzstan",1998,830,4823870,1.72
+"Kyrgyzstan",1999,1642,4898865,3.35
+"Kyrgyzstan",2000,1257,4954850,2.54
+"Kyrgyzstan",2001,1481,4988162,2.97
+"Kyrgyzstan",2002,1544,5003394,3.09
+"Kyrgyzstan",2003,1652,5009453,3.3
+"Kyrgyzstan",2004,1761,5019310,3.51
+"Kyrgyzstan",2005,1972,5042381,3.91
+"Kyrgyzstan",2006,1843,5081620,3.63
+"Kyrgyzstan",2007,1746,5134297,3.4
+"Kyrgyzstan",2008,5333,5197274,10.26
+"Kyrgyzstan",2009,5434,5265218,10.32
+"Kyrgyzstan",2010,5308,5334223,9.95
+"Kyrgyzstan",2011,1537,5403419,2.84
+"Kyrgyzstan",2012,5851,5474213,10.69
+"Kyrgyzstan",2013,5859,5547548,10.56
+"Lao People's Democratic Republic",1995,726,4871472,1.49
+"Lao People's Democratic Republic",1996,886,4986592,1.78
+"Lao People's Democratic Republic",1997,1234,5096724,2.42
+"Lao People's Democratic Republic",1998,1494,5200898,2.87
+"Lao People's Democratic Republic",1999,1706,5298146,3.22
+"Lao People's Democratic Republic",2000,1526,5388281,2.83
+"Lao People's Democratic Republic",2001,1563,5470169,2.86
+"Lao People's Democratic Republic",2002,1829,5545245,3.3
+"Lao People's Democratic Republic",2003,1866,5619069,3.32
+"Lao People's Democratic Republic",2004,2226,5699112,3.91
+"Lao People's Democratic Republic",2005,2806,5790646,4.85
+"Lao People's Democratic Republic",2006,3041,5895930,5.16
+"Lao People's Democratic Republic",2007,3084,6013278,5.13
+"Lao People's Democratic Republic",2008,3079,6139127,5.02
+"Lao People's Democratic Republic",2009,3034,6267968,4.84
+"Lao People's Democratic Republic",2010,3819,6395713,5.97
+"Lao People's Democratic Republic",2011,4136,6521314,6.34
+"Lao People's Democratic Republic",2012,3885,6645827,5.85
+"Lao People's Democratic Republic",2013,3937,6769727,5.82
+"Latvia",1995,504,NA,NA
+"Latvia",1996,575,NA,NA
+"Latvia",1997,634,NA,NA
+"Latvia",1998,668,NA,NA
+"Latvia",1999,588,NA,NA
+"Latvia",2000,637,NA,NA
+"Latvia",2001,661,NA,NA
+"Latvia",2002,636,NA,NA
+"Latvia",2003,641,NA,NA
+"Latvia",2004,582,NA,NA
+"Latvia",2005,536,NA,NA
+"Latvia",2006,1144,NA,NA
+"Latvia",2007,1216,NA,NA
+"Latvia",2008,918,NA,NA
+"Latvia",2009,830,NA,NA
+"Latvia",2010,825,NA,NA
+"Latvia",2011,788,NA,NA
+"Latvia",2012,880,NA,NA
+"Latvia",2013,872,NA,NA
+"Lebanon",1995,197,NA,NA
+"Lebanon",1996,198,NA,NA
+"Lebanon",1997,204,NA,NA
+"Lebanon",1998,206,NA,NA
+"Lebanon",1999,249,NA,NA
+"Lebanon",2000,202,NA,NA
+"Lebanon",2001,170,NA,NA
+"Lebanon",2002,148,NA,NA
+"Lebanon",2003,134,NA,NA
+"Lebanon",2004,146,NA,NA
+"Lebanon",2005,131,NA,NA
+"Lebanon",2006,384,NA,NA
+"Lebanon",2007,473,NA,NA
+"Lebanon",2008,512,NA,NA
+"Lebanon",2009,491,NA,NA
+"Lebanon",2010,503,NA,NA
+"Lebanon",2011,498,NA,NA
+"Lebanon",2012,621,NA,NA
+"Lebanon",2013,681,NA,NA
+"Lesotho",1995,1361,1753824,7.76
+"Lesotho",1996,1788,1779197,10.05
+"Lesotho",1997,2398,1801679,13.31
+"Lesotho",1998,2476,1821609,13.59
+"Lesotho",2000,2729,1856225,14.7
+"Lesotho",2002,3103,1885487,16.46
+"Lesotho",2003,3754,1898757,19.77
+"Lesotho",2004,4272,1912022,22.34
+"Lesotho",2005,4280,1925844,22.22
+"Lesotho",2006,4024,1940413,20.74
+"Lesotho",2007,788,1955784,4.03
+"Lesotho",2008,3862,1972199,19.58
+"Lesotho",2009,11545,1989873,58.02
+"Lesotho",2010,11153,2008921,55.52
+"Lesotho",2011,10945,2029516,53.93
+"Lesotho",2012,10317,2051545,50.29
+"Lesotho",2013,8916,2074465,42.98
+"Liberia",1996,668,2197801,3.04
+"Liberia",1998,1190,2558085,4.65
+"Liberia",2000,1021,2891968,3.53
+"Liberia",2001,934,2998770,3.11
+"Liberia",2002,1964,3070673,6.4
+"Liberia",2003,1319,3124222,4.22
+"Liberia",2004,2490,3184643,7.82
+"Liberia",2005,2167,3269786,6.63
+"Liberia",2006,4298,3384791,12.7
+"Liberia",2008,3042,3672714,8.28
+"Liberia",2009,4312,3821440,11.28
+"Liberia",2010,6498,3957990,16.42
+"Liberia",2011,7705,4079697,18.89
+"Liberia",2012,8037,4190435,19.18
+"Liberia",2013,3835,4294077,8.93
+"Libya",1995,626,NA,NA
+"Libya",1996,515,NA,NA
+"Libya",1999,795,NA,NA
+"Libya",2000,698,NA,NA
+"Libya",2003,764,NA,NA
+"Libya",2004,872,NA,NA
+"Libya",2005,860,NA,NA
+"Libya",2006,1549,NA,NA
+"Libya",2007,1848,NA,NA
+"Libya",2008,2010,NA,NA
+"Libya",2009,2087,NA,NA
+"Libya",2011,1498,NA,NA
+"Libya",2012,1549,NA,NA
+"Libya",2013,1344,NA,NA
+"Lithuania",1995,949,NA,NA
+"Lithuania",1996,1131,NA,NA
+"Lithuania",1997,1200,NA,NA
+"Lithuania",1998,787,NA,NA
+"Lithuania",1999,685,NA,NA
+"Lithuania",2000,776,NA,NA
+"Lithuania",2001,935,NA,NA
+"Lithuania",2002,821,NA,NA
+"Lithuania",2003,897,NA,NA
+"Lithuania",2004,856,NA,NA
+"Lithuania",2005,958,NA,NA
+"Lithuania",2006,2099,NA,NA
+"Lithuania",2007,1982,NA,NA
+"Lithuania",2008,1892,NA,NA
+"Lithuania",2009,1677,NA,NA
+"Lithuania",2010,1573,NA,NA
+"Lithuania",2011,1532,NA,NA
+"Lithuania",2012,1430,NA,NA
+"Lithuania",2013,1573,NA,NA
+"Luxembourg",1996,29,NA,NA
+"Luxembourg",1997,31,NA,NA
+"Luxembourg",1998,30,NA,NA
+"Luxembourg",2001,12,NA,NA
+"Luxembourg",2002,17,NA,NA
+"Luxembourg",2003,28,NA,NA
+"Luxembourg",2004,20,NA,NA
+"Luxembourg",2005,13,NA,NA
+"Luxembourg",2006,33,NA,NA
+"Luxembourg",2007,43,NA,NA
+"Luxembourg",2008,0,NA,NA
+"Luxembourg",2009,0,NA,NA
+"Luxembourg",2010,24,NA,NA
+"Luxembourg",2011,0,NA,NA
+"Luxembourg",2012,0,NA,NA
+"Luxembourg",2013,38,NA,NA
+"Madagascar",1995,8026,13452526,5.97
+"Madagascar",1996,8352,13882646,6.02
+"Madagascar",1998,9235,14790245,6.24
+"Madagascar",2001,11092,16235767,6.83
+"Madagascar",2002,10940,16736029,6.54
+"Madagascar",2003,13073,17245275,7.58
+"Madagascar",2004,9918,17763367,5.58
+"Madagascar",2005,11771,18290394,6.44
+"Madagascar",2006,15613,18826126,8.29
+"Madagascar",2007,20638,19371023,10.65
+"Madagascar",2008,16795,19926785,8.43
+"Madagascar",2009,21335,20495695,10.41
+"Madagascar",2010,22304,21079532,10.58
+"Madagascar",2011,17856,21678934,8.24
+"Madagascar",2012,17129,22293914,7.68
+"Malawi",1995,6284,9964065,6.31
+"Malawi",1996,7175,10153315,7.07
+"Malawi",1997,7587,10404259,7.29
+"Malawi",1998,8853,10700180,8.27
+"Malawi",1999,8130,11012707,7.38
+"Malawi",2000,8265,11321496,7.3
+"Malawi",2001,8309,11623166,7.15
+"Malawi",2003,7716,12238739,6.3
+"Malawi",2004,8566,12569091,6.82
+"Malawi",2005,8443,12924746,6.53
+"Malawi",2006,8166,13307535,6.14
+"Malawi",2007,7608,13713758,5.55
+"Malawi",2008,7681,14138207,5.43
+"Malawi",2009,7623,14573338,5.23
+"Malawi",2010,7240,15013694,4.82
+"Malawi",2011,7003,15457531,4.53
+"Malawi",2012,6951,15906483,4.37
+"Malawi",2013,16795,16362567,10.26
+"Malaysia",1995,6688,20725374,3.23
+"Malaysia",1996,7269,21259831,3.42
+"Malaysia",1997,7337,21805835,3.36
+"Malaysia",1998,7802,22355057,3.49
+"Malaysia",1999,8207,22896048,3.58
+"Malaysia",2000,8156,23420751,3.48
+"Malaysia",2001,8309,23925742,3.47
+"Malaysia",2002,7958,24413795,3.26
+"Malaysia",2003,15292,24890654,6.14
+"Malaysia",2004,15394,25365089,6.07
+"Malaysia",2005,16066,25843466,6.22
+"Malaysia",2006,7524,26327098,2.86
+"Malaysia",2007,15596,26813819,5.82
+"Malaysia",2008,17504,27302348,6.41
+"Malaysia",2010,18018,28275835,6.37
+"Malaysia",2011,19251,28758968,6.69
+"Malaysia",2012,21249,29239927,7.27
+"Malaysia",2013,23335,29716965,7.85
+"Maldives",1995,114,NA,NA
+"Maldives",1996,106,NA,NA
+"Maldives",1997,94,NA,NA
+"Maldives",1998,88,NA,NA
+"Maldives",1999,88,NA,NA
+"Maldives",2000,65,NA,NA
+"Maldives",2001,59,NA,NA
+"Maldives",2002,60,NA,NA
+"Maldives",2003,68,NA,NA
+"Maldives",2004,66,NA,NA
+"Maldives",2005,66,NA,NA
+"Maldives",2006,95,NA,NA
+"Maldives",2007,126,NA,NA
+"Maldives",2008,118,NA,NA
+"Maldives",2009,99,NA,NA
+"Maldives",2010,96,NA,NA
+"Maldives",2011,87,NA,NA
+"Maldives",2012,110,NA,NA
+"Maldives",2013,114,NA,NA
+"Mali",1995,1866,8988853,2.08
+"Mali",1996,2173,9222157,2.36
+"Mali",1997,2899,9462256,3.06
+"Mali",1998,2560,9712365,2.64
+"Mali",1999,2690,9977308,2.7
+"Mali",2000,2527,10260577,2.46
+"Mali",2002,2757,10882662,2.53
+"Mali",2003,3015,11219737,2.69
+"Mali",2004,3069,11572936,2.65
+"Mali",2005,3523,11941258,2.95
+"Mali",2006,4768,12325545,3.87
+"Mali",2007,4953,12725629,3.89
+"Mali",2008,4833,13138299,3.68
+"Mali",2009,5163,13559296,3.81
+"Mali",2010,3686,13985961,2.64
+"Mali",2011,3777,14416737,2.62
+"Mali",2012,3726,14853572,2.51
+"Mali",2013,3818,15301650,2.5
+"Malta",1995,5,NA,NA
+"Malta",1996,5,NA,NA
+"Malta",1997,3,NA,NA
+"Malta",1998,6,NA,NA
+"Malta",1999,9,NA,NA
+"Malta",2000,4,NA,NA
+"Malta",2001,3,NA,NA
+"Malta",2002,5,NA,NA
+"Malta",2003,2,NA,NA
+"Malta",2004,2,NA,NA
+"Malta",2005,5,NA,NA
+"Malta",2006,30,NA,NA
+"Malta",2007,37,NA,NA
+"Malta",2008,46,NA,NA
+"Malta",2009,41,NA,NA
+"Malta",2010,20,NA,NA
+"Malta",2011,22,NA,NA
+"Malta",2012,41,NA,NA
+"Malta",2013,50,NA,NA
+"Marshall Islands",1996,61,NA,NA
+"Marshall Islands",1998,11,NA,NA
+"Marshall Islands",1999,54,NA,NA
+"Marshall Islands",2000,45,NA,NA
+"Marshall Islands",2001,56,NA,NA
+"Marshall Islands",2002,18,NA,NA
+"Marshall Islands",2003,60,NA,NA
+"Marshall Islands",2004,39,NA,NA
+"Marshall Islands",2005,48,NA,NA
+"Marshall Islands",2006,45,NA,NA
+"Marshall Islands",2007,25,NA,NA
+"Marshall Islands",2008,25,NA,NA
+"Marshall Islands",2009,133,NA,NA
+"Marshall Islands",2010,188,NA,NA
+"Marshall Islands",2011,131,NA,NA
+"Marshall Islands",2012,136,NA,NA
+"Marshall Islands",2013,146,NA,NA
+"Mauritania",1997,3788,NA,NA
+"Mauritania",1999,1909,NA,NA
+"Mauritania",2004,1662,NA,NA
+"Mauritania",2006,1486,NA,NA
+"Mauritania",2007,2811,NA,NA
+"Mauritania",2008,1605,NA,NA
+"Mauritania",2009,1555,NA,NA
+"Mauritania",2010,1422,NA,NA
+"Mauritania",2011,1026,NA,NA
+"Mauritania",2012,2110,NA,NA
+"Mauritania",2013,2364,NA,NA
+"Mauritius",1995,146,NA,NA
+"Mauritius",1998,122,NA,NA
+"Mauritius",1999,119,NA,NA
+"Mauritius",2000,115,NA,NA
+"Mauritius",2002,86,NA,NA
+"Mauritius",2003,99,NA,NA
+"Mauritius",2004,117,NA,NA
+"Mauritius",2005,110,NA,NA
+"Mauritius",2006,111,NA,NA
+"Mauritius",2007,102,NA,NA
+"Mauritius",2008,104,NA,NA
+"Mauritius",2009,111,NA,NA
+"Mauritius",2010,116,NA,NA
+"Mauritius",2011,111,NA,NA
+"Mauritius",2012,126,NA,NA
+"Mauritius",2013,130,NA,NA
+"Mexico",1996,8495,97201533,0.87
+"Mexico",1998,11473,100678867,1.14
+"Mexico",1999,10747,102316781,1.05
+"Mexico",2000,11676,103873607,1.12
+"Mexico",2001,15103,105339877,1.43
+"Mexico",2002,11555,106723661,1.08
+"Mexico",2003,12933,108056312,1.2
+"Mexico",2004,11214,109381550,1.03
+"Mexico",2005,11997,110731826,1.08
+"Mexico",2006,17093,112116694,1.52
+"Mexico",2007,17613,113529819,1.55
+"Mexico",2008,16140,114968039,1.4
+"Mexico",2009,16013,116422752,1.38
+"Mexico",2010,18848,117886404,1.6
+"Mexico",2011,18986,119361233,1.59
+"Mexico",2012,19558,120847477,1.62
+"Mexico",2013,20708,122332399,1.69
+"Micronesia (Federated States of)",1995,7,NA,NA
+"Micronesia (Federated States of)",1996,10,NA,NA
+"Micronesia (Federated States of)",1997,11,NA,NA
+"Micronesia (Federated States of)",1998,28,NA,NA
+"Micronesia (Federated States of)",2000,15,NA,NA
+"Micronesia (Federated States of)",2001,8,NA,NA
+"Micronesia (Federated States of)",2002,20,NA,NA
+"Micronesia (Federated States of)",2003,27,NA,NA
+"Micronesia (Federated States of)",2004,26,NA,NA
+"Micronesia (Federated States of)",2006,154,NA,NA
+"Micronesia (Federated States of)",2007,80,NA,NA
+"Micronesia (Federated States of)",2008,123,NA,NA
+"Micronesia (Federated States of)",2009,169,NA,NA
+"Micronesia (Federated States of)",2010,157,NA,NA
+"Micronesia (Federated States of)",2011,143,NA,NA
+"Micronesia (Federated States of)",2012,141,NA,NA
+"Monaco",1999,2,NA,NA
+"Monaco",2010,1,NA,NA
+"Mongolia",1994,200,NA,NA
+"Mongolia",1995,622,2298063,2.71
+"Mongolia",1996,769,2316598,3.32
+"Mongolia",1997,1171,2335723,5.01
+"Mongolia",1998,1356,2355618,5.76
+"Mongolia",1999,1513,2376197,6.37
+"Mongolia",2000,1389,2397473,5.79
+"Mongolia",2001,1632,2419669,6.74
+"Mongolia",2002,1670,2443231,6.84
+"Mongolia",2003,1541,2468595,6.24
+"Mongolia",2004,1808,2496248,7.24
+"Mongolia",2005,1868,2526502,7.39
+"Mongolia",2006,2129,2559496,8.32
+"Mongolia",2007,1856,2595068,7.15
+"Mongolia",2008,1838,2632834,6.98
+"Mongolia",2009,1809,2672223,6.77
+"Mongolia",2010,4213,2712738,15.53
+"Mongolia",2011,3985,2754209,14.47
+"Mongolia",2012,3944,2796484,14.1
+"Mongolia",2013,4331,2839073,15.25
+"Montenegro",2005,64,NA,NA
+"Montenegro",2006,149,NA,NA
+"Montenegro",2007,136,NA,NA
+"Montenegro",2008,123,NA,NA
+"Montenegro",2009,108,NA,NA
+"Montenegro",2010,102,NA,NA
+"Montenegro",2011,100,NA,NA
+"Montenegro",2012,94,NA,NA
+"Montenegro",2013,119,NA,NA
+"Montserrat",2003,2,NA,NA
+"Montserrat",2004,0,NA,NA
+"Montserrat",2005,1,NA,NA
+"Montserrat",2007,1,NA,NA
+"Montserrat",2010,0,NA,NA
+"Montserrat",2011,0,NA,NA
+"Montserrat",2012,0,NA,NA
+"Morocco",1995,14171,26833093,5.28
+"Morocco",1996,14278,27237150,5.24
+"Morocco",1997,14134,27632321,5.12
+"Morocco",1998,13426,28013585,4.79
+"Morocco",1999,13420,28374203,4.73
+"Morocco",2000,12872,28710123,4.48
+"Morocco",2001,12804,29021156,4.41
+"Morocco",2002,12914,29311443,4.41
+"Morocco",2003,12842,29586937,4.34
+"Morocco",2004,12280,29855820,4.11
+"Morocco",2005,12757,30125445,4.23
+"Morocco",2006,26099,30395097,8.59
+"Morocco",2007,25562,30667086,8.34
+"Morocco",2008,25473,30955151,8.23
+"Morocco",2009,26059,31276564,8.33
+"Morocco",2010,27143,31642360,8.58
+"Morocco",2011,27425,32059424,8.55
+"Morocco",2012,27437,32521143,8.44
+"Morocco",2013,27566,33008150,8.35
+"Mozambique",1995,10566,15981571,6.61
+"Mozambique",1996,10478,16463426,6.36
+"Mozambique",1997,11125,16914628,6.58
+"Myanmar",1995,8529,45329862,1.88
+"Myanmar",1996,9716,45991828,2.11
+"Myanmar",1997,9014,46664455,1.93
+"Myanmar",1998,10089,47321204,2.13
+"Myanmar",1999,11458,47925630,2.39
+"Myanmar",2000,17254,48453000,3.56
+"Myanmar",2001,20686,48894203,4.23
+"Myanmar",2002,24162,49261313,4.9
+"Myanmar",2003,27448,49577152,5.54
+"Myanmar",2004,31408,49875169,6.3
+"Myanmar",2005,36541,50181020,7.28
+"Myanmar",2006,40241,50500070,7.97
+"Myanmar",2007,42588,50828959,8.38
+"Myanmar",2008,41248,51174018,8.06
+"Myanmar",2009,41401,51540490,8.03
+"Myanmar",2010,42318,51931231,8.15
+"Myanmar",2011,42314,52350763,8.08
+"Myanmar",2012,42909,52797319,8.13
+"Namibia",1995,697,1654214,4.21
+"Namibia",1996,2825,1705309,16.57
+"Namibia",1997,3225,1757969,18.35
+"Namibia",1998,3598,1809719,19.88
+"Namibia",1999,3760,1857149,20.25
+"Namibia",2000,4013,1897953,21.14
+"Namibia",2001,4535,1931282,23.48
+"Namibia",2002,4689,1958303,23.94
+"Namibia",2003,5487,1981237,27.69
+"Namibia",2004,5155,2003320,25.73
+"Namibia",2005,5222,2027026,25.76
+"Namibia",2006,5356,2052931,26.09
+"Namibia",2007,5091,2080700,24.47
+"Namibia",2008,4928,2110791,23.35
+"Namibia",2009,4608,2143498,21.5
+"Namibia",2010,4464,2178967,20.49
+"Namibia",2011,4503,2217618,20.31
+"Namibia",2012,9890,2259393,43.77
+"Namibia",2013,9432,2303315,40.95
+"Nauru",1999,6,NA,NA
+"Nauru",2000,3,NA,NA
+"Nauru",2001,2,NA,NA
+"Nauru",2002,2,NA,NA
+"Nauru",2003,1,NA,NA
+"Nauru",2006,12,NA,NA
+"Nauru",2007,3,NA,NA
+"Nauru",2008,4,NA,NA
+"Nauru",2009,3,NA,NA
+"Nauru",2010,3,NA,NA
+"Nauru",2011,5,NA,NA
+"Nepal",1996,9092,21115271,4.31
+"Nepal",1998,10972,22175431,4.95
+"Nepal",1999,13410,22690158,5.91
+"Nepal",2000,13683,23184177,5.9
+"Nepal",2001,13664,23655119,5.78
+"Nepal",2002,13714,24102862,5.69
+"Nepal",2003,14348,24525527,5.85
+"Nepal",2004,14614,24921910,5.86
+"Nepal",2005,14617,25292058,5.78
+"Nepal",2006,14028,25634043,5.47
+"Nepal",2007,14355,25950022,5.53
+"Nepal",2008,11053,26249412,4.21
+"Nepal",2009,15442,26544943,5.82
+"Nepal",2010,15569,26846016,5.8
+"Nepal",2011,15000,27156367,5.52
+"Nepal",2012,15057,27474377,5.48
+"Nepal",2013,15099,27797457,5.43
+"Netherlands",1995,510,NA,NA
+"Netherlands",1996,358,NA,NA
+"Netherlands",1997,312,NA,NA
+"Netherlands",1998,254,NA,NA
+"Netherlands",1999,308,NA,NA
+"Netherlands",2000,289,NA,NA
+"Netherlands",2001,303,NA,NA
+"Netherlands",2002,296,NA,NA
+"Netherlands",2003,248,NA,NA
+"Netherlands",2004,304,NA,NA
+"Netherlands",2005,208,NA,NA
+"Netherlands",2006,985,NA,NA
+"Netherlands",2007,916,NA,NA
+"Netherlands",2008,948,NA,NA
+"Netherlands",2009,1089,NA,NA
+"Netherlands",2010,1007,NA,NA
+"Netherlands",2011,955,NA,NA
+"Netherlands",2012,907,NA,NA
+"Netherlands",2013,831,NA,NA
+"Netherlands Antilles",1996,4,NA,NA
+"Netherlands Antilles",1997,13,NA,NA
+"Netherlands Antilles",1998,7,NA,NA
+"Netherlands Antilles",1999,4,NA,NA
+"Netherlands Antilles",2000,5,NA,NA
+"Netherlands Antilles",2001,8,NA,NA
+"Netherlands Antilles",2002,14,NA,NA
+"Netherlands Antilles",2003,9,NA,NA
+"Netherlands Antilles",2004,11,NA,NA
+"Netherlands Antilles",2006,5,NA,NA
+"New Caledonia",1995,30,NA,NA
+"New Caledonia",1996,33,NA,NA
+"New Caledonia",1999,27,NA,NA
+"New Caledonia",2000,38,NA,NA
+"New Caledonia",2001,35,NA,NA
+"New Caledonia",2002,21,NA,NA
+"New Caledonia",2003,15,NA,NA
+"New Caledonia",2004,15,NA,NA
+"New Caledonia",2005,16,NA,NA
+"New Caledonia",2006,41,NA,NA
+"New Caledonia",2007,43,NA,NA
+"New Caledonia",2008,37,NA,NA
+"New Caledonia",2009,54,NA,NA
+"New Caledonia",2010,49,NA,NA
+"New Caledonia",2011,50,NA,NA
+"New Caledonia",2012,27,NA,NA
+"New Zealand",1995,47,NA,NA
+"New Zealand",1996,85,NA,NA
+"New Zealand",1997,56,NA,NA
+"New Zealand",1998,81,NA,NA
+"New Zealand",1999,69,NA,NA
+"New Zealand",2000,74,NA,NA
+"New Zealand",2001,73,NA,NA
+"New Zealand",2002,88,NA,NA
+"New Zealand",2003,106,NA,NA
+"New Zealand",2004,110,NA,NA
+"New Zealand",2005,83,NA,NA
+"New Zealand",2006,300,NA,NA
+"New Zealand",2007,264,NA,NA
+"New Zealand",2008,284,NA,NA
+"New Zealand",2009,282,NA,NA
+"New Zealand",2010,288,NA,NA
+"New Zealand",2011,290,NA,NA
+"New Zealand",2012,278,NA,NA
+"New Zealand",2013,272,NA,NA
+"Nicaragua",1995,1568,4659458,3.37
+"Nicaragua",1996,1722,4756631,3.62
+"Nicaragua",1997,1670,4849272,3.44
+"Nicaragua",1998,1648,4937320,3.34
+"Nicaragua",1999,1564,5021079,3.11
+"Nicaragua",2000,1471,5100920,2.88
+"Nicaragua",2001,1510,5176685,2.92
+"Nicaragua",2002,1320,5248577,2.51
+"Nicaragua",2003,1404,5317878,2.64
+"Nicaragua",2004,1327,5386299,2.46
+"Nicaragua",2005,1246,5455219,2.28
+"Nicaragua",2006,1285,5524927,2.33
+"Nicaragua",2007,1690,5595533,3.02
+"Nicaragua",2008,1577,5667983,2.78
+"Nicaragua",2009,2554,5743329,4.45
+"Nicaragua",2010,1440,5822209,2.47
+"Nicaragua",2011,1552,5905146,2.63
+"Nicaragua",2012,0,5991733,0
+"Nicaragua",2013,1540,6080478,2.53
+"Niger",1997,1273,9849621,1.29
+"Niger",1998,2125,10215806,2.08
+"Niger",2000,2146,10989815,1.95
+"Niger",2003,4504,12254040,3.68
+"Niger",2005,5050,13183798,3.83
+"Niger",2006,5279,13679705,3.86
+"Niger",2007,5773,14197289,4.07
+"Niger",2008,5853,14737895,3.97
+"Niger",2009,6347,15302948,4.15
+"Niger",2010,6283,15893746,3.95
+"Niger",2011,6607,16511462,4
+"Niger",2012,6848,17157042,3.99
+"Niger",2013,7182,17831270,4.03
+"Nigeria",1995,9476,108424827,0.87
+"Nigeria",1996,15664,111166210,1.41
+"Nigeria",1997,11235,113979481,0.99
+"Nigeria",1998,13161,116867371,1.13
+"Nigeria",2000,17418,122876727,1.42
+"Nigeria",2001,18097,126004992,1.44
+"Nigeria",2002,19596,129224641,1.52
+"Nigeria",2003,28173,132550146,2.13
+"Nigeria",2004,33755,135999250,2.48
+"Nigeria",2005,35048,139585891,2.51
+"Nigeria",2006,39903,143314909,2.78
+"Nigeria",2007,44016,147187353,2.99
+"Nigeria",2008,46026,151208080,3.04
+"Nigeria",2009,44863,155381020,2.89
+"Nigeria",2010,45416,159707780,2.84
+"Nigeria",2011,47437,164192925,2.89
+"Nigeria",2012,52901,168833776,3.13
+"Nigeria",2013,100401,173615345,5.78
+"Niue",1999,1,NA,NA
+"Niue",2002,1,NA,NA
+"Niue",2004,0,NA,NA
+"Niue",2005,0,NA,NA
+"Niue",2006,0,NA,NA
+"Niue",2007,0,NA,NA
+"Niue",2008,0,NA,NA
+"Niue",2011,1,NA,NA
+"Niue",2012,0,NA,NA
+"Northern Mariana Islands",1995,40,NA,NA
+"Northern Mariana Islands",1996,26,NA,NA
+"Northern Mariana Islands",1998,26,NA,NA
+"Northern Mariana Islands",2000,75,NA,NA
+"Northern Mariana Islands",2001,19,NA,NA
+"Northern Mariana Islands",2002,53,NA,NA
+"Northern Mariana Islands",2003,16,NA,NA
+"Northern Mariana Islands",2004,14,NA,NA
+"Northern Mariana Islands",2005,15,NA,NA
+"Northern Mariana Islands",2006,51,NA,NA
+"Northern Mariana Islands",2007,46,NA,NA
+"Northern Mariana Islands",2008,28,NA,NA
+"Northern Mariana Islands",2009,38,NA,NA
+"Northern Mariana Islands",2010,32,NA,NA
+"Northern Mariana Islands",2011,33,NA,NA
+"Northern Mariana Islands",2012,36,NA,NA
+"Northern Mariana Islands",2013,33,NA,NA
+"Norway",1995,62,NA,NA
+"Norway",1996,103,NA,NA
+"Norway",1997,100,NA,NA
+"Norway",1998,49,NA,NA
+"Norway",1999,21,NA,NA
+"Norway",2000,37,NA,NA
+"Norway",2001,59,NA,NA
+"Norway",2002,31,NA,NA
+"Norway",2003,38,NA,NA
+"Norway",2004,46,NA,NA
+"Norway",2005,47,NA,NA
+"Norway",2006,276,NA,NA
+"Norway",2007,282,NA,NA
+"Norway",2008,252,NA,NA
+"Norway",2009,275,NA,NA
+"Norway",2010,276,NA,NA
+"Norway",2011,310,NA,NA
+"Norway",2012,329,NA,NA
+"Norway",2013,362,NA,NA
+"Oman",1995,107,NA,NA
+"Oman",1996,108,NA,NA
+"Oman",1997,120,NA,NA
+"Oman",1998,109,NA,NA
+"Oman",1999,120,NA,NA
+"Oman",2000,114,NA,NA
+"Oman",2001,109,NA,NA
+"Oman",2002,240,NA,NA
+"Oman",2003,250,NA,NA
+"Oman",2004,117,NA,NA
+"Oman",2005,131,NA,NA
+"Oman",2006,442,NA,NA
+"Oman",2007,322,NA,NA
+"Oman",2008,348,NA,NA
+"Oman",2009,327,NA,NA
+"Oman",2010,304,NA,NA
+"Oman",2011,334,NA,NA
+"Oman",2012,375,NA,NA
+"Oman",2013,330,NA,NA
+"Pakistan",1995,2578,126689577,0.2
+"Pakistan",1998,4145,137139290,0.3
+"Pakistan",1999,2272,140580398,0.16
+"Pakistan",2000,3444,143832014,0.24
+"Pakistan",2001,7988,146857081,0.54
+"Pakistan",2002,15488,149693684,1.03
+"Pakistan",2003,21293,152419974,1.4
+"Pakistan",2004,31447,155151394,2.03
+"Pakistan",2005,48312,157971415,3.06
+"Pakistan",2006,65308,160905794,4.06
+"Pakistan",2007,88747,163928329,5.41
+"Pakistan",2008,100037,167008083,5.99
+"Pakistan",2009,101674,170093999,5.98
+"Pakistan",2010,124455,173149306,7.19
+"Pakistan",2011,127571,176166353,7.24
+"Pakistan",2012,132757,179160111,7.41
+"Pakistan",2013,28113,182142594,1.54
+"Palau",1995,9,NA,NA
+"Palau",1996,4,NA,NA
+"Palau",1997,7,NA,NA
+"Palau",1999,20,NA,NA
+"Palau",2002,11,NA,NA
+"Palau",2003,9,NA,NA
+"Palau",2004,5,NA,NA
+"Palau",2005,3,NA,NA
+"Palau",2006,12,NA,NA
+"Palau",2007,11,NA,NA
+"Palau",2009,16,NA,NA
+"Palau",2010,20,NA,NA
+"Palau",2011,11,NA,NA
+"Palau",2012,4,NA,NA
+"Palau",2013,8,NA,NA
+"Panama",1995,1288,NA,NA
+"Panama",1996,845,NA,NA
+"Panama",1997,862,NA,NA
+"Panama",1998,88,NA,NA
+"Panama",1999,1177,NA,NA
+"Panama",2000,441,NA,NA
+"Panama",2001,657,NA,NA
+"Panama",2002,768,NA,NA
+"Panama",2003,780,NA,NA
+"Panama",2004,884,NA,NA
+"Panama",2005,860,NA,NA
+"Panama",2006,1830,NA,NA
+"Panama",2007,1541,NA,NA
+"Panama",2008,1540,NA,NA
+"Panama",2009,1491,NA,NA
+"Panama",2010,1464,NA,NA
+"Panama",2011,1535,NA,NA
+"Panama",2012,1460,NA,NA
+"Panama",2013,1424,NA,NA
+"Papua New Guinea",1996,205,NA,NA
+"Papua New Guinea",1997,49,NA,NA
+"Papua New Guinea",1998,416,NA,NA
+"Papua New Guinea",1999,151,NA,NA
+"Papua New Guinea",2000,403,NA,NA
+"Papua New Guinea",2001,462,NA,NA
+"Papua New Guinea",2002,926,NA,NA
+"Papua New Guinea",2003,1067,NA,NA
+"Papua New Guinea",2004,999,NA,NA
+"Papua New Guinea",2005,1346,NA,NA
+"Papua New Guinea",2006,1456,NA,NA
+"Papua New Guinea",2007,1071,NA,NA
+"Papua New Guinea",2008,1655,NA,NA
+"Papua New Guinea",2010,2039,NA,NA
+"Papua New Guinea",2011,1896,NA,NA
+"Papua New Guinea",2012,2782,NA,NA
+"Paraguay",1995,736,4801834,1.53
+"Paraguay",1996,877,4911701,1.79
+"Paraguay",1997,878,5021271,1.75
+"Paraguay",1998,848,5130723,1.65
+"Paraguay",1999,1035,5240321,1.98
+"Paraguay",2000,898,5350253,1.68
+"Paraguay",2001,912,5460621,1.67
+"Paraguay",2002,1002,5571371,1.8
+"Paraguay",2003,1166,5682350,2.05
+"Paraguay",2004,1200,5793330,2.07
+"Paraguay",2005,1254,5904170,2.12
+"Paraguay",2006,2359,6014781,3.92
+"Paraguay",2007,2170,6125285,3.54
+"Paraguay",2008,2133,6236005,3.42
+"Paraguay",2009,2189,6347383,3.45
+"Paraguay",2010,2056,6459721,3.18
+"Paraguay",2011,2116,6573097,3.22
+"Paraguay",2012,2094,6687361,3.13
+"Paraguay",2013,2243,6802295,3.3
+"Peru",1995,6259,23939261,2.61
+"Peru",1996,5692,24365985,2.34
+"Peru",1997,27498,24789855,11.09
+"Peru",1998,27707,25206817,10.99
+"Peru",1999,24511,25611482,9.57
+"Peru",2000,22580,26000080,8.68
+"Peru",2001,21685,26372358,8.22
+"Peru",2002,4286,26729909,1.6
+"Peru",2003,3946,27073334,1.46
+"Peru",2004,18289,27403845,6.67
+"Peru",2005,18490,27723281,6.67
+"Peru",2006,19251,28030688,6.87
+"Peru",2007,17796,28328410,6.28
+"Peru",2008,17407,28625628,6.08
+"Peru",2013,27504,30375603,9.05
+"Philippines",1995,410,69606539,0.06
+"Philippines",1996,318,71184718,0.04
+"Philippines",1997,1952,72780928,0.27
+"Philippines",1998,1889,74393147,0.25
+"Philippines",2003,69988,82604681,8.47
+"Philippines",2004,76505,84231329,9.08
+"Philippines",2005,81647,85821214,9.51
+"Philippines",2006,85740,87366573,9.81
+"Philippines",2007,86566,88875548,9.74
+"Philippines",2008,85025,90371287,9.41
+"Philippines",2009,88806,91886400,9.66
+"Philippines",2010,89198,93444322,9.55
+"Philippines",2011,93580,95053437,9.84
+"Philippines",2012,93983,96706764,9.72
+"Philippines",2013,97221,98393574,9.88
+"Poland",1995,3679,38479899,0.96
+"Poland",1996,6819,38480234,1.77
+"Poland",1997,3486,38461279,0.91
+"Poland",1998,3502,38428791,0.91
+"Poland",1999,3177,38390217,0.83
+"Poland",2000,3934,38351437,1.03
+"Poland",2001,3155,38314744,0.82
+"Poland",2002,3060,38280547,0.8
+"Poland",2003,2981,38250426,0.78
+"Poland",2004,2773,38225455,0.73
+"Poland",2005,2823,38206337,0.74
+"Poland",2006,7627,38194163,2
+"Poland",2007,7569,38189136,1.98
+"Poland",2008,7061,38189735,1.85
+"Poland",2009,7268,38193591,1.9
+"Poland",2010,6610,38198754,1.73
+"Poland",2011,7515,38204598,1.97
+"Poland",2012,6665,38210924,1.74
+"Poland",2013,7043,38216635,1.84
+"Portugal",1995,2019,10097055,2
+"Portugal",1996,1938,10140627,1.91
+"Portugal",1997,1628,10182158,1.6
+"Portugal",1998,2016,10222540,1.97
+"Portugal",1999,1801,10263532,1.75
+"Portugal",2000,1857,10306192,1.8
+"Portugal",2001,1812,10350660,1.75
+"Portugal",2002,1960,10395630,1.89
+"Portugal",2003,1713,10439031,1.64
+"Portugal",2004,1491,10478122,1.42
+"Portugal",2005,1296,10510967,1.23
+"Portugal",2006,3063,10536701,2.91
+"Portugal",2007,2816,10555902,2.67
+"Portugal",2008,2637,10569881,2.49
+"Portugal",2009,2601,10580673,2.46
+"Portugal",2010,2491,10589792,2.35
+"Portugal",2011,2391,10597629,2.26
+"Portugal",2012,2392,10603804,2.26
+"Portugal",2013,2335,10608156,2.2
+"Puerto Rico",1995,116,NA,NA
+"Puerto Rico",1996,109,NA,NA
+"Puerto Rico",1997,125,NA,NA
+"Puerto Rico",1998,106,NA,NA
+"Puerto Rico",1999,106,NA,NA
+"Puerto Rico",2000,81,NA,NA
+"Puerto Rico",2001,74,NA,NA
+"Puerto Rico",2002,78,NA,NA
+"Puerto Rico",2003,62,NA,NA
+"Puerto Rico",2004,65,NA,NA
+"Puerto Rico",2005,60,NA,NA
+"Puerto Rico",2006,112,NA,NA
+"Puerto Rico",2007,98,NA,NA
+"Puerto Rico",2008,95,NA,NA
+"Puerto Rico",2009,63,NA,NA
+"Puerto Rico",2010,76,NA,NA
+"Puerto Rico",2011,50,NA,NA
+"Puerto Rico",2012,68,NA,NA
+"Puerto Rico",2013,50,NA,NA
+"Qatar",1995,60,NA,NA
+"Qatar",1996,43,NA,NA
+"Qatar",1997,39,NA,NA
+"Qatar",1998,68,NA,NA
+"Qatar",1999,58,NA,NA
+"Qatar",2000,53,NA,NA
+"Qatar",2001,17,NA,NA
+"Qatar",2002,64,NA,NA
+"Qatar",2003,95,NA,NA
+"Qatar",2004,73,NA,NA
+"Qatar",2005,96,NA,NA
+"Qatar",2006,339,NA,NA
+"Qatar",2007,319,NA,NA
+"Qatar",2008,565,NA,NA
+"Qatar",2009,619,NA,NA
+"Qatar",2010,580,NA,NA
+"Qatar",2011,554,NA,NA
+"Qatar",2012,519,NA,NA
+"Republic of Korea",1995,11754,44652994,2.63
+"Republic of Korea",1996,11420,44940974,2.54
+"Republic of Korea",1997,9957,45220543,2.2
+"Republic of Korea",1998,10359,45489131,2.28
+"Republic of Korea",1999,9559,45742103,2.09
+"Republic of Korea",2000,8216,45977210,1.79
+"Republic of Korea",2001,11805,46192932,2.56
+"Republic of Korea",2002,11345,46393993,2.45
+"Republic of Korea",2003,10976,46591762,2.36
+"Republic of Korea",2004,11471,46801310,2.45
+"Republic of Korea",2005,11638,47033082,2.47
+"Republic of Korea",2006,35361,47291491,7.48
+"Republic of Korea",2007,34710,47572585,7.3
+"Republic of Korea",2008,34153,47867970,7.13
+"Republic of Korea",2009,35842,48164969,7.44
+"Republic of Korea",2010,39051,48453931,8.06
+"Republic of Korea",2011,39557,48732640,8.12
+"Republic of Korea",2012,39513,49002683,8.06
+"Republic of Korea",2013,41573,49262698,8.44
+"Republic of Moldova",1995,665,4339081,1.53
+"Republic of Moldova",1996,219,4308050,0.51
+"Republic of Moldova",1997,397,4268774,0.93
+"Republic of Moldova",1998,477,4221726,1.13
+"Republic of Moldova",1999,609,4167552,1.46
+"Republic of Moldova",2000,290,4107184,0.71
+"Republic of Moldova",2001,1060,4040579,2.62
+"Republic of Moldova",2002,1146,3969040,2.89
+"Republic of Moldova",2003,1214,3896494,3.12
+"Republic of Moldova",2004,1536,3827963,4.01
+"Republic of Moldova",2005,1696,3767077,4.5
+"Republic of Moldova",2006,1679,3715541,4.52
+"Republic of Moldova",2007,4166,3672638,11.34
+"Republic of Moldova",2008,3951,3636510,10.86
+"Republic of Moldova",2009,3804,3604078,10.55
+"Republic of Moldova",2010,3745,3573024,10.48
+"Republic of Moldova",2011,3836,3542928,10.83
+"Republic of Moldova",2012,3804,3514381,10.82
+"Republic of Moldova",2013,4485,3487204,12.86
+"Romania",1995,18211,22963512,7.93
+"Romania",1996,11531,22841943,5.05
+"Romania",1997,11665,22717415,5.13
+"Romania",1998,10821,22596183,4.79
+"Romania",1999,10304,22484940,4.58
+"Romania",2000,10191,22388354,4.55
+"Romania",2001,11176,22310092,5.01
+"Romania",2002,10693,22249564,4.81
+"Romania",2003,10407,22201592,4.69
+"Romania",2004,10878,22158163,4.91
+"Romania",2005,10795,22113264,4.88
+"Romania",2006,20732,22065409,9.4
+"Romania",2007,19253,22015937,8.75
+"Romania",2008,18774,21964962,8.55
+"Romania",2009,17773,21913311,8.11
+"Romania",2010,15940,21861476,7.29
+"Romania",2011,14538,21808931,6.67
+"Romania",2012,13888,21754741,6.38
+"Romania",2013,15523,21698585,7.15
+"Russian Federation",1996,283,148375246,0.02
+"Russian Federation",1997,660,148079919,0.04
+"Russian Federation",1998,683,147715550,0.05
+"Russian Federation",1999,21744,147275875,1.48
+"Russian Federation",2000,2329,146762881,0.16
+"Russian Federation",2001,26606,146170247,1.82
+"Russian Federation",2002,27818,145520813,1.91
+"Russian Federation",2003,28802,144879644,1.99
+"Russian Federation",2004,30890,144331352,2.14
+"Russian Federation",2006,32335,143715023,2.25
+"Russian Federation",2007,120912,143652377,8.42
+"Russian Federation",2008,120835,143677033,8.41
+"Russian Federation",2009,117227,143689741,8.16
+"Russian Federation",2010,102823,143617913,7.16
+"Russian Federation",2011,104320,143438152,7.27
+"Russian Federation",2012,97542,143169653,6.81
+"Russian Federation",2013,90427,142833689,6.33
+"Rwanda",1996,2014,5929575,3.4
+"Rwanda",1997,2852,6470628,4.41
+"Rwanda",1999,2378,7853015,3.03
+"Rwanda",2000,4455,8395577,5.31
+"Rwanda",2002,919,8987523,1.02
+"Rwanda",2003,2724,9126167,2.98
+"Rwanda",2004,4041,9254379,4.37
+"Rwanda",2005,3971,9429457,4.21
+"Rwanda",2006,4220,9660946,4.37
+"Rwanda",2007,4053,9928143,4.08
+"Rwanda",2008,4173,10222961,4.08
+"Rwanda",2009,4184,10529668,3.97
+"Rwanda",2010,3785,10836732,3.49
+"Rwanda",2011,3811,11144315,3.42
+"Rwanda",2012,3571,11457801,3.12
+"Rwanda",2013,5702,11776522,4.84
+"Saint Kitts and Nevis",1996,2,NA,NA
+"Saint Kitts and Nevis",1998,3,NA,NA
+"Saint Kitts and Nevis",2001,2,NA,NA
+"Saint Kitts and Nevis",2002,1,NA,NA
+"Saint Kitts and Nevis",2006,1,NA,NA
+"Saint Kitts and Nevis",2007,4,NA,NA
+"Saint Kitts and Nevis",2008,5,NA,NA
+"Saint Kitts and Nevis",2009,4,NA,NA
+"Saint Kitts and Nevis",2010,2,NA,NA
+"Saint Kitts and Nevis",2011,1,NA,NA
+"Saint Kitts and Nevis",2012,2,NA,NA
+"Saint Kitts and Nevis",2013,0,NA,NA
+"Saint Lucia",1997,11,NA,NA
+"Saint Lucia",1998,12,NA,NA
+"Saint Lucia",1999,9,NA,NA
+"Saint Lucia",2000,7,NA,NA
+"Saint Lucia",2001,6,NA,NA
+"Saint Lucia",2002,8,NA,NA
+"Saint Lucia",2003,15,NA,NA
+"Saint Lucia",2004,15,NA,NA
+"Saint Lucia",2005,11,NA,NA
+"Saint Lucia",2006,15,NA,NA
+"Saint Lucia",2007,17,NA,NA
+"Saint Lucia",2008,21,NA,NA
+"Saint Lucia",2009,9,NA,NA
+"Saint Lucia",2010,9,NA,NA
+"Saint Lucia",2011,7,NA,NA
+"Saint Lucia",2012,11,NA,NA
+"Saint Lucia",2013,9,NA,NA
+"Saint Vincent and the Grenadines",1998,3,NA,NA
+"Saint Vincent and the Grenadines",2000,9,NA,NA
+"Saint Vincent and the Grenadines",2001,3,NA,NA
+"Saint Vincent and the Grenadines",2002,8,NA,NA
+"Saint Vincent and the Grenadines",2003,6,NA,NA
+"Saint Vincent and the Grenadines",2005,7,NA,NA
+"Saint Vincent and the Grenadines",2006,8,NA,NA
+"Saint Vincent and the Grenadines",2007,9,NA,NA
+"Saint Vincent and the Grenadines",2008,0,NA,NA
+"Saint Vincent and the Grenadines",2009,9,NA,NA
+"Saint Vincent and the Grenadines",2010,15,NA,NA
+"Saint Vincent and the Grenadines",2011,17,NA,NA
+"Saint Vincent and the Grenadines",2012,30,NA,NA
+"Saint Vincent and the Grenadines",2013,3,NA,NA
+"Samoa",1995,15,NA,NA
+"Samoa",1996,10,NA,NA
+"Samoa",1997,14,NA,NA
+"Samoa",1998,7,NA,NA
+"Samoa",1999,17,NA,NA
+"Samoa",2000,13,NA,NA
+"Samoa",2001,14,NA,NA
+"Samoa",2002,18,NA,NA
+"Samoa",2003,12,NA,NA
+"Samoa",2005,11,NA,NA
+"Samoa",2006,21,NA,NA
+"Samoa",2008,13,NA,NA
+"Samoa",2009,1366,NA,NA
+"Samoa",2010,14,NA,NA
+"Samoa",2011,18,NA,NA
+"Samoa",2012,22,NA,NA
+"Samoa",2013,22,NA,NA
+"San Marino",1997,1,NA,NA
+"San Marino",2000,1,NA,NA
+"San Marino",2003,0,NA,NA
+"San Marino",2004,0,NA,NA
+"Sao Tome and Principe",2000,97,NA,NA
+"Sao Tome and Principe",2001,97,NA,NA
+"Sao Tome and Principe",2002,42,NA,NA
+"Sao Tome and Principe",2003,35,NA,NA
+"Sao Tome and Principe",2004,50,NA,NA
+"Sao Tome and Principe",2005,49,NA,NA
+"Sao Tome and Principe",2006,153,NA,NA
+"Sao Tome and Principe",2007,87,NA,NA
+"Sao Tome and Principe",2008,63,NA,NA
+"Sao Tome and Principe",2009,76,NA,NA
+"Sao Tome and Principe",2010,120,NA,NA
+"Sao Tome and Principe",2011,130,NA,NA
+"Sao Tome and Principe",2012,112,NA,NA
+"Sao Tome and Principe",2013,147,NA,NA
+"Saudi Arabia",1998,797,19282965,0.41
+"Saudi Arabia",1999,1860,19620692,0.95
+"Saudi Arabia",2000,1595,20144584,0.79
+"Saudi Arabia",2001,1402,20891594,0.67
+"Saudi Arabia",2002,1674,21825217,0.77
+"Saudi Arabia",2003,1646,22852333,0.72
+"Saudi Arabia",2004,1692,23839231,0.71
+"Saudi Arabia",2005,1722,24690067,0.7
+"Saudi Arabia",2006,3673,25371936,1.45
+"Saudi Arabia",2007,3863,25915624,1.49
+"Saudi Arabia",2008,3919,26366358,1.49
+"Saudi Arabia",2009,3949,26796375,1.47
+"Saudi Arabia",2010,4294,27258387,1.58
+"Saudi Arabia",2011,3868,27761728,1.39
+"Saudi Arabia",2012,3599,28287855,1.27
+"Saudi Arabia",2013,3435,28828870,1.19
+"Senegal",1995,5421,8711528,6.22
+"Senegal",1996,5949,8940298,6.65
+"Senegal",1997,5430,9164050,5.93
+"Senegal",1998,5454,9387783,5.81
+"Senegal",1999,5011,9618564,5.21
+"Senegal",2000,5823,9861679,5.9
+"Senegal",2001,6094,10119118,6.02
+"Senegal",2002,5796,10390050,5.58
+"Senegal",2003,6587,10673535,6.17
+"Senegal",2004,6437,10967568,5.87
+"Senegal",2005,6722,11270826,5.96
+"Senegal",2006,6882,11582925,5.94
+"Senegal",2007,7108,11904974,5.97
+"Senegal",2008,7584,12238791,6.2
+"Senegal",2009,7883,12586827,6.26
+"Senegal",2010,7686,12950564,5.93
+"Senegal",2011,7633,13330737,5.73
+"Senegal",2012,8448,13726021,6.15
+"Serbia",2005,1105,NA,NA
+"Serbia",2006,2148,NA,NA
+"Serbia",2007,1774,NA,NA
+"Serbia",2008,1865,NA,NA
+"Serbia",2009,1740,NA,NA
+"Serbia",2010,1610,NA,NA
+"Serbia",2011,1427,NA,NA
+"Serbia",2012,1332,NA,NA
+"Serbia",2013,1161,NA,NA
+"Serbia & Montenegro",1995,2625,NA,NA
+"Serbia & Montenegro",1996,3626,NA,NA
+"Serbia & Montenegro",1997,3741,NA,NA
+"Serbia & Montenegro",2001,421,NA,NA
+"Serbia & Montenegro",2002,402,NA,NA
+"Serbia & Montenegro",2003,657,NA,NA
+"Serbia & Montenegro",2004,1230,NA,NA
+"Seychelles",1995,9,NA,NA
+"Seychelles",1996,9,NA,NA
+"Seychelles",1997,11,NA,NA
+"Seychelles",1998,10,NA,NA
+"Seychelles",2000,11,NA,NA
+"Seychelles",2001,14,NA,NA
+"Seychelles",2002,9,NA,NA
+"Seychelles",2003,4,NA,NA
+"Seychelles",2004,13,NA,NA
+"Seychelles",2005,8,NA,NA
+"Seychelles",2008,6,NA,NA
+"Seychelles",2009,15,NA,NA
+"Seychelles",2010,17,NA,NA
+"Seychelles",2011,31,NA,NA
+"Seychelles",2012,19,NA,NA
+"Seychelles",2013,24,NA,NA
+"Sierra Leone",1995,1454,3927105,3.7
+"Sierra Leone",1996,2234,3919708,5.7
+"Sierra Leone",1997,2296,3928313,5.84
+"Sierra Leone",1998,2262,3961869,5.71
+"Sierra Leone",2000,2472,4139757,5.97
+"Sierra Leone",2001,2692,4295667,6.27
+"Sierra Leone",2002,2938,4493047,6.54
+"Sierra Leone",2003,3113,4712763,6.61
+"Sierra Leone",2004,3735,4928175,7.58
+"Sierra Leone",2005,4370,5119895,8.54
+"Sierra Leone",2006,4629,5280909,8.77
+"Sierra Leone",2007,9250,5416015,17.08
+"Sierra Leone",2008,5726,5532139,10.35
+"Sierra Leone",2009,6092,5641182,10.8
+"Sierra Leone",2010,6898,5751976,11.99
+"Sierra Leone",2011,7435,5865491,12.68
+"Sierra Leone",2012,9691,5978727,16.21
+"Sierra Leone",2013,7390,6092075,12.13
+"Singapore",1995,455,NA,NA
+"Singapore",1997,432,NA,NA
+"Singapore",1998,480,NA,NA
+"Singapore",1999,453,NA,NA
+"Singapore",2000,248,NA,NA
+"Singapore",2001,357,NA,NA
+"Singapore",2002,549,NA,NA
+"Singapore",2003,583,NA,NA
+"Singapore",2004,501,NA,NA
+"Singapore",2005,552,NA,NA
+"Singapore",2006,1246,NA,NA
+"Singapore",2007,1249,NA,NA
+"Singapore",2008,1437,NA,NA
+"Singapore",2009,1442,NA,NA
+"Singapore",2010,1478,NA,NA
+"Singapore",2011,1533,NA,NA
+"Singapore",2012,2203,NA,NA
+"Singapore",2013,2164,NA,NA
+"Sint Maarten (Dutch part)",2010,3,NA,NA
+"Sint Maarten (Dutch part)",2011,2,NA,NA
+"Sint Maarten (Dutch part)",2012,2,NA,NA
+"Sint Maarten (Dutch part)",2013,2,NA,NA
+"Slovakia",1995,788,NA,NA
+"Slovakia",1996,740,NA,NA
+"Slovakia",1997,283,NA,NA
+"Slovakia",1998,303,NA,NA
+"Slovakia",1999,246,NA,NA
+"Slovakia",2000,236,NA,NA
+"Slovakia",2001,226,NA,NA
+"Slovakia",2002,200,NA,NA
+"Slovakia",2003,199,NA,NA
+"Slovakia",2004,155,NA,NA
+"Slovakia",2005,158,NA,NA
+"Slovakia",2006,626,NA,NA
+"Slovakia",2007,585,NA,NA
+"Slovakia",2008,510,NA,NA
+"Slovakia",2009,406,NA,NA
+"Slovakia",2010,361,NA,NA
+"Slovakia",2011,323,NA,NA
+"Slovakia",2012,279,NA,NA
+"Slovakia",2013,398,NA,NA
+"Slovenia",1995,303,NA,NA
+"Slovenia",1996,221,NA,NA
+"Slovenia",1997,156,NA,NA
+"Slovenia",1998,157,NA,NA
+"Slovenia",1999,159,NA,NA
+"Slovenia",2000,145,NA,NA
+"Slovenia",2001,139,NA,NA
+"Slovenia",2002,130,NA,NA
+"Slovenia",2003,116,NA,NA
+"Slovenia",2004,89,NA,NA
+"Slovenia",2005,109,NA,NA
+"Slovenia",2006,202,NA,NA
+"Slovenia",2007,198,NA,NA
+"Slovenia",2008,197,NA,NA
+"Slovenia",2009,180,NA,NA
+"Slovenia",2010,161,NA,NA
+"Slovenia",2011,181,NA,NA
+"Slovenia",2012,124,NA,NA
+"Slovenia",2013,139,NA,NA
+"Solomon Islands",1995,109,NA,NA
+"Solomon Islands",1996,90,NA,NA
+"Solomon Islands",1997,113,NA,NA
+"Solomon Islands",1998,140,NA,NA
+"Solomon Islands",2000,109,NA,NA
+"Solomon Islands",2002,108,NA,NA
+"Solomon Islands",2003,138,NA,NA
+"Solomon Islands",2004,152,NA,NA
+"Solomon Islands",2005,169,NA,NA
+"Solomon Islands",2006,366,NA,NA
+"Solomon Islands",2007,388,NA,NA
+"Solomon Islands",2008,373,NA,NA
+"Solomon Islands",2009,361,NA,NA
+"Solomon Islands",2010,336,NA,NA
+"Solomon Islands",2011,394,NA,NA
+"Solomon Islands",2012,356,NA,NA
+"Solomon Islands",2013,360,NA,NA
+"Somalia",1995,2338,6346440,3.68
+"Somalia",1996,2318,6481035,3.58
+"Somalia",1997,3097,6673254,4.64
+"Somalia",1998,3121,6904978,4.52
+"Somalia",1999,3487,7149044,4.88
+"Somalia",2000,3776,7385416,5.11
+"Somalia",2001,4640,7609265,6.1
+"Somalia",2002,4729,7825924,6.04
+"Somalia",2003,5190,8037706,6.46
+"Somalia",2004,6479,8249965,7.85
+"Somalia",2005,7068,8466938,8.35
+"Somalia",2006,11374,8687671,13.09
+"Somalia",2007,6130,8910851,6.88
+"Somalia",2008,6520,9140259,7.13
+"Somalia",2009,6047,9380854,6.45
+"Somalia",2010,5225,9636173,5.42
+"Somalia",2011,7906,9907903,7.98
+"Somalia",2012,8241,10195134,8.08
+"Somalia",2013,6538,10495583,6.23
+"South Africa",1999,9621,44195890,2.18
+"South Africa",2000,11490,44846286,2.56
+"South Africa",2001,20544,45513217,4.51
+"South Africa",2002,77467,46187794,16.77
+"South Africa",2003,113008,46869028,24.11
+"South Africa",2004,126268,47553025,26.55
+"South Africa",2005,125460,48235291,26.01
+"South Africa",2006,272162,48919359,55.63
+"South Africa",2007,286973,49602778,57.85
+"South Africa",2008,320026,50267488,63.66
+"South Africa",2009,383774,50889543,75.41
+"South Africa",2010,364992,51452352,70.94
+"South Africa",2011,289111,51949041,55.65
+"South Africa",2012,296996,52385920,56.69
+"South Africa",2013,312380,52776130,59.19
+"South Sudan",2011,2797,NA,NA
+"South Sudan",2012,3120,NA,NA
+"South Sudan",2013,3032,NA,NA
+"Spain",1995,1700,39420568,0.43
+"Spain",1998,1916,39729942,0.48
+"Spain",2001,2109,40756675,0.52
+"Spain",2002,2646,41346738,0.64
+"Spain",2003,2014,42015864,0.48
+"Spain",2004,2011,42710301,0.47
+"Spain",2005,2290,43387477,0.53
+"Spain",2006,7555,44038456,1.72
+"Spain",2007,7159,44664067,1.6
+"Spain",2008,6753,45243381,1.49
+"Spain",2009,0,45754265,0
+"Spain",2010,6524,46182038,1.41
+"Spain",2011,6116,46514117,1.31
+"Spain",2012,5330,46754541,1.14
+"Spain",2013,5224,46926963,1.11
+"Sri Lanka",1995,3029,18241711,1.66
+"Sri Lanka",1996,2958,18367795,1.61
+"Sri Lanka",1997,3506,18473862,1.9
+"Sri Lanka",1998,3747,18575763,2.02
+"Sri Lanka",1999,3749,18695041,2.01
+"Sri Lanka",2000,4316,18846401,2.29
+"Sri Lanka",2001,4308,19037119,2.26
+"Sri Lanka",2002,4297,19260853,2.23
+"Sri Lanka",2003,4321,19501969,2.22
+"Sri Lanka",2004,4302,19737578,2.18
+"Sri Lanka",2005,4841,19951291,2.43
+"Sri Lanka",2006,8259,20137560,4.1
+"Sri Lanka",2007,8418,20301912,4.15
+"Sri Lanka",2008,8938,20452387,4.37
+"Sri Lanka",2009,9092,20601663,4.41
+"Sri Lanka",2010,9328,20758779,4.49
+"Sri Lanka",2011,9507,20925532,4.54
+"Sri Lanka",2012,8507,21098099,4.03
+"Sri Lanka",2013,9010,21273228,4.24
+"Sudan",1995,6280,29963988,2.1
+"Sudan",1998,10791,32551853,3.32
+"Sudan",1999,13505,33447666,4.04
+"Sudan",2000,12311,34382782,3.58
+"Sudan",2001,9482,35359265,2.68
+"Sudan",2002,10338,36373247,2.84
+"Sudan",2003,10993,37423884,2.94
+"Sudan",2004,12095,38508752,3.14
+"Sudan",2005,12730,39625222,3.21
+"Sudan",2006,12194,40774428,2.99
+"Sudan",2007,17152,41954986,4.09
+"Sudan",2008,21475,43158451,4.98
+"Sudan",2009,22210,44373749,5.01
+"Sudan",2010,9958,45592931,2.18
+"Sudan",2011,18636,36430923,5.12
+"Sudan",2012,8824,37195349,2.37
+"Sudan",2013,2181,37964306,0.57
+"Suriname",1996,60,NA,NA
+"Suriname",1997,27,NA,NA
+"Suriname",2000,38,NA,NA
+"Suriname",2001,38,NA,NA
+"Suriname",2002,44,NA,NA
+"Suriname",2003,45,NA,NA
+"Suriname",2004,49,NA,NA
+"Suriname",2005,51,NA,NA
+"Suriname",2006,122,NA,NA
+"Suriname",2009,172,NA,NA
+"Suriname",2010,187,NA,NA
+"Suriname",2011,118,NA,NA
+"Suriname",2012,118,NA,NA
+"Suriname",2013,141,NA,NA
+"Swaziland",1995,660,963428,6.85
+"Swaziland",1996,2194,984506,22.29
+"Swaziland",2000,1593,1063715,14.98
+"Swaziland",2001,2542,1074761,23.65
+"Swaziland",2002,1399,1082183,12.93
+"Swaziland",2003,1581,1087929,14.53
+"Swaziland",2004,1891,1094758,17.27
+"Swaziland",2005,2179,1104642,19.73
+"Swaziland",2006,7913,1118253,70.76
+"Swaziland",2007,2686,1134977,23.67
+"Swaziland",2008,3105,1153929,26.91
+"Swaziland",2009,3498,1173678,29.8
+"Swaziland",2010,9706,1193148,81.35
+"Swaziland",2011,5633,1212159,46.47
+"Swaziland",2012,6868,1230985,55.79
+"Swaziland",2013,6691,1249514,53.55
+"Sweden",1995,113,NA,NA
+"Sweden",1996,90,NA,NA
+"Sweden",1997,94,NA,NA
+"Sweden",1998,97,NA,NA
+"Sweden",1999,116,NA,NA
+"Sweden",2000,118,NA,NA
+"Sweden",2001,105,NA,NA
+"Sweden",2002,109,NA,NA
+"Sweden",2003,109,NA,NA
+"Sweden",2004,120,NA,NA
+"Sweden",2005,134,NA,NA
+"Sweden",2006,485,NA,NA
+"Sweden",2007,454,NA,NA
+"Sweden",2008,457,NA,NA
+"Sweden",2009,508,NA,NA
+"Sweden",2010,546,NA,NA
+"Sweden",2011,449,NA,NA
+"Sweden",2012,563,NA,NA
+"Sweden",2013,610,NA,NA
+"Switzerland",1995,185,NA,NA
+"Switzerland",1996,172,NA,NA
+"Switzerland",1997,144,NA,NA
+"Switzerland",1998,165,NA,NA
+"Switzerland",1999,362,NA,NA
+"Switzerland",2000,403,NA,NA
+"Switzerland",2001,383,NA,NA
+"Switzerland",2002,438,NA,NA
+"Switzerland",2003,401,NA,NA
+"Switzerland",2004,407,NA,NA
+"Switzerland",2005,381,NA,NA
+"Switzerland",2006,341,NA,NA
+"Switzerland",2007,313,NA,NA
+"Switzerland",2008,319,NA,NA
+"Switzerland",2009,334,NA,NA
+"Switzerland",2010,322,NA,NA
+"Switzerland",2011,379,NA,NA
+"Switzerland",2012,295,NA,NA
+"Switzerland",2013,466,NA,NA
+"Syrian Arab Republic",1995,1321,14338240,0.92
+"Syrian Arab Republic",1996,1523,14746306,1.03
+"Syrian Arab Republic",1997,1402,15168523,0.92
+"Syrian Arab Republic",1998,1382,15591261,0.89
+"Syrian Arab Republic",2000,1482,16371208,0.91
+"Syrian Arab Republic",2001,1454,16700984,0.87
+"Syrian Arab Republic",2002,1447,16994676,0.85
+"Syrian Arab Republic",2003,1545,17298476,0.89
+"Syrian Arab Republic",2004,1561,17676012,0.88
+"Syrian Arab Republic",2005,1350,18167367,0.74
+"Syrian Arab Republic",2006,3865,18804914,2.06
+"Syrian Arab Republic",2007,4030,19561477,2.06
+"Syrian Arab Republic",2008,3671,20346056,1.8
+"Syrian Arab Republic",2009,3854,21031546,1.83
+"Syrian Arab Republic",2010,3614,21532647,1.68
+"Syrian Arab Republic",2011,3335,21804363,1.53
+"Syrian Arab Republic",2012,2875,21889682,1.31
+"Syrian Arab Republic",2013,2795,21898061,1.28
+"Tajikistan",1996,232,5862347,0.4
+"Tajikistan",1997,245,5937177,0.41
+"Tajikistan",1998,435,6012933,0.72
+"Tajikistan",2001,704,6289340,1.12
+"Tajikistan",2002,687,6404118,1.07
+"Tajikistan",2004,601,6663929,0.9
+"Tajikistan",2005,1737,6805655,2.55
+"Tajikistan",2007,6081,7111025,8.55
+"Tajikistan",2008,6115,7275252,8.41
+"Tajikistan",2009,5864,7447396,7.87
+"Tajikistan",2010,5959,7627326,7.81
+"Tajikistan",2011,5935,7814850,7.59
+"Tajikistan",2012,5484,8008990,6.85
+"Tajikistan",2013,5306,8207834,6.46
+"Thailand",1995,20273,58983954,3.44
+"Thailand",1996,16997,59562136,2.85
+"Thailand",1997,13212,60206941,2.19
+"Thailand",1998,7962,60903042,1.31
+"Thailand",1999,14932,61623143,2.42
+"Thailand",2000,17755,62343379,2.85
+"Thailand",2001,28542,63069070,4.53
+"Thailand",2002,25593,63797841,4.01
+"Thailand",2003,28459,64488338,4.41
+"Thailand",2004,28421,65087400,4.37
+"Thailand",2005,28360,65559487,4.33
+"Thailand",2006,29081,65883961,4.41
+"Thailand",2007,28587,66076927,4.33
+"Thailand",2008,28788,66185340,4.35
+"Thailand",2009,32810,66277335,4.95
+"Thailand",2010,33450,66402316,5.04
+"Thailand",2011,33169,66576332,4.98
+"Thailand",2012,30998,66785001,4.64
+"The Former Yugoslav Republic of Macedonia",1995,319,NA,NA
+"The Former Yugoslav Republic of Macedonia",1996,240,NA,NA
+"The Former Yugoslav Republic of Macedonia",1997,192,NA,NA
+"The Former Yugoslav Republic of Macedonia",1998,209,NA,NA
+"The Former Yugoslav Republic of Macedonia",1999,122,NA,NA
+"The Former Yugoslav Republic of Macedonia",2000,167,NA,NA
+"The Former Yugoslav Republic of Macedonia",2001,164,NA,NA
+"The Former Yugoslav Republic of Macedonia",2002,200,NA,NA
+"The Former Yugoslav Republic of Macedonia",2003,200,NA,NA
+"The Former Yugoslav Republic of Macedonia",2004,200,NA,NA
+"The Former Yugoslav Republic of Macedonia",2005,177,NA,NA
+"The Former Yugoslav Republic of Macedonia",2006,529,NA,NA
+"The Former Yugoslav Republic of Macedonia",2007,494,NA,NA
+"The Former Yugoslav Republic of Macedonia",2008,428,NA,NA
+"The Former Yugoslav Republic of Macedonia",2009,417,NA,NA
+"The Former Yugoslav Republic of Macedonia",2010,368,NA,NA
+"The Former Yugoslav Republic of Macedonia",2011,307,NA,NA
+"The Former Yugoslav Republic of Macedonia",2012,320,NA,NA
+"The Former Yugoslav Republic of Macedonia",2013,318,NA,NA
+"Timor-Leste",2002,1090,NA,NA
+"Timor-Leste",2003,1021,NA,NA
+"Timor-Leste",2004,1000,NA,NA
+"Timor-Leste",2005,1035,NA,NA
+"Timor-Leste",2006,907,NA,NA
+"Timor-Leste",2007,1021,NA,NA
+"Timor-Leste",2008,867,NA,NA
+"Timor-Leste",2009,1206,NA,NA
+"Timor-Leste",2011,2364,NA,NA
+"Timor-Leste",2012,1997,NA,NA
+"Timor-Leste",2013,340,NA,NA
+"Togo",1995,877,4284497,2.05
+"Togo",1996,911,4392177,2.07
+"Togo",1998,927,4620710,2.01
+"Togo",1999,904,4740974,1.91
+"Togo",2000,982,4864753,2.02
+"Togo",2002,1203,5123674,2.35
+"Togo",2003,1255,5258956,2.39
+"Togo",2004,1541,5397851,2.85
+"Togo",2005,1766,5540214,3.19
+"Togo",2006,2131,5685845,3.75
+"Togo",2007,2346,5834806,4.02
+"Togo",2008,2234,5987491,3.73
+"Togo",2009,2734,6144457,4.45
+"Togo",2010,2096,6306014,3.32
+"Togo",2011,2094,6472304,3.24
+"Togo",2012,2112,6642928,3.18
+"Togo",2013,2600,6816982,3.81
+"Tokelau",2007,0,NA,NA
+"Tokelau",2008,0,NA,NA
+"Tokelau",2010,0,NA,NA
+"Tokelau",2013,0,NA,NA
+"Tonga",1995,9,NA,NA
+"Tonga",1996,16,NA,NA
+"Tonga",1997,12,NA,NA
+"Tonga",1998,16,NA,NA
+"Tonga",1999,10,NA,NA
+"Tonga",2000,15,NA,NA
+"Tonga",2001,8,NA,NA
+"Tonga",2002,23,NA,NA
+"Tonga",2003,11,NA,NA
+"Tonga",2005,11,NA,NA
+"Tonga",2006,18,NA,NA
+"Tonga",2007,23,NA,NA
+"Tonga",2008,13,NA,NA
+"Tonga",2009,8,NA,NA
+"Tonga",2010,11,NA,NA
+"Tonga",2011,9,NA,NA
+"Tonga",2012,11,NA,NA
+"Tonga",2013,10,NA,NA
+"Trinidad and Tobago",1995,76,NA,NA
+"Trinidad and Tobago",1996,59,NA,NA
+"Trinidad and Tobago",1998,98,NA,NA
+"Trinidad and Tobago",1999,86,NA,NA
+"Trinidad and Tobago",2000,115,NA,NA
+"Trinidad and Tobago",2001,198,NA,NA
+"Trinidad and Tobago",2002,95,NA,NA
+"Trinidad and Tobago",2003,77,NA,NA
+"Trinidad and Tobago",2004,81,NA,NA
+"Trinidad and Tobago",2005,96,NA,NA
+"Trinidad and Tobago",2006,238,NA,NA
+"Trinidad and Tobago",2007,203,NA,NA
+"Trinidad and Tobago",2008,275,NA,NA
+"Trinidad and Tobago",2009,264,NA,NA
+"Trinidad and Tobago",2010,214,NA,NA
+"Trinidad and Tobago",2011,217,NA,NA
+"Trinidad and Tobago",2012,267,NA,NA
+"Trinidad and Tobago",2013,250,NA,NA
+"Tunisia",1998,1105,NA,NA
+"Tunisia",1999,1235,NA,NA
+"Tunisia",2000,1071,NA,NA
+"Tunisia",2001,1077,NA,NA
+"Tunisia",2002,927,NA,NA
+"Tunisia",2003,878,NA,NA
+"Tunisia",2004,944,NA,NA
+"Tunisia",2005,915,NA,NA
+"Tunisia",2006,922,NA,NA
+"Tunisia",2007,941,NA,NA
+"Tunisia",2008,967,NA,NA
+"Tunisia",2009,931,NA,NA
+"Tunisia",2010,1091,NA,NA
+"Tunisia",2011,2890,NA,NA
+"Tunisia",2012,3194,NA,NA
+"Tunisia",2013,3035,NA,NA
+"Turkey",2004,298,66845635,0.04
+"Turkey",2005,7450,67743052,1.1
+"Turkey",2006,18544,68626337,2.7
+"Turkey",2007,17809,69496513,2.56
+"Turkey",2008,16760,70363511,2.38
+"Turkey",2009,15943,71241080,2.24
+"Turkey",2010,15183,72137546,2.1
+"Turkey",2011,14417,73058638,1.97
+"Turkey",2012,13535,73997128,1.83
+"Turkey",2013,13170,74932641,1.76
+"Turkmenistan",1995,544,NA,NA
+"Turkmenistan",1996,557,NA,NA
+"Turkmenistan",1997,764,NA,NA
+"Turkmenistan",1998,790,NA,NA
+"Turkmenistan",1999,964,NA,NA
+"Turkmenistan",2000,1017,NA,NA
+"Turkmenistan",2001,1243,NA,NA
+"Turkmenistan",2002,1254,NA,NA
+"Turkmenistan",2003,1197,NA,NA
+"Turkmenistan",2004,1103,NA,NA
+"Turkmenistan",2005,995,NA,NA
+"Turkmenistan",2006,2299,NA,NA
+"Turkmenistan",2007,1378,NA,NA
+"Turkmenistan",2008,1331,NA,NA
+"Turkmenistan",2009,1370,NA,NA
+"Turkmenistan",2010,1153,NA,NA
+"Turkmenistan",2011,2140,NA,NA
+"Turkmenistan",2012,2264,NA,NA
+"Turks and Caicos Islands",2002,2,NA,NA
+"Turks and Caicos Islands",2003,6,NA,NA
+"Turks and Caicos Islands",2006,7,NA,NA
+"Turks and Caicos Islands",2010,5,NA,NA
+"Turks and Caicos Islands",2011,8,NA,NA
+"Turks and Caicos Islands",2012,8,NA,NA
+"Turks and Caicos Islands",2013,2,NA,NA
+"Tuvalu",1995,6,NA,NA
+"Tuvalu",1998,18,NA,NA
+"Tuvalu",2003,17,NA,NA
+"Tuvalu",2005,5,NA,NA
+"Tuvalu",2006,9,NA,NA
+"Tuvalu",2007,15,NA,NA
+"Tuvalu",2008,20,NA,NA
+"Tuvalu",2009,17,NA,NA
+"Tuvalu",2010,14,NA,NA
+"Tuvalu",2011,12,NA,NA
+"Tuvalu",2012,19,NA,NA
+"Tuvalu",2013,18,NA,NA
+"US Virgin Islands",1995,2,NA,NA
+"US Virgin Islands",1996,5,NA,NA
+"Uganda",1995,13678,20740726,6.59
+"Uganda",1996,15175,21407693,7.09
+"Uganda",1997,17801,22084527,8.06
+"Uganda",1998,18222,22780451,8
+"Uganda",1999,17468,23507800,7.43
+"Uganda",2000,17542,24275641,7.23
+"Uganda",2001,17283,25088033,6.89
+"Uganda",2002,19099,25943441,7.36
+"Uganda",2003,20312,26838428,7.57
+"Uganda",2004,20939,27766986,7.54
+"Uganda",2005,20524,28724869,7.15
+"Uganda",2006,20356,29711397,6.85
+"Uganda",2007,21303,30728747,6.93
+"Uganda",2008,22766,31778799,7.16
+"Uganda",2009,23113,32864328,7.03
+"Uganda",2010,23439,33987213,6.9
+"Uganda",2011,24940,35148064,7.1
+"Uganda",2012,24862,36345860,6.84
+"Uganda",2013,25408,37578876,6.76
+"Ukraine",1995,8263,51146967,1.62
+"Ukraine",1996,9564,50821019,1.88
+"Ukraine",1997,9463,50421998,1.88
+"Ukraine",1998,10586,49974187,2.12
+"Ukraine",1999,10412,49510626,2.1
+"Ukraine",2000,10738,49057226,2.19
+"Ukraine",2001,11952,48620596,2.46
+"Ukraine",2003,12785,47807199,2.67
+"Ukraine",2006,18500,46871328,3.95
+"Ukraine",2007,25645,46653183,5.5
+"Ukraine",2008,35739,46461350,7.69
+"Ukraine",2009,33424,46267306,7.22
+"Ukraine",2010,3355,46050220,0.73
+"Ukraine",2011,10502,45802721,2.29
+"Ukraine",2012,27489,45529944,6.04
+"Ukraine",2013,34144,45238805,7.55
+"United Arab Emirates",1999,66,NA,NA
+"United Arab Emirates",2000,70,NA,NA
+"United Arab Emirates",2002,57,NA,NA
+"United Arab Emirates",2003,77,NA,NA
+"United Arab Emirates",2004,57,NA,NA
+"United Arab Emirates",2006,86,NA,NA
+"United Arab Emirates",2007,89,NA,NA
+"United Arab Emirates",2008,92,NA,NA
+"United Arab Emirates",2009,114,NA,NA
+"United Arab Emirates",2010,131,NA,NA
+"United Arab Emirates",2011,103,NA,NA
+"United Arab Emirates",2012,77,NA,NA
+"United Arab Emirates",2013,82,NA,NA
+"United Kingdom of Great Britain and Northern Ireland",1997,789,58346633,0.14
+"United Kingdom of Great Britain and Northern Ireland",1998,1342,58534306,0.23
+"United Kingdom of Great Britain and Northern Ireland",1999,796,58735006,0.14
+"United Kingdom of Great Britain and Northern Ireland",2000,1027,58951444,0.17
+"United Kingdom of Great Britain and Northern Ireland",2001,1090,59183774,0.18
+"United Kingdom of Great Britain and Northern Ireland",2002,1170,59431937,0.2
+"United Kingdom of Great Britain and Northern Ireland",2003,1133,59697954,0.19
+"United Kingdom of Great Britain and Northern Ireland",2004,1306,59984118,0.22
+"United Kingdom of Great Britain and Northern Ireland",2005,1346,60291414,0.22
+"United Kingdom of Great Britain and Northern Ireland",2006,8137,60620907,1.34
+"United Kingdom of Great Britain and Northern Ireland",2007,11176,60970360,1.83
+"United Kingdom of Great Britain and Northern Ireland",2008,6515,61333257,1.06
+"United Kingdom of Great Britain and Northern Ireland",2009,6988,61700797,1.13
+"United Kingdom of Great Britain and Northern Ireland",2010,7148,62066350,1.15
+"United Kingdom of Great Britain and Northern Ireland",2011,7828,62426923,1.25
+"United Kingdom of Great Britain and Northern Ireland",2012,7678,62783115,1.22
+"United Kingdom of Great Britain and Northern Ireland",2013,7384,63136265,1.17
+"United Republic of Tanzania",1995,19954,29944302,6.66
+"United Republic of Tanzania",1996,21472,30780453,6.98
+"United Republic of Tanzania",1997,21307,31586039,6.75
+"United Republic of Tanzania",1998,23833,32378333,7.36
+"United Republic of Tanzania",1999,24123,33183093,7.27
+"United Republic of Tanzania",2000,24039,34020512,7.07
+"United Republic of Tanzania",2001,24685,34895398,7.07
+"United Republic of Tanzania",2002,24136,35806497,6.74
+"United Republic of Tanzania",2003,24899,36760831,6.77
+"United Republic of Tanzania",2004,25823,37765139,6.84
+"United Republic of Tanzania",2005,25264,38824384,6.51
+"United Republic of Tanzania",2006,24724,39942347,6.19
+"United Republic of Tanzania",2007,24520,41119693,5.96
+"United Republic of Tanzania",2008,58890,42353790,13.9
+"United Republic of Tanzania",2009,60050,43639752,13.76
+"United Republic of Tanzania",2010,59678,44973330,13.27
+"United Republic of Tanzania",2011,28587,46354607,6.17
+"United Republic of Tanzania",2012,30063,47783107,6.29
+"United Republic of Tanzania",2013,6658,49253126,1.35
+"United States of America",1995,8091,268039654,0.3
+"United States of America",1996,7452,271231546,0.27
+"United States of America",1997,6934,274606475,0.25
+"United States of America",1998,6623,278053607,0.24
+"United States of America",1999,6274,281419130,0.22
+"United States of America",2000,5884,284594395,0.21
+"United States of America",2001,5651,287532638,0.2
+"United States of America",2002,5434,290270187,0.19
+"United States of America",2003,5365,292883010,0.18
+"United States of America",2004,5251,295487267,0.18
+"United States of America",2005,5089,298165797,0.17
+"United States of America",2006,13767,300942917,0.46
+"United States of America",2007,13283,303786752,0.44
+"United States of America",2008,12893,306657153,0.42
+"United States of America",2009,11370,309491893,0.37
+"United States of America",2010,10305,312247116,0.33
+"United States of America",2011,10319,314911752,0.33
+"United States of America",2012,9918,317505266,0.31
+"United States of America",2013,9106,320050716,0.28
+"Uruguay",1995,349,NA,NA
+"Uruguay",1996,426,NA,NA
+"Uruguay",1997,423,NA,NA
+"Uruguay",1998,374,NA,NA
+"Uruguay",1999,392,NA,NA
+"Uruguay",2000,348,NA,NA
+"Uruguay",2001,340,NA,NA
+"Uruguay",2002,308,NA,NA
+"Uruguay",2003,339,NA,NA
+"Uruguay",2004,373,NA,NA
+"Uruguay",2005,355,NA,NA
+"Uruguay",2006,527,NA,NA
+"Uruguay",2007,569,NA,NA
+"Uruguay",2008,652,NA,NA
+"Uruguay",2009,667,NA,NA
+"Uruguay",2010,592,NA,NA
+"Uruguay",2011,764,NA,NA
+"Uruguay",2012,760,NA,NA
+"Uruguay",2013,881,NA,NA
+"Uzbekistan",1996,3350,23381250,1.43
+"Uzbekistan",1998,39,24170760,0.02
+"Uzbekistan",1999,4175,24517962,1.7
+"Uzbekistan",2000,3825,24828562,1.54
+"Uzbekistan",2001,4598,25098636,1.83
+"Uzbekistan",2002,2766,25334021,1.09
+"Uzbekistan",2003,4690,25553928,1.84
+"Uzbekistan",2004,5119,25784397,1.99
+"Uzbekistan",2005,5695,26044401,2.19
+"Uzbekistan",2006,18574,26340696,7.05
+"Uzbekistan",2007,17911,26668950,6.72
+"Uzbekistan",2008,15971,27023200,5.91
+"Uzbekistan",2009,16569,27392784,6.05
+"Uzbekistan",2010,15734,27769270,5.67
+"Uzbekistan",2011,13995,28151746,4.97
+"Uzbekistan",2012,14132,28541423,4.95
+"Uzbekistan",2013,20812,28934102,7.19
+"Vanuatu",1995,30,NA,NA
+"Vanuatu",1996,50,NA,NA
+"Vanuatu",1998,38,NA,NA
+"Vanuatu",1999,24,NA,NA
+"Vanuatu",2000,69,NA,NA
+"Vanuatu",2001,57,NA,NA
+"Vanuatu",2002,38,NA,NA
+"Vanuatu",2003,40,NA,NA
+"Vanuatu",2004,59,NA,NA
+"Vanuatu",2005,35,NA,NA
+"Vanuatu",2006,42,NA,NA
+"Vanuatu",2007,41,NA,NA
+"Vanuatu",2008,40,NA,NA
+"Vanuatu",2009,128,NA,NA
+"Vanuatu",2010,112,NA,NA
+"Vanuatu",2011,109,NA,NA
+"Vanuatu",2012,124,NA,NA
+"Vanuatu",2013,123,NA,NA
+"Venezuela (Bolivarian Republic of)",1999,3670,23945002,1.53
+"Venezuela (Bolivarian Republic of)",2002,3444,25333622,1.36
+"Venezuela (Bolivarian Republic of)",2003,3882,25797219,1.5
+"Venezuela (Bolivarian Republic of)",2004,3776,26261326,1.44
+"Venezuela (Bolivarian Republic of)",2005,3653,26725897,1.37
+"Venezuela (Bolivarian Republic of)",2006,6448,27190882,2.37
+"Venezuela (Bolivarian Republic of)",2007,6075,27655937,2.2
+"Venezuela (Bolivarian Republic of)",2008,6059,28120312,2.15
+"Venezuela (Bolivarian Republic of)",2009,6213,28583040,2.17
+"Venezuela (Bolivarian Republic of)",2010,6087,29043283,2.1
+"Venezuela (Bolivarian Republic of)",2011,6069,29500625,2.06
+"Venezuela (Bolivarian Republic of)",2012,6206,29954782,2.07
+"Venezuela (Bolivarian Republic of)",2013,6555,30405207,2.16
+"Viet Nam",1996,48911,77166873,6.34
+"Viet Nam",1997,53647,78199254,6.86
+"Viet Nam",1998,54873,79140734,6.93
+"Viet Nam",1999,53805,80027521,6.72
+"Viet Nam",2000,53169,80887879,6.57
+"Viet Nam",2001,54202,81728768,6.63
+"Viet Nam",2002,56811,82547682,6.88
+"Viet Nam",2003,55937,83352595,6.71
+"Viet Nam",2004,58389,84150651,6.94
+"Viet Nam",2005,55570,84947852,6.54
+"Viet Nam",2006,56437,85747625,6.58
+"Viet Nam",2007,54460,86553201,6.29
+"Viet Nam",2008,53484,87369203,6.12
+"Viet Nam",2009,51290,88199997,5.82
+"Viet Nam",2010,52289,89047397,5.87
+"Viet Nam",2011,50751,89913956,5.64
+"Viet Nam",2012,51033,90795769,5.62
+"Viet Nam",2013,50607,91679733,5.52
+"Wallis and Futuna Islands",1996,8,NA,NA
+"Wallis and Futuna Islands",1997,1,NA,NA
+"Wallis and Futuna Islands",2002,10,NA,NA
+"Wallis and Futuna Islands",2003,7,NA,NA
+"Wallis and Futuna Islands",2007,2,NA,NA
+"Wallis and Futuna Islands",2009,3,NA,NA
+"Wallis and Futuna Islands",2011,8,NA,NA
+"Wallis and Futuna Islands",2013,2,NA,NA
+"West Bank and Gaza Strip",1995,9,NA,NA
+"West Bank and Gaza Strip",1996,24,NA,NA
+"West Bank and Gaza Strip",1998,8,NA,NA
+"West Bank and Gaza Strip",2003,15,NA,NA
+"West Bank and Gaza Strip",2004,4,NA,NA
+"West Bank and Gaza Strip",2005,7,NA,NA
+"West Bank and Gaza Strip",2006,42,NA,NA
+"West Bank and Gaza Strip",2007,34,NA,NA
+"West Bank and Gaza Strip",2008,36,NA,NA
+"West Bank and Gaza Strip",2009,34,NA,NA
+"West Bank and Gaza Strip",2010,31,NA,NA
+"West Bank and Gaza Strip",2011,29,NA,NA
+"West Bank and Gaza Strip",2012,31,NA,NA
+"Yemen",1995,3681,15018201,2.45
+"Yemen",1996,683,15578640,0.44
+"Yemen",1997,4718,16088019,2.93
+"Yemen",1998,4896,16564235,2.96
+"Yemen",1999,4130,17035531,2.42
+"Yemen",2000,5565,17522537,3.18
+"Yemen",2001,4968,18029989,2.76
+"Yemen",2002,4259,18551068,2.3
+"Yemen",2003,3793,19081306,1.99
+"Yemen",2004,3434,19612696,1.75
+"Yemen",2005,3379,20139661,1.68
+"Yemen",2006,3342,20661714,1.62
+"Yemen",2007,3537,21182162,1.67
+"Yemen",2008,3540,21703571,1.63
+"Yemen",2009,3576,22229625,1.61
+"Yemen",2010,3584,22763008,1.57
+"Yemen",2011,3135,23304206,1.35
+"Yemen",2012,9615,23852409,4.03
+"Yemen",2013,10327,24407381,4.23
+"Zambia",1995,8577,8841338,9.7
+"Zambia",2000,12927,10100981,12.8
+"Zambia",2002,16351,10625423,15.39
+"Zambia",2003,18934,10894519,17.38
+"Zambia",2004,17247,11174650,15.43
+"Zambia",2005,14857,11470022,12.95
+"Zambia",2006,14025,11781612,11.9
+"Zambia",2007,13378,12109620,11.05
+"Zambia",2008,13211,12456527,10.61
+"Zambia",2009,12866,12825031,10.03
+"Zambia",2011,41958,13633796,30.77
+"Zambia",2012,38869,14075099,27.62
+"Zambia",2013,40638,14538640,27.95
+"Zimbabwe",2002,11261,12640922,8.91
+"Zimbabwe",2003,14488,12673103,11.43
+"Zimbabwe",2004,14581,12693047,11.49
+"Zimbabwe",2005,13155,12710589,10.35
+"Zimbabwe",2006,43052,12724308,33.83
+"Zimbabwe",2007,38928,12740160,30.56
+"Zimbabwe",2008,36060,12784041,28.21
+"Zimbabwe",2009,41768,12888918,32.41
+"Zimbabwe",2010,42872,13076978,32.78
+"Zimbabwe",2011,36960,13358738,27.67
+"Zimbabwe",2012,34391,13724317,25.06
+"Zimbabwe",2013,32899,14149648,23.25

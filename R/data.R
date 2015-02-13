@@ -86,15 +86,23 @@
 "who"
 
 
-#' Population data
+#' TB rates
 #'
-#' Populations of 100 countries for 1995-2013 laid out in table format
+#' A subset of data from the World Health Organization Global 
+#' Tuberculosis Report, manipulated to show TB rates by country by year.
 #'
+#' @format A dataset with the variables
+#' \describe{
+#' \item{country}{}
+#' \item{year}{}
+#' \item{cases}{Number of new cases of TB reported}
+#' \item{population}{}
+#' \item{rate}{Number of new cases of TB reported per 10,000 people.}
+#' }
 #' 
 #' @source \url{http://www.who.int/tb/country/data/download/en/}
 #'
-"population"
-
+"rates"
 
 #' Raw TB data
 #'
@@ -112,6 +120,39 @@
 #' @source \url{http://www.who.int/tb/country/data/download/en/}
 #'
 "rawtb"
+
+#' Toy TB data
+#'
+#' A toy data set based on the \code{\link{tb}} data set. The data displays an imaginary number of TB cases grouped by country, year, and sex.
+#'
+#' @format A data frame with the columns
+#' \describe{
+#' \item{country}{}
+#' \item{year}{}
+#' \item{sex}{}
+#' \item{cases}
+#' }
+#' 
+"toyb"
+
+
+#' Population data
+#'
+#' Populations of 100 countries for 1995-2013 laid out in table format
+#'
+#' 
+#' @source \url{http://www.who.int/tb/country/data/download/en/}
+#'
+"population"
+
+#' Population data
+#'
+#' Populations of 100 countries for 1995-2013 laid out in tidy format
+#'
+#' 
+#' @source \url{http://www.who.int/tb/country/data/download/en/}
+#'
+"tidypop"
 
 
 #' Names of musicians
@@ -162,16 +203,9 @@
 #'
 "b"
 
-#' Toy TB data
+
+#' Toy data
 #'
-#' A toy data set based on the \code{\link{tb}} data set. The data displays an imaginary number of TB cases grouped by country, year, and sex.
+#' A data set that has a tricky set of missing values to work with.
 #'
-#' @format A data frame with the columns
-#' \describe{
-#' \item{country}{}
-#' \item{year}{}
-#' \item{sex}{}
-#' \item{cases}
-#' }
-#' 
-"rawtb"
+"nas"

@@ -4,7 +4,7 @@
 \name{b}
 \alias{b}
 \title{Toy data}
-\format{\preformatted{ num [1:3] 1 NA 3
+\format{\preformatted{ num [1:4] 1 NA 3 NA
 }}
 \usage{
 b
