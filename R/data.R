@@ -130,9 +130,8 @@
 #' \item{country}{}
 #' \item{year}{}
 #' \item{sex}{}
-#' \item{cases}
+#' \item{cases}{}
 #' }
-#' 
 "toyb"
 
 

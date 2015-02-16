@@ -9,7 +9,7 @@
 \item{country}{}
 \item{year}{}
 \item{sex}{}
-\item{cases}
+\item{cases}{}
 }}
 \usage{
 toyb

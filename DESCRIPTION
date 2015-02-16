@@ -6,6 +6,9 @@ Description: Data sets for Expert Data Analysis with R,
     a workshop by RStudio.
 Depends:
     R (>= 3.1.0)
+Imports:
+    forecast,
+    babynames
 License: CC0
 LazyData: true
 URL: http://github.com/rstudio/EDAWR
