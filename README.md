@@ -11,6 +11,6 @@
 
 * __tb__
 
-  Number of tuberculosis cases reported in France, Germany and United States 2011-2013. From [World Haelth Organization Global Tuberculosis Report](http://www.who.int/tb/country/data/download/en/).
+  Number of tuberculosis cases reported in France, Germany and United States 2011-2013. From [World Health Organization Global Tuberculosis Report](http://www.who.int/tb/country/data/download/en/).
 
 Install from github with `devtools::install_github("rstudio/EDAWR")`.
