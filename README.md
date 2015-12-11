@@ -1,4 +1,4 @@
-# Data sets for Expert Data Analysis with R workshop by [RStudio](www.rstudio.com)
+# Data sets for Expert Data Analysis with R workshop by [RStudio](http://www.rstudio.com)
 
 * __pollution__
   
